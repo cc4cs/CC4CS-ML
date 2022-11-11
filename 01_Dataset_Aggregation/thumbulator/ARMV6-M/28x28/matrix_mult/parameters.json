@@ -1,0 +1,14 @@
+{
+ "thumbulator":
+	{
+		"int8_t":{
+			"rows_a": "[2,15];6",
+			"columns_a": "[2,15];6",
+			"a[rows_a][columns_a]":"[-128,127]",
+
+			"rows_b":"[2,28];6",
+			"columns_b":"[2,28];6",
+			"b[rows_b][columns_b]":"[-128,127]"
+		}
+    }
+}

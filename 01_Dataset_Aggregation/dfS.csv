@@ -1,0 +1,17 @@
+;DEVICE;BOARD;FUNCTION;DATA_TYPE;DATA_START;DATA_RANGE;RANGE_S
+1;armulator;ARMV4T;binary_search;int8_t;2.0;26.0;1
+2;armulator;ARMV4T;fibcall;int8_t;2.0;9.0;1
+3;armulator;ARMV4T;gcd;int8_t;2.0;125.0;1
+4;armulator;ARMV4T;gcd;int8_t;2.0;125.0;1
+5;armulator;ARMV4T;park_miller;int8_t;2.0;9.0;1
+6;simulavr;Atmega328p;binary_search;int8_t;2.0;26.0;1
+7;simulavr;Atmega328p;fibcall;int8_t;2.0;9.0;1
+8;simulavr;Atmega328p;gcd;int8_t;2.0;125.0;1
+9;simulavr;Atmega328p;gcd;int8_t;2.0;125.0;1
+10;simulavr;Atmega328p;park_miller;int8_t;2.0;9.0;1
+11;Thumbulator;ARMV6-M;binary_search;int8_t;2.0;26.0;1
+12;tsim;LEON3;binary_search;int8_t;2.0;26.0;1
+13;tsim;LEON3;fibcall;int8_t;2.0;9.0;1
+14;tsim;LEON3;gcd;int8_t;2.0;125.0;1
+15;tsim;LEON3;gcd;int8_t;2.0;125.0;1
+16;tsim;LEON3;park_miller;int8_t;2.0;9.0;1

@@ -1,11 +1,10 @@
 {"tsim":
 	{
 		"int8_t":{
-			"n_process": "[2,28];32",
-			"n_resources": "[2,28];32",
-			"available[n_resources]": "[0,255]",
-			"allocated[n_process][n_resources]": "[0,255]",
-			"max[n_process][n_resources]": "[0,255]"
+			"size": "[2,28];1000",
+			"available[size]": "[0,255]",
+			"allocated[size][size]": "[0,255]",
+			"max[size][size]": "[0,255]"
 		}
     }
 }

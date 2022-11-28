@@ -2,7 +2,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-iss=['Atmega','Armv4t','Armv6-m','Leon3']
+iss=['Atmega328p','Armv4t','Armv6-m','Leon3']
 
 for x in iss:
 
@@ -33,11 +33,11 @@ for x in iss:
         corr_df = results.corr()
 
 
-        heatmap = sns.heatmap(corr_df, annot=True)
+        heatmap = sns.heatmap(corr_df.iloc[:, 0:32], annot=True)
         heatmap.set_title('Correlation Heatmap', fontdict={'fontsize':12}, pad=12)
         plt.title("HeatMap of "+x)
         plt.show()
 
-        fig=pd.plotting.scatter_matrix(corr_df.iloc[:, 0:10])
+        fig=pd.plotting.scatter_matrix(corr_df.iloc[:, 0:32])
         plt.title("ScatterMatrix of "+x)
         plt.show()

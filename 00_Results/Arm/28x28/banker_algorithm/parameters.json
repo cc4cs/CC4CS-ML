@@ -1,0 +1,11 @@
+{
+	"armulator":
+	{
+		"int8_t":{
+			"size": "[2,20];1000",
+			"available[size]": "[0,255]",
+			"allocated[size][size]": "[0,255]",
+			"max[size][size]": "[0,255]"
+		}
+	}
+}

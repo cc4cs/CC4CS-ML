@@ -1,9 +1,9 @@
-{
- "thumbulator":
+{	
+	"thumbulator":
 	{
 		"int8_t":
 		{
 			"n" : "[2,11];1000"
+			}
 		}
-}
-}
+	}

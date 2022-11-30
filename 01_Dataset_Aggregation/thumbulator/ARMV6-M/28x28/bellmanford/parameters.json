@@ -1,10 +1,12 @@
-{
- "thumbulator":
+{	
+	"thumbulator":
 	{
 		"int8_t":
 		{
 			"size" : "[2,28];1000",
 			"a[size][size]" : "[-127,127]"
 		}
-    }
+	
+	}
 }
+	

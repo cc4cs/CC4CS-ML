@@ -1,26 +1,21 @@
 
 import pandas as pd
 import csv
-iss=['Armv4T','Atmega328p','Leon3','Armv6-m']
-import csv
 
-with open("TotalParameterMatrixAtmega328p.csv","r") as disco:
-# Stiamo creando un oggetto del lettore csv
-    
-    csvreader_object=csv.reader(disco)
-# La riga salterà la prima riga del file csv (riga di intestazione)
-    features=next(csvreader_object)[0].split(';')
+iss=['Atmega328p','Armv4t','Armv6-m','Leon3']
+#create the dictionary, `my_dictionary`, using the fromkeys() method
 
+for x in iss:
+    results = pd.read_csv ("TotalParameterMatrix"+x+".csv",sep=';')
+    col=results.columns
 
-
-with open('Validation.csv', 'w') as csvfile:
-    for x in iss:
+with open('Validation.csv', 'w') as csvfile:        
         writer = csv.writer(csvfile)
-        writer.writerow(['feature','iss','function','val'])
+        writer.writerow(['feature','iss','function','val','input'])
         with open("./TotalParameterMatrix"+x+".csv", newline="", encoding="ISO-8859-1") as filecsv:
             lettore = pd.read_csv(filecsv,delimiter=";")
             for xx in range(len(lettore)):
-                for i in range(6,len(lettore.axes[1])-61):
-                    if lettore.iloc[:,i][xx]==0:
-                        writer.writerow([features[i],x,str(lettore.iloc[:,3][1]),0])
+                for i in range(6,104):
+                    if lettore.iloc[xx,i]==0:
+                        writer.writerow([col[i],x,str(lettore.iloc[xx,3]),0,lettore.iloc[xx,5]])
 

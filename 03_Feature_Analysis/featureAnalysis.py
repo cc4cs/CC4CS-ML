@@ -16,12 +16,12 @@ from sklearn.ensemble import RandomForestRegressor
 ESTIMATORS = 250
 
 
-df = pd.read_csv('TotalParameterMatrixARMV4T.csv', sep=';')
+df = pd.read_csv('TotalParameterMatrixWithInputs.csv', sep=';')
 del df['Unnamed: 0']
 
 listHeader = list(df.columns.values)
-y = df[listHeader[-2]].astype(float)
-del listHeader[-3:]
+y = df[listHeader[39]].astype(float)
+del listHeader[35:41]
 del listHeader[:5]
 del listHeader[-3]
 

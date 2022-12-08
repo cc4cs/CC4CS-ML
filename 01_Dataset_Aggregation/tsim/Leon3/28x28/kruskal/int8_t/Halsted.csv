@@ -1,3001 +1,13001 @@
-inputName,UserError,CAborted
-values_242," stopping on
-"," stopping on
-"
-values_505," stopping on
-"," stopping on
-"
-values_924," stopping on
-"," stopping on
-"
-values_862," stopping on
-"," stopping on
-"
-values_287," stopping on
-"," stopping on
-"
-values_733," stopping on
-"," stopping on
-"
-values_813," stopping on
-"," stopping on
-"
-values_11," stopping on
-"," stopping on
-"
-values_19," stopping on
-"," stopping on
-"
-values_999," stopping on
-"," stopping on
-"
-values_134," stopping on
-"," stopping on
-"
-values_609," stopping on
-"," stopping on
-"
-values_993," stopping on
-"," stopping on
-"
-values_731," stopping on
-"," stopping on
-"
-values_127," stopping on
-"," stopping on
-"
-values_889," stopping on
-"," stopping on
-"
-values_987," stopping on
-"," stopping on
-"
-values_780," stopping on
-"," stopping on
-"
-values_435," stopping on
-"," stopping on
-"
-values_950," stopping on
-"," stopping on
-"
-values_976," stopping on
-"," stopping on
-"
-values_557," stopping on
-"," stopping on
-"
-values_398," stopping on
-"," stopping on
-"
-values_892," stopping on
-"," stopping on
-"
-values_670," stopping on
-"," stopping on
-"
-values_574," stopping on
-"," stopping on
-"
-values_163," stopping on
-"," stopping on
-"
-values_900," stopping on
-"," stopping on
-"
-values_392," stopping on
-"," stopping on
-"
-values_447," stopping on
-"," stopping on
-"
-values_523," stopping on
-"," stopping on
-"
-values_679," stopping on
-"," stopping on
-"
-values_419," stopping on
-"," stopping on
-"
-values_895," stopping on
-"," stopping on
-"
-values_298," stopping on
-"," stopping on
-"
-values_155," stopping on
-"," stopping on
-"
-values_12," stopping on
-"," stopping on
-"
-values_160," stopping on
-"," stopping on
-"
-values_626," stopping on
-"," stopping on
-"
-values_38," stopping on
-"," stopping on
-"
-values_146," stopping on
-"," stopping on
-"
-values_81," stopping on
-"," stopping on
-"
-values_687," stopping on
-"," stopping on
-"
-values_213," stopping on
-"," stopping on
-"
-values_212," stopping on
-"," stopping on
-"
-values_568," stopping on
-"," stopping on
-"
-values_5," stopping on
-"," stopping on
-"
-values_40," stopping on
-"," stopping on
-"
-values_970," stopping on
-"," stopping on
-"
-values_707," stopping on
-"," stopping on
-"
-values_406," stopping on
-"," stopping on
-"
-values_893," stopping on
-"," stopping on
-"
-values_144," stopping on
-"," stopping on
-"
-values_979," stopping on
-"," stopping on
-"
-values_831," stopping on
-"," stopping on
-"
-values_402," stopping on
-"," stopping on
-"
-values_404," stopping on
-"," stopping on
-"
-values_310," stopping on
-"," stopping on
-"
-values_70," stopping on
-"," stopping on
-"
-values_268," stopping on
-"," stopping on
-"
-values_412," stopping on
-"," stopping on
-"
-values_290," stopping on
-"," stopping on
-"
-values_916," stopping on
-"," stopping on
-"
-values_567," stopping on
-"," stopping on
-"
-values_913," stopping on
-"," stopping on
-"
-values_232," stopping on
-"," stopping on
-"
-values_319," stopping on
-"," stopping on
-"
-values_23," stopping on
-"," stopping on
-"
-values_899," stopping on
-"," stopping on
-"
-values_428," stopping on
-"," stopping on
-"
-values_858," stopping on
-"," stopping on
-"
-values_546," stopping on
-"," stopping on
-"
-values_432," stopping on
-"," stopping on
-"
-values_231," stopping on
-"," stopping on
-"
-values_388," stopping on
-"," stopping on
-"
-values_350," stopping on
-"," stopping on
-"
-values_603," stopping on
-"," stopping on
-"
-values_364," stopping on
-"," stopping on
-"
-values_530," stopping on
-"," stopping on
-"
-values_72," stopping on
-"," stopping on
-"
-values_536," stopping on
-"," stopping on
-"
-values_79," stopping on
-"," stopping on
-"
-values_342," stopping on
-"," stopping on
-"
-values_803," stopping on
-"," stopping on
-"
-values_501," stopping on
-"," stopping on
-"
-values_540," stopping on
-"," stopping on
-"
-values_955," stopping on
-"," stopping on
-"
-values_191," stopping on
-"," stopping on
-"
-values_812," stopping on
-"," stopping on
-"
-values_545," stopping on
-"," stopping on
-"
-values_78," stopping on
-"," stopping on
-"
-values_526," stopping on
-"," stopping on
-"
-values_695," stopping on
-"," stopping on
-"
-values_87," stopping on
-"," stopping on
-"
-values_300," stopping on
-"," stopping on
-"
-values_964," stopping on
-"," stopping on
-"
-values_998," stopping on
-"," stopping on
-"
-values_988," stopping on
-"," stopping on
-"
-values_6," stopping on
-"," stopping on
-"
-values_625," stopping on
-"," stopping on
-"
-values_518," stopping on
-"," stopping on
-"
-values_122," stopping on
-"," stopping on
-"
-values_541," stopping on
-"," stopping on
-"
-values_279," stopping on
-"," stopping on
-"
-values_256," stopping on
-"," stopping on
-"
-values_796," stopping on
-"," stopping on
-"
-values_504," stopping on
-"," stopping on
-"
-values_752," stopping on
-"," stopping on
-"
-values_459," stopping on
-"," stopping on
-"
-values_658," stopping on
-"," stopping on
-"
-values_408," stopping on
-"," stopping on
-"
-values_867," stopping on
-"," stopping on
-"
-values_727," stopping on
-"," stopping on
-"
-values_177," stopping on
-"," stopping on
-"
-values_823," stopping on
-"," stopping on
-"
-values_822," stopping on
-"," stopping on
-"
-values_218," stopping on
-"," stopping on
-"
-values_426," stopping on
-"," stopping on
-"
-values_776," stopping on
-"," stopping on
-"
-values_143," stopping on
-"," stopping on
-"
-values_739," stopping on
-"," stopping on
-"
-values_312," stopping on
-"," stopping on
-"
-values_174," stopping on
-"," stopping on
-"
-values_669," stopping on
-"," stopping on
-"
-values_120," stopping on
-"," stopping on
-"
-values_974," stopping on
-"," stopping on
-"
-values_217," stopping on
-"," stopping on
-"
-values_866," stopping on
-"," stopping on
-"
-values_192," stopping on
-"," stopping on
-"
-values_328," stopping on
-"," stopping on
-"
-values_68," stopping on
-"," stopping on
-"
-values_387," stopping on
-"," stopping on
-"
-values_69," stopping on
-"," stopping on
-"
-values_749," stopping on
-"," stopping on
-"
-values_135," stopping on
-"," stopping on
-"
-values_341," stopping on
-"," stopping on
-"
-values_494," stopping on
-"," stopping on
-"
-values_1," stopping on
-"," stopping on
-"
-values_589," stopping on
-"," stopping on
-"
-values_925," stopping on
-"," stopping on
-"
-values_524," stopping on
-"," stopping on
-"
-values_994," stopping on
-"," stopping on
-"
-values_856," stopping on
-"," stopping on
-"
-values_156," stopping on
-"," stopping on
-"
-values_470," stopping on
-"," stopping on
-"
-values_207," stopping on
-"," stopping on
-"
-values_655," stopping on
-"," stopping on
-"
-values_441," stopping on
-"," stopping on
-"
-values_109," stopping on
-"," stopping on
-"
-values_45," stopping on
-"," stopping on
-"
-values_125," stopping on
-"," stopping on
-"
-values_600," stopping on
-"," stopping on
-"
-values_708," stopping on
-"," stopping on
-"
-values_791," stopping on
-"," stopping on
-"
-values_912," stopping on
-"," stopping on
-"
-values_533," stopping on
-"," stopping on
-"
-values_418," stopping on
-"," stopping on
-"
-values_228," stopping on
-"," stopping on
-"
-values_585," stopping on
-"," stopping on
-"
-values_465," stopping on
-"," stopping on
-"
-values_239," stopping on
-"," stopping on
-"
-values_842," stopping on
-"," stopping on
-"
-values_208," stopping on
-"," stopping on
-"
-values_932," stopping on
-"," stopping on
-"
-values_957," stopping on
-"," stopping on
-"
-values_563," stopping on
-"," stopping on
-"
-values_766," stopping on
-"," stopping on
-"
-values_476," stopping on
-"," stopping on
-"
-values_175," stopping on
-"," stopping on
-"
-values_591," stopping on
-"," stopping on
-"
-values_997," stopping on
-"," stopping on
-"
-values_385," stopping on
-"," stopping on
-"
-values_115," stopping on
-"," stopping on
-"
-values_653," stopping on
-"," stopping on
-"
-values_753," stopping on
-"," stopping on
-"
-values_241," stopping on
-"," stopping on
-"
-values_197," stopping on
-"," stopping on
-"
-values_636," stopping on
-"," stopping on
-"
-values_450," stopping on
-"," stopping on
-"
-values_106," stopping on
-"," stopping on
-"
-values_699," stopping on
-"," stopping on
-"
-values_578," stopping on
-"," stopping on
-"
-values_644," stopping on
-"," stopping on
-"
-values_570," stopping on
-"," stopping on
-"
-values_873," stopping on
-"," stopping on
-"
-values_33," stopping on
-"," stopping on
-"
-values_210," stopping on
-"," stopping on
-"
-values_486," stopping on
-"," stopping on
-"
-values_252," stopping on
-"," stopping on
-"
-values_694," stopping on
-"," stopping on
-"
-values_759," stopping on
-"," stopping on
-"
-values_245," stopping on
-"," stopping on
-"
-values_15," stopping on
-"," stopping on
-"
-values_792," stopping on
-"," stopping on
-"
-values_248," stopping on
-"," stopping on
-"
-values_246," stopping on
-"," stopping on
-"
-values_556," stopping on
-"," stopping on
-"
-values_513," stopping on
-"," stopping on
-"
-values_93," stopping on
-"," stopping on
-"
-values_558," stopping on
-"," stopping on
-"
-values_991," stopping on
-"," stopping on
-"
-values_181," stopping on
-"," stopping on
-"
-values_674," stopping on
-"," stopping on
-"
-values_652," stopping on
-"," stopping on
-"
-values_344," stopping on
-"," stopping on
-"
-values_715," stopping on
-"," stopping on
-"
-values_528," stopping on
-"," stopping on
-"
-values_276," stopping on
-"," stopping on
-"
-values_24," stopping on
-"," stopping on
-"
-values_296," stopping on
-"," stopping on
-"
-values_244," stopping on
-"," stopping on
-"
-values_380," stopping on
-"," stopping on
-"
-values_25," stopping on
-"," stopping on
-"
-values_740," stopping on
-"," stopping on
-"
-values_478," stopping on
-"," stopping on
-"
-values_379," stopping on
-"," stopping on
-"
-values_810," stopping on
-"," stopping on
-"
-values_440," stopping on
-"," stopping on
-"
-values_543," stopping on
-"," stopping on
-"
-values_130," stopping on
-"," stopping on
-"
-values_225," stopping on
-"," stopping on
-"
-values_285," stopping on
-"," stopping on
-"
-values_363," stopping on
-"," stopping on
-"
-values_667," stopping on
-"," stopping on
-"
-values_26," stopping on
-"," stopping on
-"
-values_793," stopping on
-"," stopping on
-"
-values_772," stopping on
-"," stopping on
-"
-values_931," stopping on
-"," stopping on
-"
-values_981," stopping on
-"," stopping on
-"
-values_422," stopping on
-"," stopping on
-"
-values_920," stopping on
-"," stopping on
-"
-values_259," stopping on
-"," stopping on
-"
-values_477," stopping on
-"," stopping on
-"
-values_738," stopping on
-"," stopping on
-"
-values_430," stopping on
-"," stopping on
-"
-values_922," stopping on
-"," stopping on
-"
-values_903," stopping on
-"," stopping on
-"
-values_761," stopping on
-"," stopping on
-"
-values_204," stopping on
-"," stopping on
-"
-values_48," stopping on
-"," stopping on
-"
-values_71," stopping on
-"," stopping on
-"
-values_851," stopping on
-"," stopping on
-"
-values_347," stopping on
-"," stopping on
-"
-values_725," stopping on
-"," stopping on
-"
-values_266," stopping on
-"," stopping on
-"
-values_448," stopping on
-"," stopping on
-"
-values_934," stopping on
-"," stopping on
-"
-values_531," stopping on
-"," stopping on
-"
-values_224," stopping on
-"," stopping on
-"
-values_686," stopping on
-"," stopping on
-"
-values_927," stopping on
-"," stopping on
-"
-values_407," stopping on
-"," stopping on
-"
-values_76," stopping on
-"," stopping on
-"
-values_949," stopping on
-"," stopping on
-"
-values_969," stopping on
-"," stopping on
-"
-values_781," stopping on
-"," stopping on
-"
-values_7," stopping on
-"," stopping on
-"
-values_683," stopping on
-"," stopping on
-"
-values_376," stopping on
-"," stopping on
-"
-values_877," stopping on
-"," stopping on
-"
-values_654," stopping on
-"," stopping on
-"
-values_508," stopping on
-"," stopping on
-"
-values_332," stopping on
-"," stopping on
-"
-values_281," stopping on
-"," stopping on
-"
-values_381," stopping on
-"," stopping on
-"
-values_769," stopping on
-"," stopping on
-"
-values_701," stopping on
-"," stopping on
-"
-values_855," stopping on
-"," stopping on
-"
-values_320," stopping on
-"," stopping on
-"
-values_50," stopping on
-"," stopping on
-"
-values_918," stopping on
-"," stopping on
-"
-values_615," stopping on
-"," stopping on
-"
-values_704," stopping on
-"," stopping on
-"
-values_633," stopping on
-"," stopping on
-"
-values_847," stopping on
-"," stopping on
-"
-values_602," stopping on
-"," stopping on
-"
-values_399," stopping on
-"," stopping on
-"
-values_22," stopping on
-"," stopping on
-"
-values_313," stopping on
-"," stopping on
-"
-values_375," stopping on
-"," stopping on
-"
-values_963," stopping on
-"," stopping on
-"
-values_168," stopping on
-"," stopping on
-"
-values_226," stopping on
-"," stopping on
-"
-values_190," stopping on
-"," stopping on
-"
-values_429," stopping on
-"," stopping on
-"
-values_236," stopping on
-"," stopping on
-"
-values_777," stopping on
-"," stopping on
-"
-values_909," stopping on
-"," stopping on
-"
-values_438," stopping on
-"," stopping on
-"
-values_607," stopping on
-"," stopping on
-"
-values_717," stopping on
-"," stopping on
-"
-values_782," stopping on
-"," stopping on
-"
-values_258," stopping on
-"," stopping on
-"
-values_872," stopping on
-"," stopping on
-"
-values_637," stopping on
-"," stopping on
-"
-values_746," stopping on
-"," stopping on
-"
-values_4," stopping on
-"," stopping on
-"
-values_345," stopping on
-"," stopping on
-"
-values_102," stopping on
-"," stopping on
-"
-values_962," stopping on
-"," stopping on
-"
-values_356," stopping on
-"," stopping on
-"
-values_853," stopping on
-"," stopping on
-"
-values_849," stopping on
-"," stopping on
-"
-values_814," stopping on
-"," stopping on
-"
-values_370," stopping on
-"," stopping on
-"
-values_778," stopping on
-"," stopping on
-"
-values_458," stopping on
-"," stopping on
-"
-values_818," stopping on
-"," stopping on
-"
-values_119," stopping on
-"," stopping on
-"
-values_373," stopping on
-"," stopping on
-"
-values_351," stopping on
-"," stopping on
-"
-values_32," stopping on
-"," stopping on
-"
-values_770," stopping on
-"," stopping on
-"
-values_371," stopping on
-"," stopping on
-"
-values_283," stopping on
-"," stopping on
-"
-values_535," stopping on
-"," stopping on
-"
-values_250," stopping on
-"," stopping on
-"
-values_132," stopping on
-"," stopping on
-"
-values_649," stopping on
-"," stopping on
-"
-values_77," stopping on
-"," stopping on
-"
-values_260," stopping on
-"," stopping on
-"
-values_891," stopping on
-"," stopping on
-"
-values_91," stopping on
-"," stopping on
-"
-values_137," stopping on
-"," stopping on
-"
-values_42," stopping on
-"," stopping on
-"
-values_13," stopping on
-"," stopping on
-"
-values_577," stopping on
-"," stopping on
-"
-values_41," stopping on
-"," stopping on
-"
-values_809," stopping on
-"," stopping on
-"
-values_414," stopping on
-"," stopping on
-"
-values_360," stopping on
-"," stopping on
-"
-values_386," stopping on
-"," stopping on
-"
-values_158," stopping on
-"," stopping on
-"
-values_904," stopping on
-"," stopping on
-"
-values_480," stopping on
-"," stopping on
-"
-values_647," stopping on
-"," stopping on
-"
-values_104," stopping on
-"," stopping on
-"
-values_55," stopping on
-"," stopping on
-"
-values_491," stopping on
-"," stopping on
-"
-values_391," stopping on
-"," stopping on
-"
-values_972," stopping on
-"," stopping on
-"
-values_571," stopping on
-"," stopping on
-"
-values_940," stopping on
-"," stopping on
-"
-values_861," stopping on
-"," stopping on
-"
-values_324," stopping on
-"," stopping on
-"
-values_549," stopping on
-"," stopping on
-"
-values_170," stopping on
-"," stopping on
-"
-values_269," stopping on
-"," stopping on
-"
-values_442," stopping on
-"," stopping on
-"
-values_520," stopping on
-"," stopping on
-"
-values_455," stopping on
-"," stopping on
-"
-values_31," stopping on
-"," stopping on
-"
-values_971," stopping on
-"," stopping on
-"
-values_397," stopping on
-"," stopping on
-"
-values_254," stopping on
-"," stopping on
-"
-values_616," stopping on
-"," stopping on
-"
-values_66," stopping on
-"," stopping on
-"
-values_943," stopping on
-"," stopping on
-"
-values_117," stopping on
-"," stopping on
-"
-values_451," stopping on
-"," stopping on
-"
-values_643," stopping on
-"," stopping on
-"
-values_688," stopping on
-"," stopping on
-"
-values_569," stopping on
-"," stopping on
-"
-values_745," stopping on
-"," stopping on
-"
-values_65," stopping on
-"," stopping on
-"
-values_980," stopping on
-"," stopping on
-"
-values_982," stopping on
-"," stopping on
-"
-values_62," stopping on
-"," stopping on
-"
-values_789," stopping on
-"," stopping on
-"
-values_401," stopping on
-"," stopping on
-"
-values_21," stopping on
-"," stopping on
-"
-values_598," stopping on
-"," stopping on
-"
-values_273," stopping on
-"," stopping on
-"
-values_534," stopping on
-"," stopping on
-"
-values_118," stopping on
-"," stopping on
-"
-values_141," stopping on
-"," stopping on
-"
-values_366," stopping on
-"," stopping on
-"
-values_222," stopping on
-"," stopping on
-"
-values_876," stopping on
-"," stopping on
-"
-values_700," stopping on
-"," stopping on
-"
-values_95," stopping on
-"," stopping on
-"
-values_806," stopping on
-"," stopping on
-"
-values_671," stopping on
-"," stopping on
-"
-values_816," stopping on
-"," stopping on
-"
-values_630," stopping on
-"," stopping on
-"
-values_433," stopping on
-"," stopping on
-"
-values_905," stopping on
-"," stopping on
-"
-values_84," stopping on
-"," stopping on
-"
-values_233," stopping on
-"," stopping on
-"
-values_664," stopping on
-"," stopping on
-"
-values_162," stopping on
-"," stopping on
-"
-values_681," stopping on
-"," stopping on
-"
-values_542," stopping on
-"," stopping on
-"
-values_169," stopping on
-"," stopping on
-"
-values_660," stopping on
-"," stopping on
-"
-values_488," stopping on
-"," stopping on
-"
-values_894," stopping on
-"," stopping on
-"
-values_828," stopping on
-"," stopping on
-"
-values_537," stopping on
-"," stopping on
-"
-values_845," stopping on
-"," stopping on
-"
-values_584," stopping on
-"," stopping on
-"
-values_457," stopping on
-"," stopping on
-"
-values_499," stopping on
-"," stopping on
-"
-values_369," stopping on
-"," stopping on
-"
-values_58," stopping on
-"," stopping on
-"
-values_64," stopping on
-"," stopping on
-"
-values_196," stopping on
-"," stopping on
-"
-values_462," stopping on
-"," stopping on
-"
-values_343," stopping on
-"," stopping on
-"
-values_262," stopping on
-"," stopping on
-"
-values_966," stopping on
-"," stopping on
-"
-values_261," stopping on
-"," stopping on
-"
-values_349," stopping on
-"," stopping on
-"
-values_263," stopping on
-"," stopping on
-"
-values_801," stopping on
-"," stopping on
-"
-values_292," stopping on
-"," stopping on
-"
-values_786," stopping on
-"," stopping on
-"
-values_101," stopping on
-"," stopping on
-"
-values_691," stopping on
-"," stopping on
-"
-values_926," stopping on
-"," stopping on
-"
-values_754," stopping on
-"," stopping on
-"
-values_215," stopping on
-"," stopping on
-"
-values_977," stopping on
-"," stopping on
-"
-values_850," stopping on
-"," stopping on
-"
-values_646," stopping on
-"," stopping on
-"
-values_628," stopping on
-"," stopping on
-"
-values_941," stopping on
-"," stopping on
-"
-values_353," stopping on
-"," stopping on
-"
-values_690," stopping on
-"," stopping on
-"
-values_961," stopping on
-"," stopping on
-"
-values_331," stopping on
-"," stopping on
-"
-values_377," stopping on
-"," stopping on
-"
-values_128," stopping on
-"," stopping on
-"
-values_336," stopping on
-"," stopping on
-"
-values_632," stopping on
-"," stopping on
-"
-values_166," stopping on
-"," stopping on
-"
-values_744," stopping on
-"," stopping on
-"
-values_837," stopping on
-"," stopping on
-"
-values_807," stopping on
-"," stopping on
-"
-values_838," stopping on
-"," stopping on
-"
-values_723," stopping on
-"," stopping on
-"
-values_874," stopping on
-"," stopping on
-"
-values_627," stopping on
-"," stopping on
-"
-values_555," stopping on
-"," stopping on
-"
-values_446," stopping on
-"," stopping on
-"
-values_716," stopping on
-"," stopping on
-"
-values_240," stopping on
-"," stopping on
-"
-values_140," stopping on
-"," stopping on
-"
-values_317," stopping on
-"," stopping on
-"
-values_83," stopping on
-"," stopping on
-"
-values_696," stopping on
-"," stopping on
-"
-values_413," stopping on
-"," stopping on
-"
-values_94," stopping on
-"," stopping on
-"
-values_937," stopping on
-"," stopping on
-"
-values_199," stopping on
-"," stopping on
-"
-values_596," stopping on
-"," stopping on
-"
-values_0," stopping on
-"," stopping on
-"
-values_953," stopping on
-"," stopping on
-"
-values_906," stopping on
-"," stopping on
-"
-values_742," stopping on
-"," stopping on
-"
-values_396," stopping on
-"," stopping on
-"
-values_159," stopping on
-"," stopping on
-"
-values_238," stopping on
-"," stopping on
-"
-values_136," stopping on
-"," stopping on
-"
-values_915," stopping on
-"," stopping on
-"
-values_99," stopping on
-"," stopping on
-"
-values_771," stopping on
-"," stopping on
-"
-values_96," stopping on
-"," stopping on
-"
-values_768," stopping on
-"," stopping on
-"
-values_67," stopping on
-"," stopping on
-"
-values_565," stopping on
-"," stopping on
-"
-values_848," stopping on
-"," stopping on
-"
-values_114," stopping on
-"," stopping on
-"
-values_61," stopping on
-"," stopping on
-"
-values_511," stopping on
-"," stopping on
-"
-values_729," stopping on
-"," stopping on
-"
-values_460," stopping on
-"," stopping on
-"
-values_832," stopping on
-"," stopping on
-"
-values_348," stopping on
-"," stopping on
-"
-values_182," stopping on
-"," stopping on
-"
-values_986," stopping on
-"," stopping on
-"
-values_180," stopping on
-"," stopping on
-"
-values_930," stopping on
-"," stopping on
-"
-values_274," stopping on
-"," stopping on
-"
-values_309," stopping on
-"," stopping on
-"
-values_496," stopping on
-"," stopping on
-"
-values_165," stopping on
-"," stopping on
-"
-values_553," stopping on
-"," stopping on
-"
-values_870," stopping on
-"," stopping on
-"
-values_795," stopping on
-"," stopping on
-"
-values_361," stopping on
-"," stopping on
-"
-values_302," stopping on
-"," stopping on
-"
-values_586," stopping on
-"," stopping on
-"
-values_880," stopping on
-"," stopping on
-"
-values_665," stopping on
-"," stopping on
-"
-values_527," stopping on
-"," stopping on
-"
-values_372," stopping on
-"," stopping on
-"
-values_382," stopping on
-"," stopping on
-"
-values_43," stopping on
-"," stopping on
-"
-values_935," stopping on
-"," stopping on
-"
-values_2," stopping on
-"," stopping on
-"
-values_790," stopping on
-"," stopping on
-"
-values_152," stopping on
-"," stopping on
-"
-values_871," stopping on
-"," stopping on
-"
-values_434," stopping on
-"," stopping on
-"
-values_775," stopping on
-"," stopping on
-"
-values_500," stopping on
-"," stopping on
-"
-values_220," stopping on
-"," stopping on
-"
-values_875," stopping on
-"," stopping on
-"
-values_249," stopping on
-"," stopping on
-"
-values_808," stopping on
-"," stopping on
-"
-values_859," stopping on
-"," stopping on
-"
-values_539," stopping on
-"," stopping on
-"
-values_635," stopping on
-"," stopping on
-"
-values_311," stopping on
-"," stopping on
-"
-values_183," stopping on
-"," stopping on
-"
-values_54," stopping on
-"," stopping on
-"
-values_390," stopping on
-"," stopping on
-"
-values_890," stopping on
-"," stopping on
-"
-values_711," stopping on
-"," stopping on
-"
-values_471," stopping on
-"," stopping on
-"
-values_995," stopping on
-"," stopping on
-"
-values_443," stopping on
-"," stopping on
-"
-values_464," stopping on
-"," stopping on
-"
-values_774," stopping on
-"," stopping on
-"
-values_200," stopping on
-"," stopping on
-"
-values_747," stopping on
-"," stopping on
-"
-values_758," stopping on
-"," stopping on
-"
-values_30," stopping on
-"," stopping on
-"
-values_820," stopping on
-"," stopping on
-"
-values_393," stopping on
-"," stopping on
-"
-values_576," stopping on
-"," stopping on
-"
-values_445," stopping on
-"," stopping on
-"
-values_662," stopping on
-"," stopping on
-"
-values_403," stopping on
-"," stopping on
-"
-values_640," stopping on
-"," stopping on
-"
-values_59," stopping on
-"," stopping on
-"
-values_490," stopping on
-"," stopping on
-"
-values_194," stopping on
-"," stopping on
-"
-values_751," stopping on
-"," stopping on
-"
-values_663," stopping on
-"," stopping on
-"
-values_938," stopping on
-"," stopping on
-"
-values_532," stopping on
-"," stopping on
-"
-values_885," stopping on
-"," stopping on
-"
-values_713," stopping on
-"," stopping on
-"
-values_193," stopping on
-"," stopping on
-"
-values_650," stopping on
-"," stopping on
-"
-values_564," stopping on
-"," stopping on
-"
-values_267," stopping on
-"," stopping on
-"
-values_147," stopping on
-"," stopping on
-"
-values_709," stopping on
-"," stopping on
-"
-values_857," stopping on
-"," stopping on
-"
-values_334," stopping on
-"," stopping on
-"
-values_965," stopping on
-"," stopping on
-"
-values_824," stopping on
-"," stopping on
-"
-values_784," stopping on
-"," stopping on
-"
-values_229," stopping on
-"," stopping on
-"
-values_538," stopping on
-"," stopping on
-"
-values_463," stopping on
-"," stopping on
-"
-values_741," stopping on
-"," stopping on
-"
-values_85," stopping on
-"," stopping on
-"
-values_493," stopping on
-"," stopping on
-"
-values_794," stopping on
-"," stopping on
-"
-values_202," stopping on
-"," stopping on
-"
-values_74," stopping on
-"," stopping on
-"
-values_410," stopping on
-"," stopping on
-"
-values_469," stopping on
-"," stopping on
-"
-values_394," stopping on
-"," stopping on
-"
-values_149," stopping on
-"," stopping on
-"
-values_945," stopping on
-"," stopping on
-"
-values_293," stopping on
-"," stopping on
-"
-values_456," stopping on
-"," stopping on
-"
-values_975," stopping on
-"," stopping on
-"
-values_547," stopping on
-"," stopping on
-"
-values_164," stopping on
-"," stopping on
-"
-values_720," stopping on
-"," stopping on
-"
-values_833," stopping on
-"," stopping on
-"
-values_90," stopping on
-"," stopping on
-"
-values_954," stopping on
-"," stopping on
-"
-values_483," stopping on
-"," stopping on
-"
-values_990," stopping on
-"," stopping on
-"
-values_113," stopping on
-"," stopping on
-"
-values_878," stopping on
-"," stopping on
-"
-values_942," stopping on
-"," stopping on
-"
-values_126," stopping on
-"," stopping on
-"
-values_666," stopping on
-"," stopping on
-"
-values_960," stopping on
-"," stopping on
-"
-values_783," stopping on
-"," stopping on
-"
-values_735," stopping on
-"," stopping on
-"
-values_439," stopping on
-"," stopping on
-"
-values_860," stopping on
-"," stopping on
-"
-values_18," stopping on
-"," stopping on
-"
-values_173," stopping on
-"," stopping on
-"
-values_454," stopping on
-"," stopping on
-"
-values_176," stopping on
-"," stopping on
-"
-values_698," stopping on
-"," stopping on
-"
-values_869," stopping on
-"," stopping on
-"
-values_697," stopping on
-"," stopping on
-"
-values_509," stopping on
-"," stopping on
-"
-values_189," stopping on
-"," stopping on
-"
-values_714," stopping on
-"," stopping on
-"
-values_270," stopping on
-"," stopping on
-"
-values_863," stopping on
-"," stopping on
-"
-values_548," stopping on
-"," stopping on
-"
-values_359," stopping on
-"," stopping on
-"
-values_512," stopping on
-"," stopping on
-"
-values_656," stopping on
-"," stopping on
-"
-values_684," stopping on
-"," stopping on
-"
-values_171," stopping on
-"," stopping on
-"
-values_675," stopping on
-"," stopping on
-"
-values_657," stopping on
-"," stopping on
-"
-values_333," stopping on
-"," stopping on
-"
-values_599," stopping on
-"," stopping on
-"
-values_129," stopping on
-"," stopping on
-"
-values_886," stopping on
-"," stopping on
-"
-values_107," stopping on
-"," stopping on
-"
-values_272," stopping on
-"," stopping on
-"
-values_52," stopping on
-"," stopping on
-"
-values_819," stopping on
-"," stopping on
-"
-values_682," stopping on
-"," stopping on
-"
-values_44," stopping on
-"," stopping on
-"
-values_914," stopping on
-"," stopping on
-"
-values_346," stopping on
-"," stopping on
-"
-values_151," stopping on
-"," stopping on
-"
-values_550," stopping on
-"," stopping on
-"
-values_326," stopping on
-"," stopping on
-"
-values_836," stopping on
-"," stopping on
-"
-values_437," stopping on
-"," stopping on
-"
-values_984," stopping on
-"," stopping on
-"
-values_17," stopping on
-"," stopping on
-"
-values_748," stopping on
-"," stopping on
-"
-values_581," stopping on
-"," stopping on
-"
-values_705," stopping on
-"," stopping on
-"
-values_121," stopping on
-"," stopping on
-"
-values_219," stopping on
-"," stopping on
-"
-values_321," stopping on
-"," stopping on
-"
-values_843," stopping on
-"," stopping on
-"
-values_606," stopping on
-"," stopping on
-"
-values_898," stopping on
-"," stopping on
-"
-values_601," stopping on
-"," stopping on
-"
-values_36," stopping on
-"," stopping on
-"
-values_282," stopping on
-"," stopping on
-"
-values_395," stopping on
-"," stopping on
-"
-values_449," stopping on
-"," stopping on
-"
-values_209," stopping on
-"," stopping on
-"
-values_956," stopping on
-"," stopping on
-"
-values_579," stopping on
-"," stopping on
-"
-values_484," stopping on
-"," stopping on
-"
-values_521," stopping on
-"," stopping on
-"
-values_617," stopping on
-"," stopping on
-"
-values_516," stopping on
-"," stopping on
-"
-values_358," stopping on
-"," stopping on
-"
-values_335," stopping on
-"," stopping on
-"
-values_139," stopping on
-"," stopping on
-"
-values_992," stopping on
-"," stopping on
-"
-values_211," stopping on
-"," stopping on
-"
-values_507," stopping on
-"," stopping on
-"
-values_921," stopping on
-"," stopping on
-"
-values_138," stopping on
-"," stopping on
-"
-values_275," stopping on
-"," stopping on
-"
-values_614," stopping on
-"," stopping on
-"
-values_49," stopping on
-"," stopping on
-"
-values_227," stopping on
-"," stopping on
-"
-values_203," stopping on
-"," stopping on
-"
-values_172," stopping on
-"," stopping on
-"
-values_86," stopping on
-"," stopping on
-"
-values_178," stopping on
-"," stopping on
-"
-values_978," stopping on
-"," stopping on
-"
-values_253," stopping on
-"," stopping on
-"
-values_291," stopping on
-"," stopping on
-"
-values_911," stopping on
-"," stopping on
-"
-values_230," stopping on
-"," stopping on
-"
-values_318," stopping on
-"," stopping on
-"
-values_798," stopping on
-"," stopping on
-"
-values_638," stopping on
-"," stopping on
-"
-values_112," stopping on
-"," stopping on
-"
-values_201," stopping on
-"," stopping on
-"
-values_629," stopping on
-"," stopping on
-"
-values_337," stopping on
-"," stopping on
-"
-values_37," stopping on
-"," stopping on
-"
-values_56," stopping on
-"," stopping on
-"
-values_316," stopping on
-"," stopping on
-"
-values_829," stopping on
-"," stopping on
-"
-values_63," stopping on
-"," stopping on
-"
-values_35," stopping on
-"," stopping on
-"
-values_519," stopping on
-"," stopping on
-"
-values_481," stopping on
-"," stopping on
-"
-values_278," stopping on
-"," stopping on
-"
-values_186," stopping on
-"," stopping on
-"
-values_702," stopping on
-"," stopping on
-"
-values_722," stopping on
-"," stopping on
-"
-values_97," stopping on
-"," stopping on
-"
-values_329," stopping on
-"," stopping on
-"
-values_75," stopping on
-"," stopping on
-"
-values_560," stopping on
-"," stopping on
-"
-values_612," stopping on
-"," stopping on
-"
-values_421," stopping on
-"," stopping on
-"
-values_639," stopping on
-"," stopping on
-"
-values_939," stopping on
-"," stopping on
-"
-values_198," stopping on
-"," stopping on
-"
-values_840," stopping on
-"," stopping on
-"
-values_415," stopping on
-"," stopping on
-"
-values_405," stopping on
-"," stopping on
-"
-values_100," stopping on
-"," stopping on
-"
-values_726," stopping on
-"," stopping on
-"
-values_265," stopping on
-"," stopping on
-"
-values_743," stopping on
-"," stopping on
-"
-values_436," stopping on
-"," stopping on
-"
-values_583," stopping on
-"," stopping on
-"
-values_525," stopping on
-"," stopping on
-"
-values_677," stopping on
-"," stopping on
-"
-values_289," stopping on
-"," stopping on
-"
-values_255," stopping on
-"," stopping on
-"
-values_529," stopping on
-"," stopping on
-"
-values_826," stopping on
-"," stopping on
-"
-values_362," stopping on
-"," stopping on
-"
-values_355," stopping on
-"," stopping on
-"
-values_506," stopping on
-"," stopping on
-"
-values_315," stopping on
-"," stopping on
-"
-values_604," stopping on
-"," stopping on
-"
-values_57," stopping on
-"," stopping on
-"
-values_133," stopping on
-"," stopping on
-"
-values_787," stopping on
-"," stopping on
-"
-values_799," stopping on
-"," stopping on
-"
-values_765," stopping on
-"," stopping on
-"
-values_887," stopping on
-"," stopping on
-"
-values_952," stopping on
-"," stopping on
-"
-values_631," stopping on
-"," stopping on
-"
-values_306," stopping on
-"," stopping on
-"
-values_497," stopping on
-"," stopping on
-"
-values_821," stopping on
-"," stopping on
-"
-values_618," stopping on
-"," stopping on
-"
-values_271," stopping on
-"," stopping on
-"
-values_645," stopping on
-"," stopping on
-"
-values_985," stopping on
-"," stopping on
-"
-values_400," stopping on
-"," stopping on
-"
-values_562," stopping on
-"," stopping on
-"
-values_590," stopping on
-"," stopping on
-"
-values_648," stopping on
-"," stopping on
-"
-values_325," stopping on
-"," stopping on
-"
-values_883," stopping on
-"," stopping on
-"
-values_827," stopping on
-"," stopping on
-"
-values_854," stopping on
-"," stopping on
-"
-values_307," stopping on
-"," stopping on
-"
-values_88," stopping on
-"," stopping on
-"
-values_958," stopping on
-"," stopping on
-"
-values_251," stopping on
-"," stopping on
-"
-values_902," stopping on
-"," stopping on
-"
-values_680," stopping on
-"," stopping on
-"
-values_884," stopping on
-"," stopping on
-"
-values_901," stopping on
-"," stopping on
-"
-values_354," stopping on
-"," stopping on
-"
-values_420," stopping on
-"," stopping on
-"
-values_103," stopping on
-"," stopping on
-"
-values_10," stopping on
-"," stopping on
-"
-values_474," stopping on
-"," stopping on
-"
-values_53," stopping on
-"," stopping on
-"
-values_8," stopping on
-"," stopping on
-"
-values_39," stopping on
-"," stopping on
-"
-values_755," stopping on
-"," stopping on
-"
-values_124," stopping on
-"," stopping on
-"
-values_841," stopping on
-"," stopping on
-"
-values_510," stopping on
-"," stopping on
-"
-values_989," stopping on
-"," stopping on
-"
-values_706," stopping on
-"," stopping on
-"
-values_257," stopping on
-"," stopping on
-"
-values_811," stopping on
-"," stopping on
-"
-values_111," stopping on
-"," stopping on
-"
-values_47," stopping on
-"," stopping on
-"
-values_928," stopping on
-"," stopping on
-"
-values_561," stopping on
-"," stopping on
-"
-values_383," stopping on
-"," stopping on
-"
-values_498," stopping on
-"," stopping on
-"
-values_60," stopping on
-"," stopping on
-"
-values_737," stopping on
-"," stopping on
-"
-values_624," stopping on
-"," stopping on
-"
-values_973," stopping on
-"," stopping on
-"
-values_472," stopping on
-"," stopping on
-"
-values_280," stopping on
-"," stopping on
-"
-values_389," stopping on
-"," stopping on
-"
-values_651," stopping on
-"," stopping on
-"
-values_642," stopping on
-"," stopping on
-"
-values_668," stopping on
-"," stopping on
-"
-values_551," stopping on
-"," stopping on
-"
-values_750," stopping on
-"," stopping on
-"
-values_592," stopping on
-"," stopping on
-"
-values_89," stopping on
-"," stopping on
-"
-values_411," stopping on
-"," stopping on
-"
-values_620," stopping on
-"," stopping on
-"
-values_357," stopping on
-"," stopping on
-"
-values_247," stopping on
-"," stopping on
-"
-values_692," stopping on
-"," stopping on
-"
-values_572," stopping on
-"," stopping on
-"
-values_757," stopping on
-"," stopping on
-"
-values_566," stopping on
-"," stopping on
-"
-values_216," stopping on
-"," stopping on
-"
-values_951," stopping on
-"," stopping on
-"
-values_910," stopping on
-"," stopping on
-"
-values_338," stopping on
-"," stopping on
-"
-values_461," stopping on
-"," stopping on
-"
-values_730," stopping on
-"," stopping on
-"
-values_734," stopping on
-"," stopping on
-"
-values_51," stopping on
-"," stopping on
-"
-values_678," stopping on
-"," stopping on
-"
-values_327," stopping on
-"," stopping on
-"
-values_473," stopping on
-"," stopping on
-"
-values_453," stopping on
-"," stopping on
-"
-values_154," stopping on
-"," stopping on
-"
-values_452," stopping on
-"," stopping on
-"
-values_221," stopping on
-"," stopping on
-"
-values_323," stopping on
-"," stopping on
-"
-values_844," stopping on
-"," stopping on
-"
-values_673," stopping on
-"," stopping on
-"
-values_427," stopping on
-"," stopping on
-"
-values_933," stopping on
-"," stopping on
-"
-values_802," stopping on
-"," stopping on
-"
-values_852," stopping on
-"," stopping on
-"
-values_487," stopping on
-"," stopping on
-"
-values_762," stopping on
-"," stopping on
-"
-values_515," stopping on
-"," stopping on
-"
-values_479," stopping on
-"," stopping on
-"
-values_948," stopping on
-"," stopping on
-"
-values_467," stopping on
-"," stopping on
-"
-values_14," stopping on
-"," stopping on
-"
-values_868," stopping on
-"," stopping on
-"
-values_188," stopping on
-"," stopping on
-"
-values_489," stopping on
-"," stopping on
-"
-values_865," stopping on
-"," stopping on
-"
-values_728," stopping on
-"," stopping on
-"
-values_996," stopping on
-"," stopping on
-"
-values_277," stopping on
-"," stopping on
-"
-values_936," stopping on
-"," stopping on
-"
-values_554," stopping on
-"," stopping on
-"
-values_763," stopping on
-"," stopping on
-"
-values_834," stopping on
-"," stopping on
-"
-values_613," stopping on
-"," stopping on
-"
-values_907," stopping on
-"," stopping on
-"
-values_825," stopping on
-"," stopping on
-"
-values_308," stopping on
-"," stopping on
-"
-values_294," stopping on
-"," stopping on
-"
-values_522," stopping on
-"," stopping on
-"
-values_322," stopping on
-"," stopping on
-"
-values_28," stopping on
-"," stopping on
-"
-values_760," stopping on
-"," stopping on
-"
-values_559," stopping on
-"," stopping on
-"
-values_685," stopping on
-"," stopping on
-"
-values_908," stopping on
-"," stopping on
-"
-values_919," stopping on
-"," stopping on
-"
-values_724," stopping on
-"," stopping on
-"
-values_947," stopping on
-"," stopping on
-"
-values_214," stopping on
-"," stopping on
-"
-values_468," stopping on
-"," stopping on
-"
-values_967," stopping on
-"," stopping on
-"
-values_234," stopping on
-"," stopping on
-"
-values_983," stopping on
-"," stopping on
-"
-values_719," stopping on
-"," stopping on
-"
-values_110," stopping on
-"," stopping on
-"
-values_235," stopping on
-"," stopping on
-"
-values_588," stopping on
-"," stopping on
-"
-values_185," stopping on
-"," stopping on
-"
-values_732," stopping on
-"," stopping on
-"
-values_896," stopping on
-"," stopping on
-"
-values_888," stopping on
-"," stopping on
-"
-values_923," stopping on
-"," stopping on
-"
-values_767," stopping on
-"," stopping on
-"
-values_179," stopping on
-"," stopping on
-"
-values_195," stopping on
-"," stopping on
-"
-values_148," stopping on
-"," stopping on
-"
-values_917," stopping on
-"," stopping on
-"
-values_634," stopping on
-"," stopping on
-"
-values_157," stopping on
-"," stopping on
-"
-values_314," stopping on
-"," stopping on
-"
-values_879," stopping on
-"," stopping on
-"
-values_16," stopping on
-"," stopping on
-"
-values_839," stopping on
-"," stopping on
-"
-values_150," stopping on
-"," stopping on
-"
-values_835," stopping on
-"," stopping on
-"
-values_161," stopping on
-"," stopping on
-"
-values_34," stopping on
-"," stopping on
-"
-values_959," stopping on
-"," stopping on
-"
-values_264," stopping on
-"," stopping on
-"
-values_123," stopping on
-"," stopping on
-"
-values_623," stopping on
-"," stopping on
-"
-values_187," stopping on
-"," stopping on
-"
-values_575," stopping on
-"," stopping on
-"
-values_466," stopping on
-"," stopping on
-"
-values_621," stopping on
-"," stopping on
-"
-values_82," stopping on
-"," stopping on
-"
-values_352," stopping on
-"," stopping on
-"
-values_779," stopping on
-"," stopping on
-"
-values_946," stopping on
-"," stopping on
-"
-values_756," stopping on
-"," stopping on
-"
-values_502," stopping on
-"," stopping on
-"
-values_641," stopping on
-"," stopping on
-"
-values_882," stopping on
-"," stopping on
-"
-values_46," stopping on
-"," stopping on
-"
-values_721," stopping on
-"," stopping on
-"
-values_105," stopping on
-"," stopping on
-"
-values_284," stopping on
-"," stopping on
-"
-values_295," stopping on
-"," stopping on
-"
-values_423," stopping on
-"," stopping on
-"
-values_544," stopping on
-"," stopping on
-"
-values_384," stopping on
-"," stopping on
-"
-values_206," stopping on
-"," stopping on
-"
-values_817," stopping on
-"," stopping on
-"
-values_788," stopping on
-"," stopping on
-"
-values_205," stopping on
-"," stopping on
-"
-values_243," stopping on
-"," stopping on
-"
-values_619," stopping on
-"," stopping on
-"
-values_514," stopping on
-"," stopping on
-"
-values_703," stopping on
-"," stopping on
-"
-values_605," stopping on
-"," stopping on
-"
-values_659," stopping on
-"," stopping on
-"
-values_929," stopping on
-"," stopping on
-"
-values_365," stopping on
-"," stopping on
-"
-values_495," stopping on
-"," stopping on
-"
-values_431," stopping on
-"," stopping on
-"
-values_482," stopping on
-"," stopping on
-"
-values_611," stopping on
-"," stopping on
-"
-values_846," stopping on
-"," stopping on
-"
-values_27," stopping on
-"," stopping on
-"
-values_736," stopping on
-"," stopping on
-"
-values_815," stopping on
-"," stopping on
-"
-values_145," stopping on
-"," stopping on
-"
-values_582," stopping on
-"," stopping on
-"
-values_492," stopping on
-"," stopping on
-"
-values_881," stopping on
-"," stopping on
-"
-values_237," stopping on
-"," stopping on
-"
-values_409," stopping on
-"," stopping on
-"
-values_108," stopping on
-"," stopping on
-"
-values_299," stopping on
-"," stopping on
-"
-values_20," stopping on
-"," stopping on
-"
-values_485," stopping on
-"," stopping on
-"
-values_303," stopping on
-"," stopping on
-"
-values_425," stopping on
-"," stopping on
-"
-values_597," stopping on
-"," stopping on
-"
-values_517," stopping on
-"," stopping on
-"
-values_672," stopping on
-"," stopping on
-"
-values_340," stopping on
-"," stopping on
-"
-values_339," stopping on
-"," stopping on
-"
-values_424," stopping on
-"," stopping on
-"
-values_9," stopping on
-"," stopping on
-"
-values_587," stopping on
-"," stopping on
-"
-values_417," stopping on
-"," stopping on
-"
-values_116," stopping on
-"," stopping on
-"
-values_475," stopping on
-"," stopping on
-"
-values_184," stopping on
-"," stopping on
-"
-values_223," stopping on
-"," stopping on
-"
-values_804," stopping on
-"," stopping on
-"
-values_374," stopping on
-"," stopping on
-"
-values_864," stopping on
-"," stopping on
-"
-values_444," stopping on
-"," stopping on
-"
-values_92," stopping on
-"," stopping on
-"
-values_773," stopping on
-"," stopping on
-"
-values_131," stopping on
-"," stopping on
-"
-values_710," stopping on
-"," stopping on
-"
-values_693," stopping on
-"," stopping on
-"
-values_944," stopping on
-"," stopping on
-"
-values_573," stopping on
-"," stopping on
-"
-values_712," stopping on
-"," stopping on
-"
-values_718," stopping on
-"," stopping on
-"
-values_3," stopping on
-"," stopping on
-"
-values_805," stopping on
-"," stopping on
-"
-values_98," stopping on
-"," stopping on
-"
-values_304," stopping on
-"," stopping on
-"
-values_897," stopping on
-"," stopping on
-"
-values_153," stopping on
-"," stopping on
-"
-values_368," stopping on
-"," stopping on
-"
-values_689," stopping on
-"," stopping on
-"
-values_830," stopping on
-"," stopping on
-"
-values_29," stopping on
-"," stopping on
-"
-values_301," stopping on
-"," stopping on
-"
-values_286," stopping on
-"," stopping on
-"
-values_580," stopping on
-"," stopping on
-"
-values_593," stopping on
-"," stopping on
-"
-values_80," stopping on
-"," stopping on
-"
-values_416," stopping on
-"," stopping on
-"
-values_305," stopping on
-"," stopping on
-"
-values_142," stopping on
-"," stopping on
-"
-values_800," stopping on
-"," stopping on
-"
-values_661," stopping on
-"," stopping on
-"
-values_73," stopping on
-"," stopping on
-"
-values_297," stopping on
-"," stopping on
-"
-values_167," stopping on
-"," stopping on
-"
-values_594," stopping on
-"," stopping on
-"
-values_367," stopping on
-"," stopping on
-"
-values_552," stopping on
-"," stopping on
-"
-values_608," stopping on
-"," stopping on
-"
-values_797," stopping on
-"," stopping on
-"
-values_288," stopping on
-"," stopping on
-"
-values_764," stopping on
-"," stopping on
-"
-values_622," stopping on
-"," stopping on
-"
-values_785," stopping on
-"," stopping on
-"
-values_676," stopping on
-"," stopping on
-"
-values_330," stopping on
-"," stopping on
-"
-values_595," stopping on
-"," stopping on
-"
-values_968," stopping on
-"," stopping on
-"
-values_503," stopping on
-"," stopping on
-"
-values_378," stopping on
-"," stopping on
-"
-values_610," stopping on
-"," stopping on
+inputName,TotalOperators,DistinctOperators,Total_Operands,DistinctOperands,ProgramLength,VocabularySize,ProgramVolume,Effort,ProgramLevel,DifficultyLevel,TimeToImplement,BugsDelivered
+values_242," 1241 
+"," 32 
+"," 765 
+"," 151 
+"," 2006 
+"," 183 
+"," 15076.49 
+"," 1222094.60 
+"," 0.01 
+"," 81.06 
+"," 67894.14 
+"," 3.81 
+"
+values_505," 410 
+"," 32 
+"," 214 
+"," 51 
+"," 624 
+"," 83 
+"," 3978.02 
+"," 267073.65 
+"," 0.01 
+"," 67.14 
+"," 14837.43 
+"," 1.38 
+"
+values_924," 670 
+"," 32 
+"," 385 
+"," 127 
+"," 1055 
+"," 159 
+"," 7715.09 
+"," 374212.31 
+"," 0.02 
+"," 48.50 
+"," 20789.57 
+"," 1.73 
+"
+values_862," 917 
+"," 32 
+"," 550 
+"," 144 
+"," 1467 
+"," 176 
+"," 10942.99 
+"," 668738.04 
+"," 0.02 
+"," 61.11 
+"," 37152.11 
+"," 2.55 
+"
+values_287," 1171 
+"," 32 
+"," 718 
+"," 149 
+"," 1889 
+"," 181 
+"," 14167.21 
+"," 1092301.31 
+"," 0.01 
+"," 77.10 
+"," 60683.41 
+"," 3.54 
+"
+values_733," 425 
+"," 32 
+"," 225 
+"," 59 
+"," 650 
+"," 91 
+"," 4230.07 
+"," 258105.75 
+"," 0.02 
+"," 61.02 
+"," 14339.21 
+"," 1.35 
+"
+values_813," 422 
+"," 32 
+"," 225 
+"," 60 
+"," 647 
+"," 92 
+"," 4220.74 
+"," 253244.68 
+"," 0.02 
+"," 60 
+"," 14069.15 
+"," 1.33 
+"
+values_11," 424 
+"," 32 
+"," 225 
+"," 62 
+"," 649 
+"," 94 
+"," 4253.93 
+"," 247002.28 
+"," 0.02 
+"," 58.06 
+"," 13722.35 
+"," 1.31 
+"
+values_19," 371 
+"," 32 
+"," 193 
+"," 33 
+"," 564 
+"," 65 
+"," 3396.62 
+"," 317840.86 
+"," 0.01 
+"," 93.58 
+"," 17657.83 
+"," 1.55 
+"
+values_999," 751 
+"," 32 
+"," 445 
+"," 134 
+"," 1196 
+"," 166 
+"," 8820.55 
+"," 468673.85 
+"," 0.02 
+"," 53.13 
+"," 26037.44 
+"," 2.01 
+"
+values_134," 525 
+"," 32 
+"," 289 
+"," 103 
+"," 814 
+"," 135 
+"," 5760.53 
+"," 258608.55 
+"," 0.02 
+"," 44.89 
+"," 14367.14 
+"," 1.35 
+"
+values_609," 443 
+"," 32 
+"," 238 
+"," 67 
+"," 681 
+"," 99 
+"," 4514.59 
+"," 256590.53 
+"," 0.02 
+"," 56.84 
+"," 14255.03 
+"," 1.35 
+"
+values_993," 1324 
+"," 32 
+"," 814 
+"," 152 
+"," 2138 
+"," 184 
+"," 16085.38 
+"," 1378262.70 
+"," 0.01 
+"," 85.68 
+"," 76570.15 
+"," 4.13 
+"
+values_731," 713 
+"," 32 
+"," 414 
+"," 132 
+"," 1127 
+"," 164 
+"," 8291.96 
+"," 416105.68 
+"," 0.02 
+"," 50.18 
+"," 23116.98 
+"," 1.86 
+"
+values_127," 548 
+"," 32 
+"," 310 
+"," 101 
+"," 858 
+"," 133 
+"," 6053.43 
+"," 297277.47 
+"," 0.02 
+"," 49.11 
+"," 16515.41 
+"," 1.48 
+"
+values_889," 523 
+"," 32 
+"," 289 
+"," 95 
+"," 812 
+"," 127 
+"," 5674.81 
+"," 276214.01 
+"," 0.02 
+"," 48.67 
+"," 15345.22 
+"," 1.41 
+"
+values_987," 589 
+"," 32 
+"," 333 
+"," 117 
+"," 922 
+"," 149 
+"," 6656.07 
+"," 303107.34 
+"," 0.02 
+"," 45.54 
+"," 16839.30 
+"," 1.50 
+"
+values_780," 940 
+"," 32 
+"," 550 
+"," 145 
+"," 1490 
+"," 177 
+"," 11126.73 
+"," 675277.54 
+"," 0.02 
+"," 60.69 
+"," 37515.42 
+"," 2.57 
+"
+values_435," 466 
+"," 32 
+"," 253 
+"," 76 
+"," 719 
+"," 108 
+"," 4856.76 
+"," 258686.59 
+"," 0.02 
+"," 53.26 
+"," 14371.48 
+"," 1.35 
+"
+values_950," 471 
+"," 32 
+"," 253 
+"," 77 
+"," 724 
+"," 109 
+"," 4900.17 
+"," 257608.70 
+"," 0.02 
+"," 52.57 
+"," 14311.59 
+"," 1.35 
+"
+values_976," 923 
+"," 32 
+"," 550 
+"," 145 
+"," 1473 
+"," 177 
+"," 10999.78 
+"," 667573.04 
+"," 0.02 
+"," 60.69 
+"," 37087.39 
+"," 2.55 
+"
+values_557," 1041 
+"," 32 
+"," 630 
+"," 149 
+"," 1671 
+"," 181 
+"," 12532.24 
+"," 847818.82 
+"," 0.01 
+"," 67.65 
+"," 47101.05 
+"," 2.99 
+"
+values_398," 1106 
+"," 32 
+"," 673 
+"," 152 
+"," 1779 
+"," 184 
+"," 13384.42 
+"," 948180.26 
+"," 0.01 
+"," 70.84 
+"," 52676.68 
+"," 3.22 
+"
+values_892," 525 
+"," 32 
+"," 289 
+"," 100 
+"," 814 
+"," 132 
+"," 5734.14 
+"," 265146.49 
+"," 0.02 
+"," 46.24 
+"," 14730.36 
+"," 1.38 
+"
+values_670," 1560 
+"," 32 
+"," 973 
+"," 152 
+"," 2533 
+"," 184 
+"," 19057.18 
+"," 1951856.69 
+"," 0.01 
+"," 102.42 
+"," 108436.48 
+"," 5.21 
+"
+values_574," 819 
+"," 32 
+"," 478 
+"," 140 
+"," 1297 
+"," 172 
+"," 9631.87 
+"," 526175.05 
+"," 0.02 
+"," 54.63 
+"," 29231.95 
+"," 2.17 
+"
+values_163," 706 
+"," 32 
+"," 414 
+"," 136 
+"," 1120 
+"," 168 
+"," 8279.40 
+"," 403255.26 
+"," 0.02 
+"," 48.71 
+"," 22403.07 
+"," 1.82 
+"
+values_900," 383 
+"," 32 
+"," 198 
+"," 38 
+"," 581 
+"," 70 
+"," 3561.11 
+"," 296884.40 
+"," 0.01 
+"," 83.37 
+"," 16493.58 
+"," 1.48 
+"
+values_392," 1311 
+"," 32 
+"," 814 
+"," 152 
+"," 2125 
+"," 184 
+"," 15987.57 
+"," 1369882.24 
+"," 0.01 
+"," 85.68 
+"," 76104.57 
+"," 4.11 
+"
+values_447," 387 
+"," 32 
+"," 205 
+"," 43 
+"," 592 
+"," 75 
+"," 3687.46 
+"," 281276.07 
+"," 0.01 
+"," 76.28 
+"," 15626.45 
+"," 1.43 
+"
+values_523," 593 
+"," 32 
+"," 333 
+"," 114 
+"," 926 
+"," 146 
+"," 6657.78 
+"," 311163.50 
+"," 0.02 
+"," 46.74 
+"," 17286.86 
+"," 1.53 
+"
+values_679," 717 
+"," 32 
+"," 414 
+"," 133 
+"," 1131 
+"," 165 
+"," 8331.31 
+"," 414936.84 
+"," 0.02 
+"," 49.80 
+"," 23052.05 
+"," 1.85 
+"
+values_419," 1129 
+"," 32 
+"," 673 
+"," 150 
+"," 1802 
+"," 182 
+"," 13529.05 
+"," 971205.11 
+"," 0.01 
+"," 71.79 
+"," 53955.84 
+"," 3.27 
+"
+values_895," 672 
+"," 32 
+"," 385 
+"," 129 
+"," 1057 
+"," 161 
+"," 7748.78 
+"," 370019.22 
+"," 0.02 
+"," 47.75 
+"," 20556.62 
+"," 1.72 
+"
+values_298," 924 
+"," 32 
+"," 550 
+"," 146 
+"," 1474 
+"," 178 
+"," 11019.23 
+"," 664172.83 
+"," 0.02 
+"," 60.27 
+"," 36898.49 
+"," 2.54 
+"
+values_155," 798 
+"," 32 
+"," 478 
+"," 139 
+"," 1276 
+"," 171 
+"," 9465.18 
+"," 520789.17 
+"," 0.02 
+"," 55.02 
+"," 28932.73 
+"," 2.16 
+"
+values_12," 492 
+"," 32 
+"," 270 
+"," 83 
+"," 762 
+"," 115 
+"," 5216.26 
+"," 271497.08 
+"," 0.02 
+"," 52.05 
+"," 15083.17 
+"," 1.40 
+"
+values_160," 390 
+"," 32 
+"," 205 
+"," 43 
+"," 595 
+"," 75 
+"," 3706.15 
+"," 282701.45 
+"," 0.01 
+"," 76.28 
+"," 15705.64 
+"," 1.44 
+"
+values_626," 807 
+"," 32 
+"," 478 
+"," 144 
+"," 1285 
+"," 176 
+"," 9585.37 
+"," 509089.63 
+"," 0.02 
+"," 53.11 
+"," 28282.76 
+"," 2.13 
+"
+values_38," 1090 
+"," 32 
+"," 673 
+"," 149 
+"," 1763 
+"," 181 
+"," 13222.23 
+"," 955550.03 
+"," 0.01 
+"," 72.27 
+"," 53086.11 
+"," 3.23 
+"
+values_146," 1172 
+"," 32 
+"," 718 
+"," 151 
+"," 1890 
+"," 183 
+"," 14204.67 
+"," 1080683.97 
+"," 0.01 
+"," 76.08 
+"," 60038.00 
+"," 3.51 
+"
+values_81," 700 
+"," 32 
+"," 414 
+"," 129 
+"," 1114 
+"," 161 
+"," 8166.64 
+"," 419347.54 
+"," 0.02 
+"," 51.35 
+"," 23297.09 
+"," 1.87 
+"
+values_687," 1331 
+"," 32 
+"," 814 
+"," 152 
+"," 2145 
+"," 184 
+"," 16138.04 
+"," 1382775.25 
+"," 0.01 
+"," 85.68 
+"," 76820.85 
+"," 4.14 
+"
+values_213," 919 
+"," 32 
+"," 550 
+"," 150 
+"," 1469 
+"," 182 
+"," 11028.95 
+"," 647031.75 
+"," 0.02 
+"," 58.67 
+"," 35946.21 
+"," 2.49 
+"
+values_212," 551 
+"," 32 
+"," 310 
+"," 105 
+"," 861 
+"," 137 
+"," 6111.41 
+"," 288691.16 
+"," 0.02 
+"," 47.24 
+"," 16038.40 
+"," 1.46 
+"
+values_568," 377 
+"," 32 
+"," 198 
+"," 36 
+"," 575 
+"," 68 
+"," 3500.29 
+"," 308025.62 
+"," 0.01 
+"," 88 
+"," 17112.53 
+"," 1.52 
+"
+values_5," 967 
+"," 32 
+"," 589 
+"," 148 
+"," 1556 
+"," 180 
+"," 11657.32 
+"," 742287.95 
+"," 0.02 
+"," 63.68 
+"," 41238.22 
+"," 2.73 
+"
+values_40," 1037 
+"," 32 
+"," 630 
+"," 146 
+"," 1667 
+"," 178 
+"," 12462.05 
+"," 860393.43 
+"," 0.01 
+"," 69.04 
+"," 47799.63 
+"," 3.02 
+"
+values_970," 376 
+"," 32 
+"," 198 
+"," 37 
+"," 574 
+"," 69 
+"," 3506.29 
+"," 300214.50 
+"," 0.01 
+"," 85.62 
+"," 16678.58 
+"," 1.49 
+"
+values_707," 709 
+"," 32 
+"," 414 
+"," 132 
+"," 1123 
+"," 164 
+"," 8262.53 
+"," 414628.82 
+"," 0.02 
+"," 50.18 
+"," 23034.93 
+"," 1.85 
+"
+values_406," 673 
+"," 32 
+"," 385 
+"," 131 
+"," 1058 
+"," 163 
+"," 7774.95 
+"," 365600.91 
+"," 0.02 
+"," 47.02 
+"," 20311.16 
+"," 1.70 
+"
+values_893," 672 
+"," 32 
+"," 385 
+"," 127 
+"," 1057 
+"," 159 
+"," 7729.72 
+"," 374921.72 
+"," 0.02 
+"," 48.50 
+"," 20828.98 
+"," 1.73 
+"
+values_144," 371 
+"," 32 
+"," 193 
+"," 33 
+"," 564 
+"," 65 
+"," 3396.62 
+"," 317840.86 
+"," 0.01 
+"," 93.58 
+"," 17657.83 
+"," 1.55 
+"
+values_979," 424 
+"," 32 
+"," 225 
+"," 61 
+"," 649 
+"," 93 
+"," 4243.91 
+"," 250460.50 
+"," 0.02 
+"," 59.02 
+"," 13914.47 
+"," 1.32 
+"
+values_831," 629 
+"," 32 
+"," 358 
+"," 122 
+"," 987 
+"," 154 
+"," 7172.32 
+"," 336746.22 
+"," 0.02 
+"," 46.95 
+"," 18708.12 
+"," 1.61 
+"
+values_402," 490 
+"," 32 
+"," 270 
+"," 86 
+"," 760 
+"," 118 
+"," 5230.81 
+"," 262756.90 
+"," 0.02 
+"," 50.23 
+"," 14597.61 
+"," 1.37 
+"
+values_404," 1391 
+"," 32 
+"," 865 
+"," 153 
+"," 2256 
+"," 185 
+"," 16990.80 
+"," 1536945.26 
+"," 0.01 
+"," 90.46 
+"," 85385.85 
+"," 4.44 
+"
+values_310," 394 
+"," 32 
+"," 205 
+"," 44 
+"," 599 
+"," 76 
+"," 3742.51 
+"," 278987.00 
+"," 0.01 
+"," 74.55 
+"," 15499.28 
+"," 1.42 
+"
+values_70," 465 
+"," 32 
+"," 253 
+"," 79 
+"," 718 
+"," 111 
+"," 4878.39 
+"," 249971.20 
+"," 0.02 
+"," 51.24 
+"," 13887.29 
+"," 1.32 
+"
+values_268," 1188 
+"," 32 
+"," 718 
+"," 151 
+"," 1906 
+"," 183 
+"," 14324.92 
+"," 1089832.62 
+"," 0.01 
+"," 76.08 
+"," 60546.26 
+"," 3.53 
+"
+values_412," 1292 
+"," 32 
+"," 814 
+"," 152 
+"," 2106 
+"," 184 
+"," 15844.62 
+"," 1357633.88 
+"," 0.01 
+"," 85.68 
+"," 75424.10 
+"," 4.09 
+"
+values_290," 1552 
+"," 32 
+"," 973 
+"," 153 
+"," 2525 
+"," 185 
+"," 19016.74 
+"," 1934984.18 
+"," 0.01 
+"," 101.75 
+"," 107499.12 
+"," 5.18 
+"
+values_916," 1489 
+"," 32 
+"," 918 
+"," 153 
+"," 2407 
+"," 185 
+"," 18128.04 
+"," 1740291.38 
+"," 0.01 
+"," 96 
+"," 96682.85 
+"," 4.82 
+"
+values_567," 555 
+"," 32 
+"," 310 
+"," 107 
+"," 865 
+"," 139 
+"," 6157.88 
+"," 285449.58 
+"," 0.02 
+"," 46.36 
+"," 15858.31 
+"," 1.45 
+"
+values_913," 441 
+"," 32 
+"," 238 
+"," 68 
+"," 679 
+"," 100 
+"," 4511.18 
+"," 252625.99 
+"," 0.02 
+"," 56 
+"," 14034.78 
+"," 1.33 
+"
+values_232," 464 
+"," 32 
+"," 253 
+"," 78 
+"," 717 
+"," 110 
+"," 4862.23 
+"," 252337.52 
+"," 0.02 
+"," 51.90 
+"," 14018.75 
+"," 1.33 
+"
+values_319," 1394 
+"," 32 
+"," 865 
+"," 153 
+"," 2259 
+"," 185 
+"," 17013.39 
+"," 1538989.07 
+"," 0.01 
+"," 90.46 
+"," 85499.39 
+"," 4.44 
+"
+values_23," 405 
+"," 32 
+"," 214 
+"," 52 
+"," 619 
+"," 84 
+"," 3956.84 
+"," 260542.99 
+"," 0.02 
+"," 65.85 
+"," 14474.61 
+"," 1.36 
+"
+values_899," 406 
+"," 32 
+"," 214 
+"," 50 
+"," 620 
+"," 82 
+"," 3941.68 
+"," 269926.40 
+"," 0.01 
+"," 68.48 
+"," 14995.91 
+"," 1.39 
+"
+values_428," 549 
+"," 32 
+"," 310 
+"," 108 
+"," 859 
+"," 140 
+"," 6124.05 
+"," 281252.86 
+"," 0.02 
+"," 45.93 
+"," 15625.16 
+"," 1.43 
+"
+values_858," 1258 
+"," 32 
+"," 765 
+"," 153 
+"," 2023 
+"," 185 
+"," 15235.98 
+"," 1218878.78 
+"," 0.01 
+"," 80 
+"," 67715.49 
+"," 3.80 
+"
+values_546," 408 
+"," 32 
+"," 214 
+"," 54 
+"," 622 
+"," 86 
+"," 3997.14 
+"," 253448.07 
+"," 0.02 
+"," 63.41 
+"," 14080.45 
+"," 1.33 
+"
+values_432," 531 
+"," 32 
+"," 289 
+"," 96 
+"," 820 
+"," 128 
+"," 5740 
+"," 276476.67 
+"," 0.02 
+"," 48.17 
+"," 15359.81 
+"," 1.41 
+"
+values_231," 916 
+"," 32 
+"," 550 
+"," 144 
+"," 1466 
+"," 176 
+"," 10935.53 
+"," 668282.19 
+"," 0.02 
+"," 61.11 
+"," 37126.79 
+"," 2.55 
+"
+values_388," 407 
+"," 32 
+"," 214 
+"," 50 
+"," 621 
+"," 82 
+"," 3948.04 
+"," 270361.77 
+"," 0.01 
+"," 68.48 
+"," 15020.10 
+"," 1.39 
+"
+values_350," 392 
+"," 32 
+"," 205 
+"," 44 
+"," 597 
+"," 76 
+"," 3730.01 
+"," 278055.49 
+"," 0.01 
+"," 74.55 
+"," 15447.53 
+"," 1.42 
+"
+values_603," 518 
+"," 32 
+"," 289 
+"," 99 
+"," 807 
+"," 131 
+"," 5675.97 
+"," 265108.04 
+"," 0.02 
+"," 46.71 
+"," 14728.22 
+"," 1.38 
+"
+values_364," 1406 
+"," 32 
+"," 865 
+"," 152 
+"," 2271 
+"," 184 
+"," 17086.01 
+"," 1555726.10 
+"," 0.01 
+"," 91.05 
+"," 86429.23 
+"," 4.48 
+"
+values_530," 1433 
+"," 32 
+"," 865 
+"," 152 
+"," 2298 
+"," 184 
+"," 17289.15 
+"," 1574222.18 
+"," 0.01 
+"," 91.05 
+"," 87456.79 
+"," 4.51 
+"
+values_72," 422 
+"," 32 
+"," 225 
+"," 60 
+"," 647 
+"," 92 
+"," 4220.74 
+"," 253244.68 
+"," 0.02 
+"," 60 
+"," 14069.15 
+"," 1.33 
+"
+values_536," 1383 
+"," 32 
+"," 865 
+"," 150 
+"," 2248 
+"," 182 
+"," 16877.52 
+"," 1557232.73 
+"," 0.01 
+"," 92.27 
+"," 86512.93 
+"," 4.48 
+"
+values_79," 1553 
+"," 32 
+"," 973 
+"," 153 
+"," 2526 
+"," 185 
+"," 19024.27 
+"," 1935750.51 
+"," 0.01 
+"," 101.75 
+"," 107541.70 
+"," 5.18 
+"
+values_342," 684 
+"," 32 
+"," 385 
+"," 127 
+"," 1069 
+"," 159 
+"," 7817.47 
+"," 379178.16 
+"," 0.02 
+"," 48.50 
+"," 21065.45 
+"," 1.75 
+"
+values_803," 1540 
+"," 32 
+"," 973 
+"," 153 
+"," 2513 
+"," 185 
+"," 18926.36 
+"," 1925788.22 
+"," 0.01 
+"," 101.75 
+"," 106988.23 
+"," 5.16 
+"
+values_501," 928 
+"," 32 
+"," 550 
+"," 148 
+"," 1478 
+"," 180 
+"," 11072.96 
+"," 658392.15 
+"," 0.02 
+"," 59.46 
+"," 36577.34 
+"," 2.52 
+"
+values_540," 1118 
+"," 32 
+"," 673 
+"," 150 
+"," 1791 
+"," 182 
+"," 13446.46 
+"," 965276.56 
+"," 0.01 
+"," 71.79 
+"," 53626.48 
+"," 3.26 
+"
+values_955," 475 
+"," 32 
+"," 253 
+"," 83 
+"," 728 
+"," 115 
+"," 4983.52 
+"," 243051.52 
+"," 0.02 
+"," 48.77 
+"," 13502.86 
+"," 1.30 
+"
+values_191," 1105 
+"," 32 
+"," 673 
+"," 148 
+"," 1778 
+"," 180 
+"," 13320.51 
+"," 969157.46 
+"," 0.01 
+"," 72.76 
+"," 53842.08 
+"," 3.26 
+"
+values_812," 490 
+"," 32 
+"," 270 
+"," 86 
+"," 760 
+"," 118 
+"," 5230.81 
+"," 262756.90 
+"," 0.02 
+"," 50.23 
+"," 14597.61 
+"," 1.37 
+"
+values_545," 1483 
+"," 32 
+"," 918 
+"," 153 
+"," 2401 
+"," 185 
+"," 18082.85 
+"," 1735953.30 
+"," 0.01 
+"," 96 
+"," 96441.85 
+"," 4.81 
+"
+values_78," 1340 
+"," 32 
+"," 814 
+"," 153 
+"," 2154 
+"," 185 
+"," 16222.60 
+"," 1380935.20 
+"," 0.01 
+"," 85.12 
+"," 76718.62 
+"," 4.13 
+"
+values_526," 560 
+"," 32 
+"," 310 
+"," 101 
+"," 870 
+"," 133 
+"," 6138.10 
+"," 301435.20 
+"," 0.02 
+"," 49.11 
+"," 16746.40 
+"," 1.50 
+"
+values_695," 1320 
+"," 32 
+"," 814 
+"," 153 
+"," 2134 
+"," 185 
+"," 16071.97 
+"," 1368113.15 
+"," 0.01 
+"," 85.12 
+"," 76006.29 
+"," 4.11 
+"
+values_87," 444 
+"," 32 
+"," 238 
+"," 68 
+"," 682 
+"," 100 
+"," 4531.11 
+"," 253742.16 
+"," 0.02 
+"," 56 
+"," 14096.79 
+"," 1.34 
+"
+values_300," 371 
+"," 32 
+"," 193 
+"," 33 
+"," 564 
+"," 65 
+"," 3396.62 
+"," 317840.86 
+"," 0.01 
+"," 93.58 
+"," 17657.83 
+"," 1.55 
+"
+values_964," 776 
+"," 32 
+"," 445 
+"," 129 
+"," 1221 
+"," 161 
+"," 8951.05 
+"," 494042.42 
+"," 0.02 
+"," 55.19 
+"," 27446.80 
+"," 2.08 
+"
+values_998," 390 
+"," 32 
+"," 205 
+"," 44 
+"," 595 
+"," 76 
+"," 3717.52 
+"," 277123.98 
+"," 0.01 
+"," 74.55 
+"," 15395.78 
+"," 1.42 
+"
+values_988," 1334 
+"," 32 
+"," 814 
+"," 152 
+"," 2148 
+"," 184 
+"," 16160.61 
+"," 1384709.20 
+"," 0.01 
+"," 85.68 
+"," 76928.29 
+"," 4.14 
+"
+values_6," 442 
+"," 32 
+"," 238 
+"," 63 
+"," 680 
+"," 95 
+"," 4467.50 
+"," 270035.67 
+"," 0.02 
+"," 60.44 
+"," 15001.98 
+"," 1.39 
+"
+values_625," 535 
+"," 32 
+"," 289 
+"," 95 
+"," 824 
+"," 127 
+"," 5758.68 
+"," 280295.99 
+"," 0.02 
+"," 48.67 
+"," 15572.00 
+"," 1.43 
+"
+values_518," 468 
+"," 32 
+"," 253 
+"," 78 
+"," 721 
+"," 110 
+"," 4889.36 
+"," 253745.27 
+"," 0.02 
+"," 51.90 
+"," 14096.96 
+"," 1.34 
+"
+values_122," 586 
+"," 32 
+"," 333 
+"," 115 
+"," 919 
+"," 147 
+"," 6616.50 
+"," 306545.27 
+"," 0.02 
+"," 46.33 
+"," 17030.29 
+"," 1.52 
+"
+values_541," 1168 
+"," 32 
+"," 718 
+"," 152 
+"," 1886 
+"," 184 
+"," 14189.44 
+"," 1072422.78 
+"," 0.01 
+"," 75.58 
+"," 59579.04 
+"," 3.49 
+"
+values_279," 494 
+"," 32 
+"," 270 
+"," 88 
+"," 764 
+"," 120 
+"," 5276.86 
+"," 259046.07 
+"," 0.02 
+"," 49.09 
+"," 14391.45 
+"," 1.35 
+"
+values_256," 389 
+"," 32 
+"," 205 
+"," 44 
+"," 594 
+"," 76 
+"," 3711.27 
+"," 276658.23 
+"," 0.01 
+"," 74.55 
+"," 15369.90 
+"," 1.42 
+"
+values_796," 1195 
+"," 32 
+"," 718 
+"," 150 
+"," 1913 
+"," 182 
+"," 14362.41 
+"," 1099969.20 
+"," 0.01 
+"," 76.59 
+"," 61109.40 
+"," 3.55 
+"
+values_504," 517 
+"," 32 
+"," 289 
+"," 97 
+"," 806 
+"," 129 
+"," 5651.05 
+"," 269386.10 
+"," 0.02 
+"," 47.67 
+"," 14965.89 
+"," 1.39 
+"
+values_752," 714 
+"," 32 
+"," 414 
+"," 126 
+"," 1128 
+"," 158 
+"," 8238.66 
+"," 433118.37 
+"," 0.02 
+"," 52.57 
+"," 24062.13 
+"," 1.91 
+"
+values_459," 759 
+"," 32 
+"," 445 
+"," 134 
+"," 1204 
+"," 166 
+"," 8879.55 
+"," 471808.79 
+"," 0.02 
+"," 53.13 
+"," 26211.60 
+"," 2.02 
+"
+values_658," 1110 
+"," 32 
+"," 673 
+"," 149 
+"," 1783 
+"," 181 
+"," 13372.23 
+"," 966390.07 
+"," 0.01 
+"," 72.27 
+"," 53688.34 
+"," 3.26 
+"
+values_408," 593 
+"," 32 
+"," 333 
+"," 110 
+"," 926 
+"," 142 
+"," 6620.67 
+"," 320680.98 
+"," 0.02 
+"," 48.44 
+"," 17815.61 
+"," 1.56 
+"
+values_867," 1411 
+"," 32 
+"," 865 
+"," 151 
+"," 2276 
+"," 183 
+"," 17105.73 
+"," 1567836.70 
+"," 0.01 
+"," 91.66 
+"," 87102.04 
+"," 4.50 
+"
+values_727," 493 
+"," 32 
+"," 270 
+"," 90 
+"," 763 
+"," 122 
+"," 5288.15 
+"," 253831.32 
+"," 0.02 
+"," 48 
+"," 14101.74 
+"," 1.34 
+"
+values_177," 1114 
+"," 32 
+"," 673 
+"," 151 
+"," 1787 
+"," 183 
+"," 13430.56 
+"," 957749.82 
+"," 0.01 
+"," 71.31 
+"," 53208.32 
+"," 3.24 
+"
+values_823," 1343 
+"," 32 
+"," 814 
+"," 151 
+"," 2157 
+"," 183 
+"," 16211.36 
+"," 1398257.03 
+"," 0.01 
+"," 86.25 
+"," 77680.95 
+"," 4.17 
+"
+values_822," 1551 
+"," 32 
+"," 973 
+"," 152 
+"," 2524 
+"," 184 
+"," 18989.47 
+"," 1944921.54 
+"," 0.01 
+"," 102.42 
+"," 108051.20 
+"," 5.19 
+"
+values_218," 541 
+"," 32 
+"," 310 
+"," 109 
+"," 851 
+"," 141 
+"," 6075.76 
+"," 276474.87 
+"," 0.02 
+"," 45.50 
+"," 15359.71 
+"," 1.41 
+"
+values_426," 636 
+"," 32 
+"," 358 
+"," 124 
+"," 994 
+"," 156 
+"," 7241.69 
+"," 334519.35 
+"," 0.02 
+"," 46.19 
+"," 18584.41 
+"," 1.61 
+"
+values_776," 774 
+"," 32 
+"," 445 
+"," 137 
+"," 1219 
+"," 169 
+"," 9021.67 
+"," 468863.54 
+"," 0.02 
+"," 51.97 
+"," 26047.97 
+"," 2.01 
+"
+values_143," 608 
+"," 32 
+"," 333 
+"," 116 
+"," 941 
+"," 148 
+"," 6784.10 
+"," 311600.53 
+"," 0.02 
+"," 45.93 
+"," 17311.14 
+"," 1.53 
+"
+values_739," 755 
+"," 32 
+"," 445 
+"," 135 
+"," 1200 
+"," 167 
+"," 8860.45 
+"," 467306.44 
+"," 0.02 
+"," 52.74 
+"," 25961.47 
+"," 2.01 
+"
+values_312," 982 
+"," 32 
+"," 589 
+"," 151 
+"," 1571 
+"," 183 
+"," 11807.16 
+"," 736892.17 
+"," 0.02 
+"," 62.41 
+"," 40938.45 
+"," 2.72 
+"
+values_174," 628 
+"," 32 
+"," 358 
+"," 121 
+"," 986 
+"," 153 
+"," 7155.78 
+"," 338746.55 
+"," 0.02 
+"," 47.34 
+"," 18819.25 
+"," 1.62 
+"
+values_669," 1314 
+"," 32 
+"," 814 
+"," 153 
+"," 2128 
+"," 185 
+"," 16026.78 
+"," 1364266.53 
+"," 0.01 
+"," 85.12 
+"," 75792.59 
+"," 4.10 
+"
+values_120," 671 
+"," 32 
+"," 385 
+"," 127 
+"," 1056 
+"," 159 
+"," 7722.40 
+"," 374567.02 
+"," 0.02 
+"," 48.50 
+"," 20809.28 
+"," 1.73 
+"
+values_974," 827 
+"," 32 
+"," 478 
+"," 141 
+"," 1305 
+"," 173 
+"," 9702.19 
+"," 526257.79 
+"," 0.02 
+"," 54.24 
+"," 29236.54 
+"," 2.17 
+"
+values_217," 407 
+"," 32 
+"," 214 
+"," 52 
+"," 621 
+"," 84 
+"," 3969.63 
+"," 261384.81 
+"," 0.02 
+"," 65.85 
+"," 14521.38 
+"," 1.36 
+"
+values_866," 1167 
+"," 32 
+"," 718 
+"," 152 
+"," 1885 
+"," 184 
+"," 14181.91 
+"," 1071854.15 
+"," 0.01 
+"," 75.58 
+"," 59547.45 
+"," 3.49 
+"
+values_192," 402 
+"," 32 
+"," 214 
+"," 49 
+"," 616 
+"," 81 
+"," 3905.35 
+"," 272896.13 
+"," 0.01 
+"," 69.88 
+"," 15160.90 
+"," 1.40 
+"
+values_328," 720 
+"," 32 
+"," 414 
+"," 134 
+"," 1134 
+"," 166 
+"," 8363.29 
+"," 413421.37 
+"," 0.02 
+"," 49.43 
+"," 22967.85 
+"," 1.85 
+"
+values_68," 1043 
+"," 32 
+"," 630 
+"," 150 
+"," 1673 
+"," 182 
+"," 12560.54 
+"," 844068.32 
+"," 0.01 
+"," 67.20 
+"," 46892.68 
+"," 2.98 
+"
+values_387," 495 
+"," 32 
+"," 270 
+"," 83 
+"," 765 
+"," 115 
+"," 5236.80 
+"," 272565.97 
+"," 0.02 
+"," 52.05 
+"," 15142.55 
+"," 1.40 
+"
+values_69," 1129 
+"," 32 
+"," 673 
+"," 152 
+"," 1802 
+"," 184 
+"," 13557.46 
+"," 960438.91 
+"," 0.01 
+"," 70.84 
+"," 53357.72 
+"," 3.24 
+"
+values_749," 671 
+"," 32 
+"," 385 
+"," 128 
+"," 1056 
+"," 160 
+"," 7731.96 
+"," 372100.39 
+"," 0.02 
+"," 48.12 
+"," 20672.24 
+"," 1.72 
+"
+values_135," 865 
+"," 32 
+"," 513 
+"," 146 
+"," 1378 
+"," 178 
+"," 10301.56 
+"," 579145.27 
+"," 0.02 
+"," 56.22 
+"," 32174.74 
+"," 2.32 
+"
+values_341," 923 
+"," 32 
+"," 550 
+"," 148 
+"," 1473 
+"," 180 
+"," 11035.50 
+"," 656164.84 
+"," 0.02 
+"," 59.46 
+"," 36453.60 
+"," 2.52 
+"
+values_494," 1492 
+"," 32 
+"," 918 
+"," 153 
+"," 2410 
+"," 185 
+"," 18150.63 
+"," 1742460.41 
+"," 0.01 
+"," 96 
+"," 96803.36 
+"," 4.83 
+"
+values_1," 664 
+"," 32 
+"," 385 
+"," 128 
+"," 1049 
+"," 160 
+"," 7680.70 
+"," 369633.81 
+"," 0.02 
+"," 48.12 
+"," 20535.21 
+"," 1.72 
+"
+values_589," 371 
+"," 32 
+"," 193 
+"," 32 
+"," 564 
+"," 64 
+"," 3384 
+"," 326556 
+"," 0.01 
+"," 96.50 
+"," 18142 
+"," 1.58 
+"
+values_925," 655 
+"," 32 
+"," 385 
+"," 133 
+"," 1040 
+"," 165 
+"," 7660.98 
+"," 354824.11 
+"," 0.02 
+"," 46.32 
+"," 19712.45 
+"," 1.67 
+"
+values_524," 986 
+"," 32 
+"," 589 
+"," 149 
+"," 1575 
+"," 181 
+"," 11812.26 
+"," 747105.45 
+"," 0.02 
+"," 63.25 
+"," 41505.86 
+"," 2.74 
+"
+values_994," 369 
+"," 32 
+"," 193 
+"," 33 
+"," 562 
+"," 65 
+"," 3384.57 
+"," 316713.77 
+"," 0.01 
+"," 93.58 
+"," 17595.21 
+"," 1.55 
+"
+values_856," 1163 
+"," 32 
+"," 718 
+"," 152 
+"," 1881 
+"," 184 
+"," 14151.82 
+"," 1069579.66 
+"," 0.01 
+"," 75.58 
+"," 59421.09 
+"," 3.49 
+"
+values_156," 401 
+"," 32 
+"," 214 
+"," 50 
+"," 615 
+"," 82 
+"," 3909.89 
+"," 267749.57 
+"," 0.01 
+"," 68.48 
+"," 14874.98 
+"," 1.38 
+"
+values_470," 1126 
+"," 32 
+"," 673 
+"," 151 
+"," 1799 
+"," 183 
+"," 13520.74 
+"," 964181.27 
+"," 0.01 
+"," 71.31 
+"," 53565.63 
+"," 3.25 
+"
+values_207," 819 
+"," 32 
+"," 478 
+"," 141 
+"," 1297 
+"," 173 
+"," 9642.71 
+"," 523031.68 
+"," 0.02 
+"," 54.24 
+"," 29057.32 
+"," 2.16 
+"
+values_655," 559 
+"," 32 
+"," 310 
+"," 102 
+"," 869 
+"," 134 
+"," 6140.43 
+"," 298593.53 
+"," 0.02 
+"," 48.63 
+"," 16588.53 
+"," 1.49 
+"
+values_441," 596 
+"," 32 
+"," 333 
+"," 110 
+"," 929 
+"," 142 
+"," 6642.12 
+"," 321719.90 
+"," 0.02 
+"," 48.44 
+"," 17873.33 
+"," 1.57 
+"
+values_109," 1043 
+"," 32 
+"," 630 
+"," 150 
+"," 1673 
+"," 182 
+"," 12560.54 
+"," 844068.32 
+"," 0.01 
+"," 67.20 
+"," 46892.68 
+"," 2.98 
+"
+values_45," 371 
+"," 32 
+"," 193 
+"," 33 
+"," 564 
+"," 65 
+"," 3396.62 
+"," 317840.86 
+"," 0.01 
+"," 93.58 
+"," 17657.83 
+"," 1.55 
+"
+values_125," 705 
+"," 32 
+"," 414 
+"," 136 
+"," 1119 
+"," 168 
+"," 8272.00 
+"," 402895.21 
+"," 0.02 
+"," 48.71 
+"," 22383.07 
+"," 1.82 
+"
+values_600," 441 
+"," 32 
+"," 238 
+"," 71 
+"," 679 
+"," 103 
+"," 4540.13 
+"," 243504.64 
+"," 0.02 
+"," 53.63 
+"," 13528.04 
+"," 1.30 
+"
+values_708," 773 
+"," 32 
+"," 445 
+"," 143 
+"," 1218 
+"," 175 
+"," 9075.58 
+"," 451874.79 
+"," 0.02 
+"," 49.79 
+"," 25104.15 
+"," 1.96 
+"
+values_791," 447 
+"," 32 
+"," 238 
+"," 67 
+"," 685 
+"," 99 
+"," 4541.11 
+"," 258097.67 
+"," 0.02 
+"," 56.84 
+"," 14338.76 
+"," 1.35 
+"
+values_912," 369 
+"," 32 
+"," 193 
+"," 33 
+"," 562 
+"," 65 
+"," 3384.57 
+"," 316713.77 
+"," 0.01 
+"," 93.58 
+"," 17595.21 
+"," 1.55 
+"
+values_533," 528 
+"," 32 
+"," 289 
+"," 92 
+"," 817 
+"," 124 
+"," 5681.58 
+"," 285561.07 
+"," 0.02 
+"," 50.26 
+"," 15864.50 
+"," 1.45 
+"
+values_418," 1245 
+"," 32 
+"," 765 
+"," 152 
+"," 2010 
+"," 184 
+"," 15122.36 
+"," 1217747.90 
+"," 0.01 
+"," 80.53 
+"," 67652.66 
+"," 3.80 
+"
+values_228," 867 
+"," 32 
+"," 513 
+"," 145 
+"," 1380 
+"," 177 
+"," 10305.30 
+"," 583350.81 
+"," 0.02 
+"," 56.61 
+"," 32408.38 
+"," 2.33 
+"
+values_585," 458 
+"," 32 
+"," 253 
+"," 80 
+"," 711 
+"," 112 
+"," 4840.03 
+"," 244905.49 
+"," 0.02 
+"," 50.60 
+"," 13605.86 
+"," 1.30 
+"
+values_465," 621 
+"," 32 
+"," 358 
+"," 117 
+"," 979 
+"," 149 
+"," 7067.57 
+"," 346008.70 
+"," 0.02 
+"," 48.96 
+"," 19222.71 
+"," 1.64 
+"
+values_239," 590 
+"," 32 
+"," 333 
+"," 115 
+"," 923 
+"," 147 
+"," 6645.30 
+"," 307879.53 
+"," 0.02 
+"," 46.33 
+"," 17104.42 
+"," 1.52 
+"
+values_842," 378 
+"," 32 
+"," 198 
+"," 36 
+"," 576 
+"," 68 
+"," 3506.38 
+"," 308561.32 
+"," 0.01 
+"," 88 
+"," 17142.30 
+"," 1.52 
+"
+values_208," 817 
+"," 32 
+"," 478 
+"," 138 
+"," 1295 
+"," 170 
+"," 9595.16 
+"," 531766.62 
+"," 0.02 
+"," 55.42 
+"," 29542.59 
+"," 2.19 
+"
+values_932," 1402 
+"," 32 
+"," 865 
+"," 153 
+"," 2267 
+"," 185 
+"," 17073.64 
+"," 1544439.23 
+"," 0.01 
+"," 90.46 
+"," 85802.18 
+"," 4.45 
+"
+values_957," 1404 
+"," 32 
+"," 865 
+"," 153 
+"," 2269 
+"," 185 
+"," 17088.70 
+"," 1545801.77 
+"," 0.01 
+"," 90.46 
+"," 85877.88 
+"," 4.46 
+"
+values_563," 528 
+"," 32 
+"," 289 
+"," 91 
+"," 817 
+"," 123 
+"," 5672.03 
+"," 288214.14 
+"," 0.02 
+"," 50.81 
+"," 16011.90 
+"," 1.45 
+"
+values_766," 459 
+"," 32 
+"," 253 
+"," 81 
+"," 712 
+"," 113 
+"," 4855.97 
+"," 242678.47 
+"," 0.02 
+"," 49.98 
+"," 13482.14 
+"," 1.30 
+"
+values_476," 593 
+"," 32 
+"," 333 
+"," 117 
+"," 926 
+"," 149 
+"," 6684.95 
+"," 304422.34 
+"," 0.02 
+"," 45.54 
+"," 16912.35 
+"," 1.51 
+"
+values_175," 502 
+"," 32 
+"," 270 
+"," 91 
+"," 772 
+"," 123 
+"," 5359.62 
+"," 254434.76 
+"," 0.02 
+"," 47.47 
+"," 14135.26 
+"," 1.34 
+"
+values_591," 669 
+"," 32 
+"," 385 
+"," 127 
+"," 1054 
+"," 159 
+"," 7707.78 
+"," 373857.61 
+"," 0.02 
+"," 48.50 
+"," 20769.87 
+"," 1.73 
+"
+values_997," 1035 
+"," 32 
+"," 630 
+"," 151 
+"," 1665 
+"," 183 
+"," 12513.64 
+"," 835347.64 
+"," 0.01 
+"," 66.75 
+"," 46408.20 
+"," 2.96 
+"
+values_385," 1472 
+"," 32 
+"," 918 
+"," 152 
+"," 2390 
+"," 184 
+"," 17981.31 
+"," 1737562.67 
+"," 0.01 
+"," 96.63 
+"," 96531.26 
+"," 4.82 
+"
+values_115," 987 
+"," 32 
+"," 589 
+"," 146 
+"," 1576 
+"," 178 
+"," 11781.76 
+"," 760488.13 
+"," 0.02 
+"," 64.55 
+"," 42249.34 
+"," 2.78 
+"
+values_653," 403 
+"," 32 
+"," 214 
+"," 52 
+"," 617 
+"," 84 
+"," 3944.06 
+"," 259701.17 
+"," 0.02 
+"," 65.85 
+"," 14427.84 
+"," 1.36 
+"
+values_753," 524 
+"," 32 
+"," 289 
+"," 99 
+"," 813 
+"," 131 
+"," 5718.17 
+"," 267079.11 
+"," 0.02 
+"," 46.71 
+"," 14837.73 
+"," 1.38 
+"
+values_241," 920 
+"," 32 
+"," 550 
+"," 140 
+"," 1470 
+"," 172 
+"," 10916.61 
+"," 686186.86 
+"," 0.02 
+"," 62.86 
+"," 38121.49 
+"," 2.59 
+"
+values_197," 391 
+"," 32 
+"," 205 
+"," 43 
+"," 596 
+"," 75 
+"," 3712.38 
+"," 283176.58 
+"," 0.01 
+"," 76.28 
+"," 15732.03 
+"," 1.44 
+"
+values_636," 1188 
+"," 32 
+"," 718 
+"," 150 
+"," 1906 
+"," 182 
+"," 14309.86 
+"," 1095944.22 
+"," 0.01 
+"," 76.59 
+"," 60885.79 
+"," 3.54 
+"
+values_450," 420 
+"," 32 
+"," 225 
+"," 61 
+"," 645 
+"," 93 
+"," 4217.76 
+"," 248916.83 
+"," 0.02 
+"," 59.02 
+"," 13828.71 
+"," 1.32 
+"
+values_106," 811 
+"," 32 
+"," 478 
+"," 138 
+"," 1289 
+"," 170 
+"," 9550.70 
+"," 529302.83 
+"," 0.02 
+"," 55.42 
+"," 29405.71 
+"," 2.18 
+"
+values_699," 441 
+"," 32 
+"," 238 
+"," 71 
+"," 679 
+"," 103 
+"," 4540.13 
+"," 243504.64 
+"," 0.02 
+"," 53.63 
+"," 13528.04 
+"," 1.30 
+"
+values_578," 493 
+"," 32 
+"," 270 
+"," 93 
+"," 763 
+"," 125 
+"," 5314.89 
+"," 246885.37 
+"," 0.02 
+"," 46.45 
+"," 13715.85 
+"," 1.31 
+"
+values_644," 492 
+"," 32 
+"," 270 
+"," 87 
+"," 762 
+"," 119 
+"," 5253.85 
+"," 260880.88 
+"," 0.02 
+"," 49.66 
+"," 14493.38 
+"," 1.36 
+"
+values_570," 394 
+"," 32 
+"," 205 
+"," 44 
+"," 599 
+"," 76 
+"," 3742.51 
+"," 278987.00 
+"," 0.01 
+"," 74.55 
+"," 15499.28 
+"," 1.42 
+"
+values_873," 723 
+"," 32 
+"," 414 
+"," 132 
+"," 1137 
+"," 164 
+"," 8365.54 
+"," 419797.84 
+"," 0.02 
+"," 50.18 
+"," 23322.10 
+"," 1.87 
+"
+values_33," 1356 
+"," 32 
+"," 814 
+"," 152 
+"," 2170 
+"," 184 
+"," 16326.13 
+"," 1398891.51 
+"," 0.01 
+"," 85.68 
+"," 77716.20 
+"," 4.17 
+"
+values_210," 496 
+"," 32 
+"," 270 
+"," 88 
+"," 766 
+"," 120 
+"," 5290.68 
+"," 259724.20 
+"," 0.02 
+"," 49.09 
+"," 14429.12 
+"," 1.36 
+"
+values_486," 390 
+"," 32 
+"," 205 
+"," 45 
+"," 595 
+"," 77 
+"," 3728.74 
+"," 271783.57 
+"," 0.01 
+"," 72.89 
+"," 15099.09 
+"," 1.40 
+"
+values_252," 562 
+"," 32 
+"," 310 
+"," 98 
+"," 872 
+"," 130 
+"," 6123.50 
+"," 309924.32 
+"," 0.02 
+"," 50.61 
+"," 17218.02 
+"," 1.53 
+"
+values_694," 708 
+"," 32 
+"," 414 
+"," 137 
+"," 1122 
+"," 169 
+"," 8303.79 
+"," 401491.12 
+"," 0.02 
+"," 48.35 
+"," 22305.06 
+"," 1.81 
+"
+values_759," 1248 
+"," 32 
+"," 765 
+"," 152 
+"," 2013 
+"," 184 
+"," 15144.93 
+"," 1219565.43 
+"," 0.01 
+"," 80.53 
+"," 67753.64 
+"," 3.80 
+"
+values_245," 1469 
+"," 32 
+"," 918 
+"," 153 
+"," 2387 
+"," 185 
+"," 17977.41 
+"," 1725831.12 
+"," 0.01 
+"," 96 
+"," 95879.51 
+"," 4.80 
+"
+values_15," 408 
+"," 32 
+"," 214 
+"," 51 
+"," 622 
+"," 83 
+"," 3965.27 
+"," 266217.65 
+"," 0.01 
+"," 67.14 
+"," 14789.87 
+"," 1.38 
+"
+values_792," 1446 
+"," 32 
+"," 918 
+"," 153 
+"," 2364 
+"," 185 
+"," 17804.19 
+"," 1709201.83 
+"," 0.01 
+"," 96 
+"," 94955.66 
+"," 4.77 
+"
+values_248," 678 
+"," 32 
+"," 385 
+"," 122 
+"," 1063 
+"," 154 
+"," 7724.59 
+"," 390028.69 
+"," 0.02 
+"," 50.49 
+"," 21668.26 
+"," 1.78 
+"
+values_246," 1368 
+"," 32 
+"," 865 
+"," 153 
+"," 2233 
+"," 185 
+"," 16817.57 
+"," 1521276.05 
+"," 0.01 
+"," 90.46 
+"," 84515.34 
+"," 4.41 
+"
+values_556," 1570 
+"," 32 
+"," 973 
+"," 153 
+"," 2543 
+"," 185 
+"," 19152.30 
+"," 1948778.13 
+"," 0.01 
+"," 101.75 
+"," 108265.45 
+"," 5.20 
+"
+values_513," 381 
+"," 32 
+"," 198 
+"," 38 
+"," 579 
+"," 70 
+"," 3548.85 
+"," 295862.43 
+"," 0.01 
+"," 83.37 
+"," 16436.80 
+"," 1.48 
+"
+values_93," 818 
+"," 32 
+"," 478 
+"," 140 
+"," 1296 
+"," 172 
+"," 9624.44 
+"," 525769.36 
+"," 0.02 
+"," 54.63 
+"," 29209.41 
+"," 2.17 
+"
+values_558," 474 
+"," 32 
+"," 253 
+"," 76 
+"," 727 
+"," 108 
+"," 4910.80 
+"," 261564.89 
+"," 0.02 
+"," 53.26 
+"," 14531.38 
+"," 1.36 
+"
+values_991," 626 
+"," 32 
+"," 358 
+"," 121 
+"," 984 
+"," 153 
+"," 7141.27 
+"," 338059.44 
+"," 0.02 
+"," 47.34 
+"," 18781.08 
+"," 1.62 
+"
+values_181," 1549 
+"," 32 
+"," 973 
+"," 153 
+"," 2522 
+"," 185 
+"," 18994.14 
+"," 1932685.19 
+"," 0.01 
+"," 101.75 
+"," 107371.40 
+"," 5.17 
+"
+values_674," 368 
+"," 32 
+"," 193 
+"," 33 
+"," 561 
+"," 65 
+"," 3378.55 
+"," 316150.22 
+"," 0.01 
+"," 93.58 
+"," 17563.90 
+"," 1.55 
+"
+values_652," 381 
+"," 32 
+"," 198 
+"," 38 
+"," 579 
+"," 70 
+"," 3548.85 
+"," 295862.43 
+"," 0.01 
+"," 83.37 
+"," 16436.80 
+"," 1.48 
+"
+values_344," 912 
+"," 32 
+"," 550 
+"," 146 
+"," 1462 
+"," 178 
+"," 10929.52 
+"," 658765.73 
+"," 0.02 
+"," 60.27 
+"," 36598.10 
+"," 2.52 
+"
+values_715," 419 
+"," 32 
+"," 225 
+"," 61 
+"," 644 
+"," 93 
+"," 4211.22 
+"," 248530.91 
+"," 0.02 
+"," 59.02 
+"," 13807.27 
+"," 1.32 
+"
+values_528," 1477 
+"," 32 
+"," 918 
+"," 152 
+"," 2395 
+"," 184 
+"," 18018.93 
+"," 1741197.74 
+"," 0.01 
+"," 96.63 
+"," 96733.21 
+"," 4.82 
+"
+values_276," 627 
+"," 32 
+"," 358 
+"," 117 
+"," 985 
+"," 149 
+"," 7110.88 
+"," 348129.28 
+"," 0.02 
+"," 48.96 
+"," 19340.52 
+"," 1.65 
+"
+values_24," 371 
+"," 32 
+"," 193 
+"," 33 
+"," 564 
+"," 65 
+"," 3396.62 
+"," 317840.86 
+"," 0.01 
+"," 93.58 
+"," 17657.83 
+"," 1.55 
+"
+values_296," 756 
+"," 32 
+"," 445 
+"," 137 
+"," 1201 
+"," 169 
+"," 8888.46 
+"," 461940.21 
+"," 0.02 
+"," 51.97 
+"," 25663.34 
+"," 1.99 
+"
+values_244," 439 
+"," 32 
+"," 238 
+"," 72 
+"," 677 
+"," 104 
+"," 4536.20 
+"," 239914.46 
+"," 0.02 
+"," 52.89 
+"," 13328.58 
+"," 1.29 
+"
+values_380," 370 
+"," 32 
+"," 193 
+"," 33 
+"," 563 
+"," 65 
+"," 3390.59 
+"," 317277.32 
+"," 0.01 
+"," 93.58 
+"," 17626.52 
+"," 1.55 
+"
+values_25," 583 
+"," 32 
+"," 333 
+"," 109 
+"," 916 
+"," 141 
+"," 6539.83 
+"," 319671.64 
+"," 0.02 
+"," 48.88 
+"," 17759.54 
+"," 1.56 
+"
+values_740," 392 
+"," 32 
+"," 205 
+"," 43 
+"," 597 
+"," 75 
+"," 3718.60 
+"," 283651.71 
+"," 0.01 
+"," 76.28 
+"," 15758.43 
+"," 1.44 
+"
+values_478," 870 
+"," 32 
+"," 513 
+"," 144 
+"," 1383 
+"," 176 
+"," 10316.39 
+"," 588034.45 
+"," 0.02 
+"," 57 
+"," 32668.58 
+"," 2.34 
+"
+values_379," 390 
+"," 32 
+"," 205 
+"," 45 
+"," 595 
+"," 77 
+"," 3728.74 
+"," 271783.57 
+"," 0.01 
+"," 72.89 
+"," 15099.09 
+"," 1.40 
+"
+values_810," 1035 
+"," 32 
+"," 630 
+"," 149 
+"," 1665 
+"," 181 
+"," 12487.24 
+"," 844774.59 
+"," 0.01 
+"," 67.65 
+"," 46931.92 
+"," 2.98 
+"
+values_440," 1388 
+"," 32 
+"," 865 
+"," 152 
+"," 2253 
+"," 184 
+"," 16950.59 
+"," 1543395.38 
+"," 0.01 
+"," 91.05 
+"," 85744.19 
+"," 4.45 
+"
+values_543," 391 
+"," 32 
+"," 205 
+"," 44 
+"," 596 
+"," 76 
+"," 3723.76 
+"," 277589.74 
+"," 0.01 
+"," 74.55 
+"," 15421.65 
+"," 1.42 
+"
+values_130," 421 
+"," 32 
+"," 225 
+"," 64 
+"," 646 
+"," 96 
+"," 4253.89 
+"," 239281.07 
+"," 0.02 
+"," 56.25 
+"," 13293.39 
+"," 1.28 
+"
+values_225," 461 
+"," 32 
+"," 253 
+"," 76 
+"," 714 
+"," 108 
+"," 4822.99 
+"," 256887.66 
+"," 0.02 
+"," 53.26 
+"," 14271.54 
+"," 1.35 
+"
+values_285," 668 
+"," 32 
+"," 385 
+"," 120 
+"," 1053 
+"," 152 
+"," 7632.07 
+"," 391779.47 
+"," 0.02 
+"," 51.33 
+"," 21765.53 
+"," 1.78 
+"
+values_363," 377 
+"," 32 
+"," 198 
+"," 38 
+"," 575 
+"," 70 
+"," 3524.34 
+"," 293818.47 
+"," 0.01 
+"," 83.37 
+"," 16323.25 
+"," 1.47 
+"
+values_667," 389 
+"," 32 
+"," 205 
+"," 43 
+"," 594 
+"," 75 
+"," 3699.92 
+"," 282226.33 
+"," 0.01 
+"," 76.28 
+"," 15679.24 
+"," 1.43 
+"
+values_26," 1325 
+"," 32 
+"," 814 
+"," 152 
+"," 2139 
+"," 184 
+"," 16092.90 
+"," 1378907.35 
+"," 0.01 
+"," 85.68 
+"," 76605.96 
+"," 4.13 
+"
+values_793," 1112 
+"," 32 
+"," 673 
+"," 151 
+"," 1785 
+"," 183 
+"," 13415.52 
+"," 956677.91 
+"," 0.01 
+"," 71.31 
+"," 53148.77 
+"," 3.24 
+"
+values_772," 491 
+"," 32 
+"," 270 
+"," 92 
+"," 761 
+"," 124 
+"," 5292.14 
+"," 248500.65 
+"," 0.02 
+"," 46.96 
+"," 13805.59 
+"," 1.32 
+"
+values_931," 592 
+"," 32 
+"," 333 
+"," 120 
+"," 925 
+"," 152 
+"," 6704.33 
+"," 297672.38 
+"," 0.02 
+"," 44.40 
+"," 16537.35 
+"," 1.49 
+"
+values_981," 1060 
+"," 32 
+"," 630 
+"," 144 
+"," 1690 
+"," 176 
+"," 12606.44 
+"," 882450.76 
+"," 0.01 
+"," 70 
+"," 49025.04 
+"," 3.07 
+"
+values_422," 624 
+"," 32 
+"," 358 
+"," 124 
+"," 982 
+"," 156 
+"," 7154.26 
+"," 330480.89 
+"," 0.02 
+"," 46.19 
+"," 18360.05 
+"," 1.59 
+"
+values_920," 930 
+"," 32 
+"," 550 
+"," 146 
+"," 1480 
+"," 178 
+"," 11064.09 
+"," 666876.38 
+"," 0.02 
+"," 60.27 
+"," 37048.69 
+"," 2.54 
+"
+values_259," 1473 
+"," 32 
+"," 918 
+"," 152 
+"," 2391 
+"," 184 
+"," 17988.84 
+"," 1738289.69 
+"," 0.01 
+"," 96.63 
+"," 96571.65 
+"," 4.82 
+"
+values_477," 378 
+"," 32 
+"," 198 
+"," 38 
+"," 576 
+"," 70 
+"," 3530.47 
+"," 294329.46 
+"," 0.01 
+"," 83.37 
+"," 16351.64 
+"," 1.47 
+"
+values_738," 398 
+"," 32 
+"," 214 
+"," 52 
+"," 612 
+"," 84 
+"," 3912.10 
+"," 257596.62 
+"," 0.02 
+"," 65.85 
+"," 14310.92 
+"," 1.35 
+"
+values_430," 918 
+"," 32 
+"," 550 
+"," 146 
+"," 1468 
+"," 178 
+"," 10974.38 
+"," 661469.28 
+"," 0.02 
+"," 60.27 
+"," 36748.29 
+"," 2.53 
+"
+values_922," 527 
+"," 32 
+"," 289 
+"," 96 
+"," 816 
+"," 128 
+"," 5712 
+"," 275128 
+"," 0.02 
+"," 48.17 
+"," 15284.89 
+"," 1.41 
+"
+values_903," 1570 
+"," 32 
+"," 973 
+"," 153 
+"," 2543 
+"," 185 
+"," 19152.30 
+"," 1948778.13 
+"," 0.01 
+"," 101.75 
+"," 108265.45 
+"," 5.20 
+"
+values_761," 880 
+"," 32 
+"," 513 
+"," 141 
+"," 1393 
+"," 173 
+"," 10356.44 
+"," 602876.85 
+"," 0.02 
+"," 58.21 
+"," 33493.16 
+"," 2.38 
+"
+values_204," 1570 
+"," 32 
+"," 973 
+"," 152 
+"," 2543 
+"," 184 
+"," 19132.42 
+"," 1959562.40 
+"," 0.01 
+"," 102.42 
+"," 108864.58 
+"," 5.22 
+"
+values_48," 406 
+"," 32 
+"," 214 
+"," 52 
+"," 620 
+"," 84 
+"," 3963.24 
+"," 260963.90 
+"," 0.02 
+"," 65.85 
+"," 14497.99 
+"," 1.36 
+"
+values_71," 627 
+"," 32 
+"," 358 
+"," 116 
+"," 985 
+"," 148 
+"," 7101.31 
+"," 350657.87 
+"," 0.02 
+"," 49.38 
+"," 19480.99 
+"," 1.66 
+"
+values_851," 1090 
+"," 32 
+"," 673 
+"," 152 
+"," 1763 
+"," 184 
+"," 13264.04 
+"," 939652.50 
+"," 0.01 
+"," 70.84 
+"," 52202.92 
+"," 3.20 
+"
+values_347," 706 
+"," 32 
+"," 414 
+"," 129 
+"," 1120 
+"," 161 
+"," 8210.63 
+"," 421606.14 
+"," 0.02 
+"," 51.35 
+"," 23422.56 
+"," 1.87 
+"
+values_725," 706 
+"," 32 
+"," 414 
+"," 128 
+"," 1120 
+"," 160 
+"," 8200.56 
+"," 424378.95 
+"," 0.02 
+"," 51.75 
+"," 23576.61 
+"," 1.88 
+"
+values_266," 1237 
+"," 32 
+"," 765 
+"," 153 
+"," 2002 
+"," 185 
+"," 15077.83 
+"," 1206226.05 
+"," 0.01 
+"," 80 
+"," 67012.56 
+"," 3.78 
+"
+values_448," 422 
+"," 32 
+"," 225 
+"," 61 
+"," 647 
+"," 93 
+"," 4230.84 
+"," 249688.67 
+"," 0.02 
+"," 59.02 
+"," 13871.59 
+"," 1.32 
+"
+values_934," 523 
+"," 32 
+"," 289 
+"," 98 
+"," 812 
+"," 130 
+"," 5702.16 
+"," 269048.98 
+"," 0.02 
+"," 47.18 
+"," 14947.17 
+"," 1.39 
+"
+values_531," 986 
+"," 32 
+"," 589 
+"," 149 
+"," 1575 
+"," 181 
+"," 11812.26 
+"," 747105.45 
+"," 0.02 
+"," 63.25 
+"," 41505.86 
+"," 2.74 
+"
+values_224," 986 
+"," 32 
+"," 589 
+"," 147 
+"," 1575 
+"," 179 
+"," 11787.01 
+"," 755651.57 
+"," 0.02 
+"," 64.11 
+"," 41980.64 
+"," 2.77 
+"
+values_686," 1081 
+"," 32 
+"," 673 
+"," 149 
+"," 1754 
+"," 181 
+"," 13154.73 
+"," 950672.01 
+"," 0.01 
+"," 72.27 
+"," 52815.11 
+"," 3.22 
+"
+values_927," 1565 
+"," 32 
+"," 973 
+"," 153 
+"," 2538 
+"," 185 
+"," 19114.65 
+"," 1944946.48 
+"," 0.01 
+"," 101.75 
+"," 108052.58 
+"," 5.19 
+"
+values_407," 404 
+"," 32 
+"," 214 
+"," 53 
+"," 618 
+"," 85 
+"," 3961.00 
+"," 255895.78 
+"," 0.02 
+"," 64.60 
+"," 14216.43 
+"," 1.34 
+"
+values_76," 798 
+"," 32 
+"," 478 
+"," 136 
+"," 1276 
+"," 168 
+"," 9432.60 
+"," 530444.87 
+"," 0.02 
+"," 56.24 
+"," 29469.16 
+"," 2.18 
+"
+values_949," 420 
+"," 32 
+"," 225 
+"," 62 
+"," 645 
+"," 94 
+"," 4227.71 
+"," 245479.92 
+"," 0.02 
+"," 58.06 
+"," 13637.77 
+"," 1.31 
+"
+values_969," 1248 
+"," 32 
+"," 765 
+"," 150 
+"," 2013 
+"," 182 
+"," 15113.19 
+"," 1233236.35 
+"," 0.01 
+"," 81.60 
+"," 68513.13 
+"," 3.83 
+"
+values_781," 712 
+"," 32 
+"," 414 
+"," 130 
+"," 1126 
+"," 162 
+"," 8264.67 
+"," 421116.78 
+"," 0.02 
+"," 50.95 
+"," 23395.38 
+"," 1.87 
+"
+values_7," 1500 
+"," 32 
+"," 918 
+"," 153 
+"," 2418 
+"," 185 
+"," 18210.88 
+"," 1748244.52 
+"," 0.01 
+"," 96 
+"," 97124.70 
+"," 4.84 
+"
+values_683," 1561 
+"," 32 
+"," 973 
+"," 153 
+"," 2534 
+"," 185 
+"," 19084.52 
+"," 1941881.16 
+"," 0.01 
+"," 101.75 
+"," 107882.29 
+"," 5.19 
+"
+values_376," 402 
+"," 32 
+"," 214 
+"," 48 
+"," 616 
+"," 80 
+"," 3894.31 
+"," 277793.95 
+"," 0.01 
+"," 71.33 
+"," 15433.00 
+"," 1.42 
+"
+values_877," 865 
+"," 32 
+"," 513 
+"," 142 
+"," 1378 
+"," 174 
+"," 10256.38 
+"," 592847.43 
+"," 0.02 
+"," 57.80 
+"," 32935.97 
+"," 2.35 
+"
+values_654," 1478 
+"," 32 
+"," 918 
+"," 153 
+"," 2396 
+"," 185 
+"," 18045.19 
+"," 1732338.24 
+"," 0.01 
+"," 96 
+"," 96241.01 
+"," 4.81 
+"
+values_508," 377 
+"," 32 
+"," 198 
+"," 38 
+"," 575 
+"," 70 
+"," 3524.34 
+"," 293818.47 
+"," 0.01 
+"," 83.37 
+"," 16323.25 
+"," 1.47 
+"
+values_332," 526 
+"," 32 
+"," 289 
+"," 95 
+"," 815 
+"," 127 
+"," 5695.78 
+"," 277234.50 
+"," 0.02 
+"," 48.67 
+"," 15401.92 
+"," 1.42 
+"
+values_281," 728 
+"," 32 
+"," 414 
+"," 134 
+"," 1142 
+"," 166 
+"," 8422.30 
+"," 416337.93 
+"," 0.02 
+"," 49.43 
+"," 23129.88 
+"," 1.86 
+"
+values_381," 927 
+"," 32 
+"," 550 
+"," 149 
+"," 1477 
+"," 181 
+"," 11077.27 
+"," 654228.17 
+"," 0.02 
+"," 59.06 
+"," 36346.01 
+"," 2.51 
+"
+values_769," 721 
+"," 32 
+"," 414 
+"," 129 
+"," 1135 
+"," 161 
+"," 8320.59 
+"," 427252.66 
+"," 0.02 
+"," 51.35 
+"," 23736.26 
+"," 1.89 
+"
+values_701," 1164 
+"," 32 
+"," 718 
+"," 151 
+"," 1882 
+"," 183 
+"," 14144.55 
+"," 1076109.65 
+"," 0.01 
+"," 76.08 
+"," 59783.87 
+"," 3.50 
+"
+values_855," 369 
+"," 32 
+"," 193 
+"," 33 
+"," 562 
+"," 65 
+"," 3384.57 
+"," 316713.77 
+"," 0.01 
+"," 93.58 
+"," 17595.21 
+"," 1.55 
+"
+values_320," 816 
+"," 32 
+"," 478 
+"," 145 
+"," 1294 
+"," 177 
+"," 9663.08 
+"," 509677.57 
+"," 0.02 
+"," 52.74 
+"," 28315.42 
+"," 2.13 
+"
+values_50," 1459 
+"," 32 
+"," 918 
+"," 153 
+"," 2377 
+"," 185 
+"," 17902.09 
+"," 1718601.00 
+"," 0.01 
+"," 96 
+"," 95477.83 
+"," 4.78 
+"
+values_918," 1406 
+"," 32 
+"," 865 
+"," 153 
+"," 2271 
+"," 185 
+"," 17103.77 
+"," 1547164.31 
+"," 0.01 
+"," 90.46 
+"," 85953.57 
+"," 4.46 
+"
+values_615," 977 
+"," 32 
+"," 589 
+"," 151 
+"," 1566 
+"," 183 
+"," 11769.59 
+"," 734546.87 
+"," 0.02 
+"," 62.41 
+"," 40808.16 
+"," 2.71 
+"
+values_704," 562 
+"," 32 
+"," 310 
+"," 107 
+"," 872 
+"," 139 
+"," 6207.72 
+"," 287759.57 
+"," 0.02 
+"," 46.36 
+"," 15986.64 
+"," 1.45 
+"
+values_633," 973 
+"," 32 
+"," 589 
+"," 152 
+"," 1562 
+"," 184 
+"," 11751.80 
+"," 728611.83 
+"," 0.02 
+"," 62 
+"," 40478.44 
+"," 2.70 
+"
+values_847," 643 
+"," 32 
+"," 358 
+"," 115 
+"," 1001 
+"," 147 
+"," 7206.87 
+"," 358964.89 
+"," 0.02 
+"," 49.81 
+"," 19942.49 
+"," 1.68 
+"
+values_602," 931 
+"," 32 
+"," 550 
+"," 148 
+"," 1481 
+"," 180 
+"," 11095.43 
+"," 659728.53 
+"," 0.02 
+"," 59.46 
+"," 36651.59 
+"," 2.53 
+"
+values_399," 379 
+"," 32 
+"," 198 
+"," 38 
+"," 577 
+"," 70 
+"," 3536.60 
+"," 294840.45 
+"," 0.01 
+"," 83.37 
+"," 16380.02 
+"," 1.48 
+"
+values_22," 389 
+"," 32 
+"," 205 
+"," 43 
+"," 594 
+"," 75 
+"," 3699.92 
+"," 282226.33 
+"," 0.01 
+"," 76.28 
+"," 15679.24 
+"," 1.43 
+"
+values_313," 441 
+"," 32 
+"," 238 
+"," 71 
+"," 679 
+"," 103 
+"," 4540.13 
+"," 243504.64 
+"," 0.02 
+"," 53.63 
+"," 13528.04 
+"," 1.30 
+"
+values_375," 929 
+"," 32 
+"," 550 
+"," 149 
+"," 1479 
+"," 181 
+"," 11092.27 
+"," 655114.05 
+"," 0.02 
+"," 59.06 
+"," 36395.23 
+"," 2.51 
+"
+values_963," 368 
+"," 32 
+"," 193 
+"," 33 
+"," 561 
+"," 65 
+"," 3378.55 
+"," 316150.22 
+"," 0.01 
+"," 93.58 
+"," 17563.90 
+"," 1.55 
+"
+values_168," 925 
+"," 32 
+"," 550 
+"," 150 
+"," 1475 
+"," 182 
+"," 11074.00 
+"," 649674.50 
+"," 0.02 
+"," 58.67 
+"," 36093.03 
+"," 2.50 
+"
+values_226," 803 
+"," 32 
+"," 478 
+"," 137 
+"," 1281 
+"," 169 
+"," 9480.53 
+"," 529248.67 
+"," 0.02 
+"," 55.82 
+"," 29402.70 
+"," 2.18 
+"
+values_190," 863 
+"," 32 
+"," 513 
+"," 143 
+"," 1376 
+"," 175 
+"," 10252.87 
+"," 588500.20 
+"," 0.02 
+"," 57.40 
+"," 32694.46 
+"," 2.34 
+"
+values_429," 493 
+"," 32 
+"," 270 
+"," 89 
+"," 763 
+"," 121 
+"," 5279.09 
+"," 256243.60 
+"," 0.02 
+"," 48.54 
+"," 14235.76 
+"," 1.34 
+"
+values_236," 487 
+"," 32 
+"," 270 
+"," 83 
+"," 757 
+"," 115 
+"," 5182.04 
+"," 269715.61 
+"," 0.02 
+"," 52.05 
+"," 14984.20 
+"," 1.39 
+"
+values_777," 522 
+"," 32 
+"," 289 
+"," 100 
+"," 811 
+"," 132 
+"," 5713.00 
+"," 264169.29 
+"," 0.02 
+"," 46.24 
+"," 14676.07 
+"," 1.37 
+"
+values_909," 925 
+"," 32 
+"," 550 
+"," 149 
+"," 1475 
+"," 181 
+"," 11062.27 
+"," 653342.28 
+"," 0.02 
+"," 59.06 
+"," 36296.79 
+"," 2.51 
+"
+values_438," 672 
+"," 32 
+"," 385 
+"," 130 
+"," 1057 
+"," 162 
+"," 7758.22 
+"," 367620.34 
+"," 0.02 
+"," 47.38 
+"," 20423.35 
+"," 1.71 
+"
+values_607," 1551 
+"," 32 
+"," 973 
+"," 153 
+"," 2524 
+"," 185 
+"," 19009.21 
+"," 1934217.85 
+"," 0.01 
+"," 101.75 
+"," 107456.55 
+"," 5.17 
+"
+values_717," 442 
+"," 32 
+"," 238 
+"," 68 
+"," 680 
+"," 100 
+"," 4517.82 
+"," 252998.04 
+"," 0.02 
+"," 56 
+"," 14055.45 
+"," 1.33 
+"
+values_782," 519 
+"," 32 
+"," 289 
+"," 91 
+"," 808 
+"," 123 
+"," 5609.55 
+"," 285039.20 
+"," 0.02 
+"," 50.81 
+"," 15835.51 
+"," 1.44 
+"
+values_258," 923 
+"," 32 
+"," 550 
+"," 145 
+"," 1473 
+"," 177 
+"," 10999.78 
+"," 667573.04 
+"," 0.02 
+"," 60.69 
+"," 37087.39 
+"," 2.55 
+"
+values_872," 438 
+"," 32 
+"," 238 
+"," 67 
+"," 676 
+"," 99 
+"," 4481.45 
+"," 254706.61 
+"," 0.02 
+"," 56.84 
+"," 14150.37 
+"," 1.34 
+"
+values_637," 441 
+"," 32 
+"," 238 
+"," 64 
+"," 679 
+"," 96 
+"," 4471.19 
+"," 266035.78 
+"," 0.02 
+"," 59.50 
+"," 14779.77 
+"," 1.38 
+"
+values_746," 388 
+"," 32 
+"," 205 
+"," 44 
+"," 593 
+"," 76 
+"," 3705.02 
+"," 276192.48 
+"," 0.01 
+"," 74.55 
+"," 15344.03 
+"," 1.41 
+"
+values_4," 938 
+"," 32 
+"," 550 
+"," 147 
+"," 1488 
+"," 179 
+"," 11135.92 
+"," 666639.98 
+"," 0.02 
+"," 59.86 
+"," 37035.55 
+"," 2.54 
+"
+values_345," 751 
+"," 32 
+"," 445 
+"," 138 
+"," 1196 
+"," 170 
+"," 8861.63 
+"," 457208.82 
+"," 0.02 
+"," 51.59 
+"," 25400.49 
+"," 1.98 
+"
+values_102," 932 
+"," 32 
+"," 550 
+"," 145 
+"," 1482 
+"," 177 
+"," 11066.99 
+"," 671651.89 
+"," 0.02 
+"," 60.69 
+"," 37313.99 
+"," 2.56 
+"
+values_962," 524 
+"," 32 
+"," 289 
+"," 93 
+"," 813 
+"," 125 
+"," 5663.18 
+"," 281575.88 
+"," 0.02 
+"," 49.72 
+"," 15643.10 
+"," 1.43 
+"
+values_356," 378 
+"," 32 
+"," 198 
+"," 38 
+"," 576 
+"," 70 
+"," 3530.47 
+"," 294329.46 
+"," 0.01 
+"," 83.37 
+"," 16351.64 
+"," 1.47 
+"
+values_853," 380 
+"," 32 
+"," 198 
+"," 38 
+"," 578 
+"," 70 
+"," 3542.73 
+"," 295351.44 
+"," 0.01 
+"," 83.37 
+"," 16408.41 
+"," 1.48 
+"
+values_849," 518 
+"," 32 
+"," 289 
+"," 97 
+"," 807 
+"," 129 
+"," 5658.06 
+"," 269720.32 
+"," 0.02 
+"," 47.67 
+"," 14984.46 
+"," 1.39 
+"
+values_814," 673 
+"," 32 
+"," 385 
+"," 120 
+"," 1058 
+"," 152 
+"," 7668.31 
+"," 393639.78 
+"," 0.02 
+"," 51.33 
+"," 21868.88 
+"," 1.79 
+"
+values_370," 1192 
+"," 32 
+"," 718 
+"," 150 
+"," 1910 
+"," 182 
+"," 14339.89 
+"," 1098244.20 
+"," 0.01 
+"," 76.59 
+"," 61013.57 
+"," 3.55 
+"
+values_778," 1595 
+"," 32 
+"," 973 
+"," 153 
+"," 2568 
+"," 185 
+"," 19340.59 
+"," 1967936.39 
+"," 0.01 
+"," 101.75 
+"," 109329.80 
+"," 5.23 
+"
+values_458," 729 
+"," 32 
+"," 414 
+"," 130 
+"," 1143 
+"," 162 
+"," 8389.45 
+"," 427474.67 
+"," 0.02 
+"," 50.95 
+"," 23748.59 
+"," 1.89 
+"
+values_818," 909 
+"," 32 
+"," 550 
+"," 145 
+"," 1459 
+"," 177 
+"," 10895.24 
+"," 661228.15 
+"," 0.02 
+"," 60.69 
+"," 36734.90 
+"," 2.53 
+"
+values_119," 552 
+"," 32 
+"," 310 
+"," 106 
+"," 862 
+"," 138 
+"," 6127.55 
+"," 286723.00 
+"," 0.02 
+"," 46.79 
+"," 15929.06 
+"," 1.45 
+"
+values_373," 860 
+"," 32 
+"," 513 
+"," 142 
+"," 1373 
+"," 174 
+"," 10219.16 
+"," 590696.32 
+"," 0.02 
+"," 57.80 
+"," 32816.46 
+"," 2.35 
+"
+values_351," 861 
+"," 32 
+"," 513 
+"," 145 
+"," 1374 
+"," 177 
+"," 10260.49 
+"," 580814.50 
+"," 0.02 
+"," 56.61 
+"," 32267.47 
+"," 2.32 
+"
+values_32," 979 
+"," 32 
+"," 589 
+"," 145 
+"," 1568 
+"," 177 
+"," 11709.21 
+"," 761017.60 
+"," 0.02 
+"," 64.99 
+"," 42278.76 
+"," 2.78 
+"
+values_770," 671 
+"," 32 
+"," 385 
+"," 134 
+"," 1056 
+"," 166 
+"," 7788.04 
+"," 358017.44 
+"," 0.02 
+"," 45.97 
+"," 19889.86 
+"," 1.68 
+"
+values_371," 1571 
+"," 32 
+"," 973 
+"," 153 
+"," 2544 
+"," 185 
+"," 19159.83 
+"," 1949544.46 
+"," 0.01 
+"," 101.75 
+"," 108308.03 
+"," 5.20 
+"
+values_283," 1385 
+"," 32 
+"," 865 
+"," 152 
+"," 2250 
+"," 184 
+"," 16928.01 
+"," 1541340.26 
+"," 0.01 
+"," 91.05 
+"," 85630.01 
+"," 4.45 
+"
+values_535," 491 
+"," 32 
+"," 270 
+"," 90 
+"," 761 
+"," 122 
+"," 5274.29 
+"," 253165.97 
+"," 0.02 
+"," 48 
+"," 14064.78 
+"," 1.33 
+"
+values_250," 1477 
+"," 32 
+"," 918 
+"," 152 
+"," 2395 
+"," 184 
+"," 18018.93 
+"," 1741197.74 
+"," 0.01 
+"," 96.63 
+"," 96733.21 
+"," 4.82 
+"
+values_132," 370 
+"," 32 
+"," 193 
+"," 33 
+"," 563 
+"," 65 
+"," 3390.59 
+"," 317277.32 
+"," 0.01 
+"," 93.58 
+"," 17626.52 
+"," 1.55 
+"
+values_649," 468 
+"," 32 
+"," 253 
+"," 78 
+"," 721 
+"," 110 
+"," 4889.36 
+"," 253745.27 
+"," 0.02 
+"," 51.90 
+"," 14096.96 
+"," 1.34 
+"
+values_77," 405 
+"," 32 
+"," 214 
+"," 53 
+"," 619 
+"," 85 
+"," 3967.41 
+"," 256309.85 
+"," 0.02 
+"," 64.60 
+"," 14239.44 
+"," 1.34 
+"
+values_260," 1206 
+"," 32 
+"," 718 
+"," 150 
+"," 1924 
+"," 182 
+"," 14445.00 
+"," 1106294.16 
+"," 0.01 
+"," 76.59 
+"," 61460.79 
+"," 3.57 
+"
+values_891," 1157 
+"," 32 
+"," 718 
+"," 149 
+"," 1875 
+"," 181 
+"," 14062.21 
+"," 1084205.91 
+"," 0.01 
+"," 77.10 
+"," 60233.66 
+"," 3.52 
+"
+values_91," 1312 
+"," 32 
+"," 814 
+"," 151 
+"," 2126 
+"," 183 
+"," 15978.38 
+"," 1378161.54 
+"," 0.01 
+"," 86.25 
+"," 76564.53 
+"," 4.13 
+"
+values_137," 370 
+"," 32 
+"," 193 
+"," 32 
+"," 563 
+"," 64 
+"," 3378 
+"," 325977 
+"," 0.01 
+"," 96.50 
+"," 18109.83 
+"," 1.58 
+"
+values_42," 722 
+"," 32 
+"," 414 
+"," 129 
+"," 1136 
+"," 161 
+"," 8327.92 
+"," 427629.09 
+"," 0.02 
+"," 51.35 
+"," 23757.17 
+"," 1.89 
+"
+values_13," 1122 
+"," 32 
+"," 673 
+"," 152 
+"," 1795 
+"," 184 
+"," 13504.79 
+"," 956708.02 
+"," 0.01 
+"," 70.84 
+"," 53150.45 
+"," 3.24 
+"
+values_577," 756 
+"," 32 
+"," 445 
+"," 138 
+"," 1201 
+"," 170 
+"," 8898.68 
+"," 459120.22 
+"," 0.02 
+"," 51.59 
+"," 25506.68 
+"," 1.98 
+"
+values_41," 1033 
+"," 32 
+"," 630 
+"," 147 
+"," 1663 
+"," 179 
+"," 12445.59 
+"," 853411.59 
+"," 0.01 
+"," 68.57 
+"," 47411.75 
+"," 3.00 
+"
+values_809," 769 
+"," 32 
+"," 445 
+"," 140 
+"," 1214 
+"," 172 
+"," 9015.49 
+"," 458501.83 
+"," 0.02 
+"," 50.86 
+"," 25472.32 
+"," 1.98 
+"
+values_414," 1024 
+"," 32 
+"," 630 
+"," 147 
+"," 1654 
+"," 179 
+"," 12378.23 
+"," 848793.00 
+"," 0.01 
+"," 68.57 
+"," 47155.17 
+"," 2.99 
+"
+values_360," 1312 
+"," 32 
+"," 814 
+"," 153 
+"," 2126 
+"," 185 
+"," 16011.72 
+"," 1362984.33 
+"," 0.01 
+"," 85.12 
+"," 75721.35 
+"," 4.10 
+"
+values_386," 1396 
+"," 32 
+"," 865 
+"," 153 
+"," 2261 
+"," 185 
+"," 17028.45 
+"," 1540351.61 
+"," 0.01 
+"," 90.46 
+"," 85575.09 
+"," 4.45 
+"
+values_158," 369 
+"," 32 
+"," 193 
+"," 33 
+"," 562 
+"," 65 
+"," 3384.57 
+"," 316713.77 
+"," 0.01 
+"," 93.58 
+"," 17595.21 
+"," 1.55 
+"
+values_904," 1311 
+"," 32 
+"," 814 
+"," 153 
+"," 2125 
+"," 185 
+"," 16004.19 
+"," 1362343.22 
+"," 0.01 
+"," 85.12 
+"," 75685.73 
+"," 4.10 
+"
+values_480," 1254 
+"," 32 
+"," 765 
+"," 152 
+"," 2019 
+"," 184 
+"," 15190.07 
+"," 1223200.50 
+"," 0.01 
+"," 80.53 
+"," 67955.58 
+"," 3.81 
+"
+values_647," 716 
+"," 32 
+"," 414 
+"," 124 
+"," 1130 
+"," 156 
+"," 8232.50 
+"," 439775.08 
+"," 0.02 
+"," 53.42 
+"," 24431.95 
+"," 1.93 
+"
+values_104," 630 
+"," 32 
+"," 358 
+"," 120 
+"," 988 
+"," 152 
+"," 7160.95 
+"," 341816.13 
+"," 0.02 
+"," 47.73 
+"," 18989.78 
+"," 1.63 
+"
+values_55," 1539 
+"," 32 
+"," 973 
+"," 153 
+"," 2512 
+"," 185 
+"," 18918.83 
+"," 1925021.89 
+"," 0.01 
+"," 101.75 
+"," 106945.66 
+"," 5.16 
+"
+values_491," 794 
+"," 32 
+"," 478 
+"," 137 
+"," 1272 
+"," 169 
+"," 9413.92 
+"," 525530.29 
+"," 0.02 
+"," 55.82 
+"," 29196.13 
+"," 2.17 
+"
+values_391," 566 
+"," 32 
+"," 310 
+"," 96 
+"," 876 
+"," 128 
+"," 6132 
+"," 316820 
+"," 0.02 
+"," 51.67 
+"," 17601.11 
+"," 1.55 
+"
+values_972," 761 
+"," 32 
+"," 445 
+"," 136 
+"," 1206 
+"," 168 
+"," 8915.13 
+"," 466733.53 
+"," 0.02 
+"," 52.35 
+"," 25929.64 
+"," 2.01 
+"
+values_571," 672 
+"," 32 
+"," 385 
+"," 128 
+"," 1057 
+"," 160 
+"," 7739.28 
+"," 372452.75 
+"," 0.02 
+"," 48.12 
+"," 20691.82 
+"," 1.73 
+"
+values_940," 894 
+"," 32 
+"," 550 
+"," 143 
+"," 1444 
+"," 175 
+"," 10759.55 
+"," 662126.08 
+"," 0.02 
+"," 61.54 
+"," 36784.78 
+"," 2.53 
+"
+values_861," 421 
+"," 32 
+"," 225 
+"," 59 
+"," 646 
+"," 91 
+"," 4204.04 
+"," 256517.41 
+"," 0.02 
+"," 61.02 
+"," 14250.97 
+"," 1.35 
+"
+values_324," 390 
+"," 32 
+"," 205 
+"," 43 
+"," 595 
+"," 75 
+"," 3706.15 
+"," 282701.45 
+"," 0.01 
+"," 76.28 
+"," 15705.64 
+"," 1.44 
+"
+values_549," 975 
+"," 32 
+"," 589 
+"," 151 
+"," 1564 
+"," 183 
+"," 11754.55 
+"," 733608.76 
+"," 0.02 
+"," 62.41 
+"," 40756.04 
+"," 2.71 
+"
+values_170," 634 
+"," 32 
+"," 358 
+"," 122 
+"," 992 
+"," 154 
+"," 7208.65 
+"," 338452.13 
+"," 0.02 
+"," 46.95 
+"," 18802.90 
+"," 1.62 
+"
+values_269," 593 
+"," 32 
+"," 333 
+"," 121 
+"," 926 
+"," 153 
+"," 6720.34 
+"," 295917.17 
+"," 0.02 
+"," 44.03 
+"," 16439.84 
+"," 1.48 
+"
+values_442," 617 
+"," 32 
+"," 358 
+"," 122 
+"," 975 
+"," 154 
+"," 7085.12 
+"," 332652.04 
+"," 0.02 
+"," 46.95 
+"," 18480.67 
+"," 1.60 
+"
+values_520," 659 
+"," 32 
+"," 385 
+"," 128 
+"," 1044 
+"," 160 
+"," 7644.09 
+"," 367871.97 
+"," 0.02 
+"," 48.12 
+"," 20437.33 
+"," 1.71 
+"
+values_455," 671 
+"," 32 
+"," 385 
+"," 128 
+"," 1056 
+"," 160 
+"," 7731.96 
+"," 372100.39 
+"," 0.02 
+"," 48.12 
+"," 20672.24 
+"," 1.72 
+"
+values_31," 984 
+"," 32 
+"," 589 
+"," 147 
+"," 1573 
+"," 179 
+"," 11772.04 
+"," 754692.01 
+"," 0.02 
+"," 64.11 
+"," 41927.33 
+"," 2.76 
+"
+values_971," 490 
+"," 32 
+"," 270 
+"," 85 
+"," 760 
+"," 117 
+"," 5221.48 
+"," 265373.90 
+"," 0.02 
+"," 50.82 
+"," 14742.99 
+"," 1.38 
+"
+values_397," 874 
+"," 32 
+"," 513 
+"," 144 
+"," 1387 
+"," 176 
+"," 10346.23 
+"," 589735.20 
+"," 0.02 
+"," 57 
+"," 32763.07 
+"," 2.34 
+"
+values_254," 389 
+"," 32 
+"," 205 
+"," 42 
+"," 594 
+"," 74 
+"," 3688.42 
+"," 288047.67 
+"," 0.01 
+"," 78.10 
+"," 16002.65 
+"," 1.45 
+"
+values_616," 591 
+"," 32 
+"," 333 
+"," 115 
+"," 924 
+"," 147 
+"," 6652.50 
+"," 308213.09 
+"," 0.02 
+"," 46.33 
+"," 17122.95 
+"," 1.52 
+"
+values_66," 423 
+"," 32 
+"," 225 
+"," 61 
+"," 648 
+"," 93 
+"," 4237.37 
+"," 250074.58 
+"," 0.02 
+"," 59.02 
+"," 13893.03 
+"," 1.32 
+"
+values_943," 970 
+"," 32 
+"," 589 
+"," 149 
+"," 1559 
+"," 181 
+"," 11692.26 
+"," 739515.81 
+"," 0.02 
+"," 63.25 
+"," 41084.21 
+"," 2.73 
+"
+values_117," 455 
+"," 32 
+"," 253 
+"," 74 
+"," 708 
+"," 106 
+"," 4763.37 
+"," 260569.09 
+"," 0.02 
+"," 54.70 
+"," 14476.06 
+"," 1.36 
+"
+values_451," 807 
+"," 32 
+"," 478 
+"," 144 
+"," 1285 
+"," 176 
+"," 9585.37 
+"," 509089.63 
+"," 0.02 
+"," 53.11 
+"," 28282.76 
+"," 2.13 
+"
+values_643," 1060 
+"," 32 
+"," 630 
+"," 149 
+"," 1690 
+"," 181 
+"," 12674.74 
+"," 857458.89 
+"," 0.01 
+"," 67.65 
+"," 47636.61 
+"," 3.01 
+"
+values_688," 968 
+"," 32 
+"," 589 
+"," 143 
+"," 1557 
+"," 175 
+"," 11601.54 
+"," 764565.54 
+"," 0.02 
+"," 65.90 
+"," 42475.86 
+"," 2.79 
+"
+values_569," 494 
+"," 32 
+"," 270 
+"," 90 
+"," 764 
+"," 122 
+"," 5295.08 
+"," 254164.00 
+"," 0.02 
+"," 48 
+"," 14120.22 
+"," 1.34 
+"
+values_745," 410 
+"," 32 
+"," 214 
+"," 51 
+"," 624 
+"," 83 
+"," 3978.02 
+"," 267073.65 
+"," 0.01 
+"," 67.14 
+"," 14837.43 
+"," 1.38 
+"
+values_65," 523 
+"," 32 
+"," 289 
+"," 94 
+"," 812 
+"," 126 
+"," 5665.55 
+"," 278696.91 
+"," 0.02 
+"," 49.19 
+"," 15483.16 
+"," 1.42 
+"
+values_980," 389 
+"," 32 
+"," 205 
+"," 43 
+"," 594 
+"," 75 
+"," 3699.92 
+"," 282226.33 
+"," 0.01 
+"," 76.28 
+"," 15679.24 
+"," 1.43 
+"
+values_982," 1237 
+"," 32 
+"," 765 
+"," 150 
+"," 2002 
+"," 182 
+"," 15030.60 
+"," 1226497.36 
+"," 0.01 
+"," 81.60 
+"," 68138.74 
+"," 3.82 
+"
+values_62," 422 
+"," 32 
+"," 225 
+"," 60 
+"," 647 
+"," 92 
+"," 4220.74 
+"," 253244.68 
+"," 0.02 
+"," 60 
+"," 14069.15 
+"," 1.33 
+"
+values_789," 1178 
+"," 32 
+"," 718 
+"," 152 
+"," 1896 
+"," 184 
+"," 14264.67 
+"," 1078109.01 
+"," 0.01 
+"," 75.58 
+"," 59894.94 
+"," 3.50 
+"
+values_401," 465 
+"," 32 
+"," 253 
+"," 78 
+"," 718 
+"," 110 
+"," 4869.02 
+"," 252689.46 
+"," 0.02 
+"," 51.90 
+"," 14038.30 
+"," 1.33 
+"
+values_21," 914 
+"," 32 
+"," 550 
+"," 145 
+"," 1464 
+"," 177 
+"," 10932.57 
+"," 663494.18 
+"," 0.02 
+"," 60.69 
+"," 36860.79 
+"," 2.54 
+"
+values_598," 1568 
+"," 32 
+"," 973 
+"," 153 
+"," 2541 
+"," 185 
+"," 19137.24 
+"," 1947245.47 
+"," 0.01 
+"," 101.75 
+"," 108180.30 
+"," 5.20 
+"
+values_273," 1571 
+"," 32 
+"," 973 
+"," 153 
+"," 2544 
+"," 185 
+"," 19159.83 
+"," 1949544.46 
+"," 0.01 
+"," 101.75 
+"," 108308.03 
+"," 5.20 
+"
+values_534," 445 
+"," 32 
+"," 238 
+"," 68 
+"," 683 
+"," 100 
+"," 4537.75 
+"," 254114.21 
+"," 0.02 
+"," 56 
+"," 14117.46 
+"," 1.34 
+"
+values_118," 1566 
+"," 32 
+"," 973 
+"," 153 
+"," 2539 
+"," 185 
+"," 19122.18 
+"," 1945712.81 
+"," 0.01 
+"," 101.75 
+"," 108095.16 
+"," 5.20 
+"
+values_141," 721 
+"," 32 
+"," 414 
+"," 135 
+"," 1135 
+"," 167 
+"," 8380.50 
+"," 411203.41 
+"," 0.02 
+"," 49.07 
+"," 22844.63 
+"," 1.84 
+"
+values_366," 556 
+"," 32 
+"," 310 
+"," 103 
+"," 866 
+"," 135 
+"," 6128.52 
+"," 295121.07 
+"," 0.02 
+"," 48.16 
+"," 16395.62 
+"," 1.48 
+"
+values_222," 370 
+"," 32 
+"," 193 
+"," 33 
+"," 563 
+"," 65 
+"," 3390.59 
+"," 317277.32 
+"," 0.01 
+"," 93.58 
+"," 17626.52 
+"," 1.55 
+"
+values_876," 371 
+"," 32 
+"," 193 
+"," 32 
+"," 564 
+"," 64 
+"," 3384 
+"," 326556 
+"," 0.01 
+"," 96.50 
+"," 18142 
+"," 1.58 
+"
+values_700," 470 
+"," 32 
+"," 253 
+"," 80 
+"," 723 
+"," 112 
+"," 4921.72 
+"," 249038.91 
+"," 0.02 
+"," 50.60 
+"," 13835.50 
+"," 1.32 
+"
+values_95," 494 
+"," 32 
+"," 270 
+"," 89 
+"," 764 
+"," 121 
+"," 5286.01 
+"," 256579.44 
+"," 0.02 
+"," 48.54 
+"," 14254.41 
+"," 1.35 
+"
+values_806," 469 
+"," 32 
+"," 253 
+"," 80 
+"," 722 
+"," 112 
+"," 4914.91 
+"," 248694.46 
+"," 0.02 
+"," 50.60 
+"," 13816.36 
+"," 1.32 
+"
+values_671," 1413 
+"," 32 
+"," 865 
+"," 151 
+"," 2278 
+"," 183 
+"," 17120.76 
+"," 1569214.42 
+"," 0.01 
+"," 91.66 
+"," 87178.58 
+"," 4.50 
+"
+values_816," 441 
+"," 32 
+"," 238 
+"," 69 
+"," 679 
+"," 101 
+"," 4520.93 
+"," 249502.68 
+"," 0.02 
+"," 55.19 
+"," 13861.26 
+"," 1.32 
+"
+values_630," 435 
+"," 32 
+"," 238 
+"," 66 
+"," 673 
+"," 98 
+"," 4451.70 
+"," 256849.58 
+"," 0.02 
+"," 57.70 
+"," 14269.42 
+"," 1.35 
+"
+values_433," 582 
+"," 32 
+"," 333 
+"," 109 
+"," 915 
+"," 141 
+"," 6532.69 
+"," 319322.66 
+"," 0.02 
+"," 48.88 
+"," 17740.15 
+"," 1.56 
+"
+values_905," 468 
+"," 32 
+"," 253 
+"," 78 
+"," 721 
+"," 110 
+"," 4889.36 
+"," 253745.27 
+"," 0.02 
+"," 51.90 
+"," 14096.96 
+"," 1.34 
+"
+values_84," 722 
+"," 32 
+"," 414 
+"," 132 
+"," 1136 
+"," 164 
+"," 8358.18 
+"," 419428.62 
+"," 0.02 
+"," 50.18 
+"," 23301.59 
+"," 1.87 
+"
+values_233," 560 
+"," 32 
+"," 310 
+"," 104 
+"," 870 
+"," 136 
+"," 6166.09 
+"," 294075.19 
+"," 0.02 
+"," 47.69 
+"," 16337.51 
+"," 1.47 
+"
+values_664," 378 
+"," 32 
+"," 198 
+"," 38 
+"," 576 
+"," 70 
+"," 3530.47 
+"," 294329.46 
+"," 0.01 
+"," 83.37 
+"," 16351.64 
+"," 1.47 
+"
+values_162," 558 
+"," 32 
+"," 310 
+"," 105 
+"," 868 
+"," 137 
+"," 6161.09 
+"," 291038.24 
+"," 0.02 
+"," 47.24 
+"," 16168.79 
+"," 1.46 
+"
+values_681," 409 
+"," 32 
+"," 214 
+"," 49 
+"," 623 
+"," 81 
+"," 3949.73 
+"," 275997.22 
+"," 0.01 
+"," 69.88 
+"," 15333.18 
+"," 1.41 
+"
+values_542," 1297 
+"," 32 
+"," 814 
+"," 153 
+"," 2111 
+"," 185 
+"," 15898.75 
+"," 1353367.79 
+"," 0.01 
+"," 85.12 
+"," 75187.10 
+"," 4.08 
+"
+values_169," 388 
+"," 32 
+"," 205 
+"," 44 
+"," 593 
+"," 76 
+"," 3705.02 
+"," 276192.48 
+"," 0.01 
+"," 74.55 
+"," 15344.03 
+"," 1.41 
+"
+values_660," 555 
+"," 32 
+"," 310 
+"," 106 
+"," 865 
+"," 138 
+"," 6148.87 
+"," 287720.88 
+"," 0.02 
+"," 46.79 
+"," 15984.49 
+"," 1.45 
+"
+values_488," 1105 
+"," 32 
+"," 673 
+"," 152 
+"," 1778 
+"," 184 
+"," 13376.89 
+"," 947647.27 
+"," 0.01 
+"," 70.84 
+"," 52647.07 
+"," 3.22 
+"
+values_894," 995 
+"," 32 
+"," 589 
+"," 149 
+"," 1584 
+"," 181 
+"," 11879.76 
+"," 751374.63 
+"," 0.02 
+"," 63.25 
+"," 41743.03 
+"," 2.75 
+"
+values_828," 799 
+"," 32 
+"," 478 
+"," 140 
+"," 1277 
+"," 172 
+"," 9483.34 
+"," 518061.32 
+"," 0.02 
+"," 54.63 
+"," 28781.18 
+"," 2.15 
+"
+values_537," 1105 
+"," 32 
+"," 673 
+"," 152 
+"," 1778 
+"," 184 
+"," 13376.89 
+"," 947647.27 
+"," 0.01 
+"," 70.84 
+"," 52647.07 
+"," 3.22 
+"
+values_845," 1471 
+"," 32 
+"," 918 
+"," 153 
+"," 2389 
+"," 185 
+"," 17992.47 
+"," 1727277.15 
+"," 0.01 
+"," 96 
+"," 95959.84 
+"," 4.80 
+"
+values_584," 1154 
+"," 32 
+"," 718 
+"," 150 
+"," 1872 
+"," 182 
+"," 14054.59 
+"," 1076394.32 
+"," 0.01 
+"," 76.59 
+"," 59799.68 
+"," 3.50 
+"
+values_457," 370 
+"," 32 
+"," 193 
+"," 33 
+"," 563 
+"," 65 
+"," 3390.59 
+"," 317277.32 
+"," 0.01 
+"," 93.58 
+"," 17626.52 
+"," 1.55 
+"
+values_499," 1186 
+"," 32 
+"," 718 
+"," 152 
+"," 1904 
+"," 184 
+"," 14324.86 
+"," 1082657.99 
+"," 0.01 
+"," 75.58 
+"," 60147.67 
+"," 3.51 
+"
+values_369," 1194 
+"," 32 
+"," 718 
+"," 153 
+"," 1912 
+"," 185 
+"," 14400.00 
+"," 1081223.63 
+"," 0.01 
+"," 75.08 
+"," 60067.98 
+"," 3.51 
+"
+values_58," 551 
+"," 32 
+"," 310 
+"," 102 
+"," 861 
+"," 134 
+"," 6083.90 
+"," 295844.68 
+"," 0.02 
+"," 48.63 
+"," 16435.82 
+"," 1.48 
+"
+values_64," 440 
+"," 32 
+"," 238 
+"," 72 
+"," 678 
+"," 104 
+"," 4542.90 
+"," 240268.83 
+"," 0.02 
+"," 52.89 
+"," 13348.27 
+"," 1.29 
+"
+values_196," 371 
+"," 32 
+"," 193 
+"," 33 
+"," 564 
+"," 65 
+"," 3396.62 
+"," 317840.86 
+"," 0.01 
+"," 93.58 
+"," 17657.83 
+"," 1.55 
+"
+values_462," 669 
+"," 32 
+"," 385 
+"," 128 
+"," 1054 
+"," 160 
+"," 7717.31 
+"," 371395.65 
+"," 0.02 
+"," 48.12 
+"," 20633.09 
+"," 1.72 
+"
+values_343," 984 
+"," 32 
+"," 589 
+"," 149 
+"," 1573 
+"," 181 
+"," 11797.26 
+"," 746156.75 
+"," 0.02 
+"," 63.25 
+"," 41453.15 
+"," 2.74 
+"
+values_262," 925 
+"," 32 
+"," 550 
+"," 149 
+"," 1475 
+"," 181 
+"," 11062.27 
+"," 653342.28 
+"," 0.02 
+"," 59.06 
+"," 36296.79 
+"," 2.51 
+"
+values_966," 446 
+"," 32 
+"," 238 
+"," 72 
+"," 684 
+"," 104 
+"," 4583.10 
+"," 242395.11 
+"," 0.02 
+"," 52.89 
+"," 13466.39 
+"," 1.30 
+"
+values_261," 766 
+"," 32 
+"," 445 
+"," 133 
+"," 1211 
+"," 165 
+"," 8920.62 
+"," 477554.79 
+"," 0.02 
+"," 53.53 
+"," 26530.82 
+"," 2.04 
+"
+values_349," 1043 
+"," 32 
+"," 630 
+"," 151 
+"," 1673 
+"," 183 
+"," 12573.77 
+"," 839361.32 
+"," 0.01 
+"," 66.75 
+"," 46631.18 
+"," 2.97 
+"
+values_263," 1309 
+"," 32 
+"," 814 
+"," 153 
+"," 2123 
+"," 185 
+"," 15989.12 
+"," 1361061.02 
+"," 0.01 
+"," 85.12 
+"," 75614.50 
+"," 4.09 
+"
+values_801," 405 
+"," 32 
+"," 214 
+"," 47 
+"," 619 
+"," 79 
+"," 3902.04 
+"," 284267.79 
+"," 0.01 
+"," 72.85 
+"," 15792.65 
+"," 1.44 
+"
+values_292," 1397 
+"," 32 
+"," 865 
+"," 153 
+"," 2262 
+"," 185 
+"," 17035.98 
+"," 1541032.88 
+"," 0.01 
+"," 90.46 
+"," 85612.94 
+"," 4.45 
+"
+values_786," 443 
+"," 32 
+"," 238 
+"," 73 
+"," 681 
+"," 105 
+"," 4572.40 
+"," 238516.49 
+"," 0.02 
+"," 52.16 
+"," 13250.92 
+"," 1.28 
+"
+values_101," 423 
+"," 32 
+"," 225 
+"," 61 
+"," 648 
+"," 93 
+"," 4237.37 
+"," 250074.58 
+"," 0.02 
+"," 59.02 
+"," 13893.03 
+"," 1.32 
+"
+values_691," 774 
+"," 32 
+"," 445 
+"," 139 
+"," 1219 
+"," 171 
+"," 9042.36 
+"," 463177.11 
+"," 0.02 
+"," 51.22 
+"," 25732.06 
+"," 2.00 
+"
+values_926," 419 
+"," 32 
+"," 225 
+"," 55 
+"," 644 
+"," 87 
+"," 4149.26 
+"," 271587.64 
+"," 0.02 
+"," 65.45 
+"," 15088.20 
+"," 1.40 
+"
+values_754," 1472 
+"," 32 
+"," 918 
+"," 153 
+"," 2390 
+"," 185 
+"," 18000.00 
+"," 1728000.16 
+"," 0.01 
+"," 96 
+"," 96000.01 
+"," 4.80 
+"
+values_215," 625 
+"," 32 
+"," 358 
+"," 120 
+"," 983 
+"," 152 
+"," 7124.71 
+"," 340086.29 
+"," 0.02 
+"," 47.73 
+"," 18893.68 
+"," 1.62 
+"
+values_977," 808 
+"," 32 
+"," 478 
+"," 141 
+"," 1286 
+"," 173 
+"," 9560.93 
+"," 518595.80 
+"," 0.02 
+"," 54.24 
+"," 28810.88 
+"," 2.15 
+"
+values_850," 1481 
+"," 32 
+"," 918 
+"," 152 
+"," 2399 
+"," 184 
+"," 18049.03 
+"," 1744105.80 
+"," 0.01 
+"," 96.63 
+"," 96894.77 
+"," 4.83 
+"
+values_646," 553 
+"," 32 
+"," 310 
+"," 102 
+"," 863 
+"," 134 
+"," 6098.03 
+"," 296531.90 
+"," 0.02 
+"," 48.63 
+"," 16473.99 
+"," 1.48 
+"
+values_628," 370 
+"," 32 
+"," 193 
+"," 33 
+"," 563 
+"," 65 
+"," 3390.59 
+"," 317277.32 
+"," 0.01 
+"," 93.58 
+"," 17626.52 
+"," 1.55 
+"
+values_941," 1050 
+"," 32 
+"," 630 
+"," 146 
+"," 1680 
+"," 178 
+"," 12559.23 
+"," 867103.15 
+"," 0.01 
+"," 69.04 
+"," 48172.40 
+"," 3.03 
+"
+values_353," 986 
+"," 32 
+"," 589 
+"," 148 
+"," 1575 
+"," 180 
+"," 11799.67 
+"," 751351.87 
+"," 0.02 
+"," 63.68 
+"," 41741.77 
+"," 2.75 
+"
+values_690," 371 
+"," 32 
+"," 193 
+"," 33 
+"," 564 
+"," 65 
+"," 3396.62 
+"," 317840.86 
+"," 0.01 
+"," 93.58 
+"," 17657.83 
+"," 1.55 
+"
+values_961," 1182 
+"," 32 
+"," 718 
+"," 150 
+"," 1900 
+"," 182 
+"," 14264.81 
+"," 1092494.23 
+"," 0.01 
+"," 76.59 
+"," 60694.12 
+"," 3.54 
+"
+values_331," 1186 
+"," 32 
+"," 718 
+"," 152 
+"," 1904 
+"," 184 
+"," 14324.86 
+"," 1082657.99 
+"," 0.01 
+"," 75.58 
+"," 60147.67 
+"," 3.51 
+"
+values_377," 371 
+"," 32 
+"," 193 
+"," 33 
+"," 564 
+"," 65 
+"," 3396.62 
+"," 317840.86 
+"," 0.01 
+"," 93.58 
+"," 17657.83 
+"," 1.55 
+"
+values_128," 721 
+"," 32 
+"," 414 
+"," 134 
+"," 1135 
+"," 166 
+"," 8370.67 
+"," 413785.94 
+"," 0.02 
+"," 49.43 
+"," 22988.11 
+"," 1.85 
+"
+values_336," 1347 
+"," 32 
+"," 814 
+"," 151 
+"," 2161 
+"," 183 
+"," 16241.43 
+"," 1400850.00 
+"," 0.01 
+"," 86.25 
+"," 77825.00 
+"," 4.17 
+"
+values_632," 370 
+"," 32 
+"," 193 
+"," 33 
+"," 563 
+"," 65 
+"," 3390.59 
+"," 317277.32 
+"," 0.01 
+"," 93.58 
+"," 17626.52 
+"," 1.55 
+"
+values_166," 424 
+"," 32 
+"," 225 
+"," 60 
+"," 649 
+"," 92 
+"," 4233.79 
+"," 254027.50 
+"," 0.02 
+"," 60 
+"," 14112.64 
+"," 1.34 
+"
+values_744," 392 
+"," 32 
+"," 205 
+"," 44 
+"," 597 
+"," 76 
+"," 3730.01 
+"," 278055.49 
+"," 0.01 
+"," 74.55 
+"," 15447.53 
+"," 1.42 
+"
+values_837," 522 
+"," 32 
+"," 289 
+"," 98 
+"," 811 
+"," 130 
+"," 5695.14 
+"," 268717.64 
+"," 0.02 
+"," 47.18 
+"," 14928.76 
+"," 1.39 
+"
+values_807," 1109 
+"," 32 
+"," 673 
+"," 153 
+"," 1782 
+"," 185 
+"," 13420.92 
+"," 944552.19 
+"," 0.01 
+"," 70.38 
+"," 52475.12 
+"," 3.21 
+"
+values_838," 776 
+"," 32 
+"," 445 
+"," 141 
+"," 1221 
+"," 173 
+"," 9077.68 
+"," 458390.70 
+"," 0.02 
+"," 50.50 
+"," 25466.15 
+"," 1.98 
+"
+values_723," 449 
+"," 32 
+"," 238 
+"," 73 
+"," 687 
+"," 105 
+"," 4612.69 
+"," 240617.96 
+"," 0.02 
+"," 52.16 
+"," 13367.66 
+"," 1.29 
+"
+values_874," 817 
+"," 32 
+"," 478 
+"," 140 
+"," 1295 
+"," 172 
+"," 9617.01 
+"," 525363.67 
+"," 0.02 
+"," 54.63 
+"," 29186.87 
+"," 2.17 
+"
+values_627," 530 
+"," 32 
+"," 289 
+"," 97 
+"," 819 
+"," 129 
+"," 5742.20 
+"," 273731.03 
+"," 0.02 
+"," 47.67 
+"," 15207.28 
+"," 1.41 
+"
+values_555," 1310 
+"," 32 
+"," 814 
+"," 152 
+"," 2124 
+"," 184 
+"," 15980.05 
+"," 1369237.59 
+"," 0.01 
+"," 85.68 
+"," 76068.76 
+"," 4.11 
+"
+values_446," 680 
+"," 32 
+"," 385 
+"," 125 
+"," 1065 
+"," 157 
+"," 7768.77 
+"," 382845.04 
+"," 0.02 
+"," 49.28 
+"," 21269.17 
+"," 1.76 
+"
+values_716," 1261 
+"," 32 
+"," 765 
+"," 152 
+"," 2026 
+"," 184 
+"," 15242.74 
+"," 1227441.41 
+"," 0.01 
+"," 80.53 
+"," 68191.19 
+"," 3.82 
+"
+values_240," 391 
+"," 32 
+"," 205 
+"," 44 
+"," 596 
+"," 76 
+"," 3723.76 
+"," 277589.74 
+"," 0.01 
+"," 74.55 
+"," 15421.65 
+"," 1.42 
+"
+values_140," 1111 
+"," 32 
+"," 673 
+"," 152 
+"," 1784 
+"," 184 
+"," 13422.03 
+"," 950845.18 
+"," 0.01 
+"," 70.84 
+"," 52824.73 
+"," 3.22 
+"
+values_317," 1570 
+"," 32 
+"," 973 
+"," 153 
+"," 2543 
+"," 185 
+"," 19152.30 
+"," 1948778.13 
+"," 0.01 
+"," 101.75 
+"," 108265.45 
+"," 5.20 
+"
+values_83," 673 
+"," 32 
+"," 385 
+"," 122 
+"," 1058 
+"," 154 
+"," 7688.26 
+"," 388194.12 
+"," 0.02 
+"," 50.49 
+"," 21566.34 
+"," 1.77 
+"
+values_696," 1409 
+"," 32 
+"," 865 
+"," 152 
+"," 2274 
+"," 184 
+"," 17108.58 
+"," 1557781.22 
+"," 0.01 
+"," 91.05 
+"," 86543.40 
+"," 4.48 
+"
+values_413," 1245 
+"," 32 
+"," 765 
+"," 150 
+"," 2010 
+"," 182 
+"," 15090.67 
+"," 1231398.45 
+"," 0.01 
+"," 81.60 
+"," 68411.02 
+"," 3.83 
+"
+values_94," 378 
+"," 32 
+"," 198 
+"," 38 
+"," 576 
+"," 70 
+"," 3530.47 
+"," 294329.46 
+"," 0.01 
+"," 83.37 
+"," 16351.64 
+"," 1.47 
+"
+values_937," 378 
+"," 32 
+"," 198 
+"," 38 
+"," 576 
+"," 70 
+"," 3530.47 
+"," 294329.46 
+"," 0.01 
+"," 83.37 
+"," 16351.64 
+"," 1.47 
+"
+values_199," 423 
+"," 32 
+"," 225 
+"," 59 
+"," 648 
+"," 91 
+"," 4217.05 
+"," 257311.58 
+"," 0.02 
+"," 61.02 
+"," 14295.09 
+"," 1.35 
+"
+values_596," 1392 
+"," 32 
+"," 865 
+"," 153 
+"," 2257 
+"," 185 
+"," 16998.33 
+"," 1537626.53 
+"," 0.01 
+"," 90.46 
+"," 85423.70 
+"," 4.44 
+"
+values_0," 763 
+"," 32 
+"," 445 
+"," 135 
+"," 1208 
+"," 167 
+"," 8919.51 
+"," 470421.82 
+"," 0.02 
+"," 52.74 
+"," 26134.55 
+"," 2.02 
+"
+values_953," 810 
+"," 32 
+"," 478 
+"," 143 
+"," 1288 
+"," 175 
+"," 9597.16 
+"," 513280.27 
+"," 0.02 
+"," 53.48 
+"," 28515.57 
+"," 2.14 
+"
+values_906," 907 
+"," 32 
+"," 550 
+"," 147 
+"," 1457 
+"," 179 
+"," 10903.92 
+"," 652751.65 
+"," 0.02 
+"," 59.86 
+"," 36263.98 
+"," 2.51 
+"
+values_742," 1260 
+"," 32 
+"," 765 
+"," 153 
+"," 2025 
+"," 185 
+"," 15251.05 
+"," 1220083.80 
+"," 0.01 
+"," 80 
+"," 67782.43 
+"," 3.81 
+"
+values_396," 1345 
+"," 32 
+"," 814 
+"," 152 
+"," 2159 
+"," 184 
+"," 16243.37 
+"," 1391800.36 
+"," 0.01 
+"," 85.68 
+"," 77322.24 
+"," 4.16 
+"
+values_159," 401 
+"," 32 
+"," 214 
+"," 48 
+"," 615 
+"," 80 
+"," 3887.99 
+"," 277342.99 
+"," 0.01 
+"," 71.33 
+"," 15407.94 
+"," 1.42 
+"
+values_238," 379 
+"," 32 
+"," 198 
+"," 36 
+"," 577 
+"," 68 
+"," 3512.47 
+"," 309097.01 
+"," 0.01 
+"," 88 
+"," 17172.06 
+"," 1.52 
+"
+values_136," 1259 
+"," 32 
+"," 765 
+"," 153 
+"," 2024 
+"," 185 
+"," 15243.52 
+"," 1219481.29 
+"," 0.01 
+"," 80 
+"," 67748.96 
+"," 3.80 
+"
+values_915," 556 
+"," 32 
+"," 310 
+"," 101 
+"," 866 
+"," 133 
+"," 6109.87 
+"," 300049.29 
+"," 0.02 
+"," 49.11 
+"," 16669.40 
+"," 1.49 
+"
+values_99," 809 
+"," 32 
+"," 478 
+"," 142 
+"," 1287 
+"," 174 
+"," 9579.07 
+"," 515920.52 
+"," 0.02 
+"," 53.86 
+"," 28662.25 
+"," 2.14 
+"
+values_771," 443 
+"," 32 
+"," 238 
+"," 69 
+"," 681 
+"," 101 
+"," 4534.24 
+"," 250237.59 
+"," 0.02 
+"," 55.19 
+"," 13902.09 
+"," 1.32 
+"
+values_96," 933 
+"," 32 
+"," 550 
+"," 147 
+"," 1483 
+"," 179 
+"," 11098.50 
+"," 664399.93 
+"," 0.02 
+"," 59.86 
+"," 36911.11 
+"," 2.54 
+"
+values_768," 919 
+"," 32 
+"," 550 
+"," 143 
+"," 1469 
+"," 175 
+"," 10945.83 
+"," 673589.48 
+"," 0.02 
+"," 61.54 
+"," 37421.64 
+"," 2.56 
+"
+values_67," 1041 
+"," 32 
+"," 630 
+"," 152 
+"," 1671 
+"," 184 
+"," 12571.87 
+"," 833713.62 
+"," 0.02 
+"," 66.32 
+"," 46317.42 
+"," 2.95 
+"
+values_565," 1318 
+"," 32 
+"," 814 
+"," 153 
+"," 2132 
+"," 185 
+"," 16056.91 
+"," 1366830.94 
+"," 0.01 
+"," 85.12 
+"," 75935.05 
+"," 4.11 
+"
+values_848," 422 
+"," 32 
+"," 225 
+"," 60 
+"," 647 
+"," 92 
+"," 4220.74 
+"," 253244.68 
+"," 0.02 
+"," 60 
+"," 14069.15 
+"," 1.33 
+"
+values_114," 1398 
+"," 32 
+"," 865 
+"," 153 
+"," 2263 
+"," 185 
+"," 17043.52 
+"," 1541714.15 
+"," 0.01 
+"," 90.46 
+"," 85650.79 
+"," 4.45 
+"
+values_61," 987 
+"," 32 
+"," 589 
+"," 148 
+"," 1576 
+"," 180 
+"," 11807.16 
+"," 751828.92 
+"," 0.02 
+"," 63.68 
+"," 41768.27 
+"," 2.76 
+"
+values_511," 756 
+"," 32 
+"," 445 
+"," 133 
+"," 1201 
+"," 165 
+"," 8846.95 
+"," 473611.32 
+"," 0.02 
+"," 53.53 
+"," 26311.74 
+"," 2.03 
+"
+values_729," 676 
+"," 32 
+"," 385 
+"," 123 
+"," 1061 
+"," 155 
+"," 7719.97 
+"," 386626.04 
+"," 0.02 
+"," 50.08 
+"," 21479.22 
+"," 1.77 
+"
+values_460," 761 
+"," 32 
+"," 445 
+"," 135 
+"," 1206 
+"," 167 
+"," 8904.75 
+"," 469642.97 
+"," 0.02 
+"," 52.74 
+"," 26091.28 
+"," 2.01 
+"
+values_832," 987 
+"," 32 
+"," 589 
+"," 145 
+"," 1576 
+"," 177 
+"," 11768.95 
+"," 764900.35 
+"," 0.02 
+"," 64.99 
+"," 42494.46 
+"," 2.79 
+"
+values_348," 933 
+"," 32 
+"," 550 
+"," 143 
+"," 1483 
+"," 175 
+"," 11050.15 
+"," 680008.99 
+"," 0.02 
+"," 61.54 
+"," 37778.28 
+"," 2.58 
+"
+values_182," 1330 
+"," 32 
+"," 814 
+"," 153 
+"," 2144 
+"," 185 
+"," 16147.28 
+"," 1374524.18 
+"," 0.01 
+"," 85.12 
+"," 76362.45 
+"," 4.12 
+"
+values_986," 370 
+"," 32 
+"," 193 
+"," 33 
+"," 563 
+"," 65 
+"," 3390.59 
+"," 317277.32 
+"," 0.01 
+"," 93.58 
+"," 17626.52 
+"," 1.55 
+"
+values_180," 620 
+"," 32 
+"," 358 
+"," 119 
+"," 978 
+"," 151 
+"," 7079.16 
+"," 340751.49 
+"," 0.02 
+"," 48.13 
+"," 18930.64 
+"," 1.63 
+"
+values_930," 381 
+"," 32 
+"," 198 
+"," 38 
+"," 579 
+"," 70 
+"," 3548.85 
+"," 295862.43 
+"," 0.01 
+"," 83.37 
+"," 16436.80 
+"," 1.48 
+"
+values_274," 547 
+"," 32 
+"," 310 
+"," 113 
+"," 857 
+"," 145 
+"," 6153.18 
+"," 270086.58 
+"," 0.02 
+"," 43.89 
+"," 15004.81 
+"," 1.39 
+"
+values_309," 392 
+"," 32 
+"," 205 
+"," 44 
+"," 597 
+"," 76 
+"," 3730.01 
+"," 278055.49 
+"," 0.01 
+"," 74.55 
+"," 15447.53 
+"," 1.42 
+"
+values_496," 422 
+"," 32 
+"," 225 
+"," 61 
+"," 647 
+"," 93 
+"," 4230.84 
+"," 249688.67 
+"," 0.02 
+"," 59.02 
+"," 13871.59 
+"," 1.32 
+"
+values_165," 1122 
+"," 32 
+"," 673 
+"," 151 
+"," 1795 
+"," 183 
+"," 13490.68 
+"," 962037.45 
+"," 0.01 
+"," 71.31 
+"," 53446.53 
+"," 3.25 
+"
+values_553," 802 
+"," 32 
+"," 478 
+"," 137 
+"," 1280 
+"," 169 
+"," 9473.13 
+"," 528835.51 
+"," 0.02 
+"," 55.82 
+"," 29379.75 
+"," 2.18 
+"
+values_870," 491 
+"," 32 
+"," 270 
+"," 83 
+"," 761 
+"," 115 
+"," 5209.42 
+"," 271140.79 
+"," 0.02 
+"," 52.05 
+"," 15063.38 
+"," 1.40 
+"
+values_795," 712 
+"," 32 
+"," 414 
+"," 131 
+"," 1126 
+"," 163 
+"," 8274.67 
+"," 418407.63 
+"," 0.02 
+"," 50.56 
+"," 23244.87 
+"," 1.86 
+"
+values_361," 809 
+"," 32 
+"," 478 
+"," 139 
+"," 1287 
+"," 171 
+"," 9546.78 
+"," 525278.74 
+"," 0.02 
+"," 55.02 
+"," 29182.15 
+"," 2.17 
+"
+values_302," 1414 
+"," 32 
+"," 865 
+"," 153 
+"," 2279 
+"," 185 
+"," 17164.02 
+"," 1552614.47 
+"," 0.01 
+"," 90.46 
+"," 86256.36 
+"," 4.47 
+"
+values_586," 1047 
+"," 32 
+"," 630 
+"," 150 
+"," 1677 
+"," 182 
+"," 12590.57 
+"," 846086.41 
+"," 0.01 
+"," 67.20 
+"," 47004.80 
+"," 2.98 
+"
+values_880," 1310 
+"," 32 
+"," 814 
+"," 151 
+"," 2124 
+"," 183 
+"," 15963.35 
+"," 1376865.06 
+"," 0.01 
+"," 86.25 
+"," 76492.50 
+"," 4.13 
+"
+values_665," 1546 
+"," 32 
+"," 973 
+"," 152 
+"," 2519 
+"," 184 
+"," 18951.85 
+"," 1941068.69 
+"," 0.01 
+"," 102.42 
+"," 107837.15 
+"," 5.19 
+"
+values_527," 420 
+"," 32 
+"," 225 
+"," 60 
+"," 645 
+"," 92 
+"," 4207.70 
+"," 252461.85 
+"," 0.02 
+"," 60 
+"," 14025.66 
+"," 1.33 
+"
+values_372," 498 
+"," 32 
+"," 270 
+"," 84 
+"," 768 
+"," 116 
+"," 5266.93 
+"," 270870.66 
+"," 0.02 
+"," 51.43 
+"," 15048.37 
+"," 1.40 
+"
+values_382," 629 
+"," 32 
+"," 358 
+"," 123 
+"," 987 
+"," 155 
+"," 7181.53 
+"," 334437.65 
+"," 0.02 
+"," 46.57 
+"," 18579.87 
+"," 1.61 
+"
+values_43," 1575 
+"," 32 
+"," 973 
+"," 153 
+"," 2548 
+"," 185 
+"," 19189.96 
+"," 1952609.78 
+"," 0.01 
+"," 101.75 
+"," 108478.32 
+"," 5.21 
+"
+values_935," 588 
+"," 32 
+"," 333 
+"," 111 
+"," 921 
+"," 143 
+"," 6594.24 
+"," 316523.59 
+"," 0.02 
+"," 48 
+"," 17584.64 
+"," 1.55 
+"
+values_2," 372 
+"," 32 
+"," 193 
+"," 32 
+"," 565 
+"," 64 
+"," 3390 
+"," 327135 
+"," 0.01 
+"," 96.50 
+"," 18174.17 
+"," 1.58 
+"
+values_790," 465 
+"," 32 
+"," 253 
+"," 78 
+"," 718 
+"," 110 
+"," 4869.02 
+"," 252689.46 
+"," 0.02 
+"," 51.90 
+"," 14038.30 
+"," 1.33 
+"
+values_152," 708 
+"," 32 
+"," 414 
+"," 134 
+"," 1122 
+"," 166 
+"," 8274.79 
+"," 409046.55 
+"," 0.02 
+"," 49.43 
+"," 22724.81 
+"," 1.84 
+"
+values_871," 496 
+"," 32 
+"," 270 
+"," 89 
+"," 766 
+"," 121 
+"," 5299.85 
+"," 257251.11 
+"," 0.02 
+"," 48.54 
+"," 14291.73 
+"," 1.35 
+"
+values_434," 1225 
+"," 32 
+"," 765 
+"," 151 
+"," 1990 
+"," 183 
+"," 14956.24 
+"," 1212347.09 
+"," 0.01 
+"," 81.06 
+"," 67352.62 
+"," 3.79 
+"
+values_775," 1103 
+"," 32 
+"," 673 
+"," 150 
+"," 1776 
+"," 182 
+"," 13333.84 
+"," 957192.16 
+"," 0.01 
+"," 71.79 
+"," 53177.34 
+"," 3.24 
+"
+values_500," 379 
+"," 32 
+"," 198 
+"," 35 
+"," 577 
+"," 67 
+"," 3500.13 
+"," 316812.08 
+"," 0.01 
+"," 90.51 
+"," 17600.67 
+"," 1.55 
+"
+values_220," 421 
+"," 32 
+"," 225 
+"," 61 
+"," 646 
+"," 93 
+"," 4224.30 
+"," 249302.75 
+"," 0.02 
+"," 59.02 
+"," 13850.15 
+"," 1.32 
+"
+values_875," 521 
+"," 32 
+"," 289 
+"," 100 
+"," 810 
+"," 132 
+"," 5705.96 
+"," 263843.56 
+"," 0.02 
+"," 46.24 
+"," 14657.98 
+"," 1.37 
+"
+values_249," 435 
+"," 32 
+"," 238 
+"," 63 
+"," 673 
+"," 95 
+"," 4421.51 
+"," 267255.89 
+"," 0.02 
+"," 60.44 
+"," 14847.55 
+"," 1.38 
+"
+values_808," 442 
+"," 32 
+"," 238 
+"," 71 
+"," 680 
+"," 103 
+"," 4546.82 
+"," 243863.27 
+"," 0.02 
+"," 53.63 
+"," 13547.96 
+"," 1.30 
+"
+values_859," 527 
+"," 32 
+"," 289 
+"," 98 
+"," 816 
+"," 130 
+"," 5730.25 
+"," 270374.35 
+"," 0.02 
+"," 47.18 
+"," 15020.80 
+"," 1.39 
+"
+values_539," 1568 
+"," 32 
+"," 973 
+"," 153 
+"," 2541 
+"," 185 
+"," 19137.24 
+"," 1947245.47 
+"," 0.01 
+"," 101.75 
+"," 108180.30 
+"," 5.20 
+"
+values_635," 527 
+"," 32 
+"," 289 
+"," 99 
+"," 816 
+"," 131 
+"," 5739.27 
+"," 268064.64 
+"," 0.02 
+"," 46.71 
+"," 14892.48 
+"," 1.39 
+"
+values_311," 416 
+"," 32 
+"," 225 
+"," 59 
+"," 641 
+"," 91 
+"," 4171.50 
+"," 254531.98 
+"," 0.02 
+"," 61.02 
+"," 14140.67 
+"," 1.34 
+"
+values_183," 872 
+"," 32 
+"," 513 
+"," 143 
+"," 1385 
+"," 175 
+"," 10319.93 
+"," 592349.40 
+"," 0.02 
+"," 57.40 
+"," 32908.30 
+"," 2.35 
+"
+values_54," 763 
+"," 32 
+"," 445 
+"," 142 
+"," 1208 
+"," 174 
+"," 8991.08 
+"," 450820.14 
+"," 0.02 
+"," 50.14 
+"," 25045.56 
+"," 1.96 
+"
+values_390," 936 
+"," 32 
+"," 550 
+"," 146 
+"," 1486 
+"," 178 
+"," 11108.94 
+"," 669579.94 
+"," 0.02 
+"," 60.27 
+"," 37198.89 
+"," 2.55 
+"
+values_890," 820 
+"," 32 
+"," 478 
+"," 145 
+"," 1298 
+"," 177 
+"," 9692.95 
+"," 511253.08 
+"," 0.02 
+"," 52.74 
+"," 28402.95 
+"," 2.13 
+"
+values_711," 1124 
+"," 32 
+"," 673 
+"," 151 
+"," 1797 
+"," 183 
+"," 13505.71 
+"," 963109.36 
+"," 0.01 
+"," 71.31 
+"," 53506.08 
+"," 3.25 
+"
+values_471," 380 
+"," 32 
+"," 198 
+"," 36 
+"," 578 
+"," 68 
+"," 3518.55 
+"," 309632.71 
+"," 0.01 
+"," 88 
+"," 17201.82 
+"," 1.53 
+"
+values_995," 1243 
+"," 32 
+"," 765 
+"," 153 
+"," 2008 
+"," 185 
+"," 15123.01 
+"," 1209841.12 
+"," 0.01 
+"," 80 
+"," 67213.40 
+"," 3.78 
+"
+values_443," 630 
+"," 32 
+"," 358 
+"," 124 
+"," 988 
+"," 156 
+"," 7197.98 
+"," 332500.12 
+"," 0.02 
+"," 46.19 
+"," 18472.23 
+"," 1.60 
+"
+values_464," 421 
+"," 32 
+"," 225 
+"," 56 
+"," 646 
+"," 88 
+"," 4172.79 
+"," 268250.97 
+"," 0.02 
+"," 64.29 
+"," 14902.83 
+"," 1.39 
+"
+values_774," 381 
+"," 32 
+"," 198 
+"," 38 
+"," 579 
+"," 70 
+"," 3548.85 
+"," 295862.43 
+"," 0.01 
+"," 83.37 
+"," 16436.80 
+"," 1.48 
+"
+values_200," 710 
+"," 32 
+"," 414 
+"," 132 
+"," 1124 
+"," 164 
+"," 8269.89 
+"," 414998.04 
+"," 0.02 
+"," 50.18 
+"," 23055.45 
+"," 1.85 
+"
+values_747," 1464 
+"," 32 
+"," 918 
+"," 153 
+"," 2382 
+"," 185 
+"," 17939.75 
+"," 1722216.06 
+"," 0.01 
+"," 96 
+"," 95678.67 
+"," 4.79 
+"
+values_758," 1400 
+"," 32 
+"," 865 
+"," 153 
+"," 2265 
+"," 185 
+"," 17058.58 
+"," 1543076.69 
+"," 0.01 
+"," 90.46 
+"," 85726.48 
+"," 4.45 
+"
+values_30," 1386 
+"," 32 
+"," 865 
+"," 151 
+"," 2251 
+"," 183 
+"," 16917.84 
+"," 1550615.30 
+"," 0.01 
+"," 91.66 
+"," 86145.29 
+"," 4.47 
+"
+values_820," 390 
+"," 32 
+"," 205 
+"," 43 
+"," 595 
+"," 75 
+"," 3706.15 
+"," 282701.45 
+"," 0.01 
+"," 76.28 
+"," 15705.64 
+"," 1.44 
+"
+values_393," 717 
+"," 32 
+"," 414 
+"," 127 
+"," 1131 
+"," 159 
+"," 8270.87 
+"," 431387.77 
+"," 0.02 
+"," 52.16 
+"," 23965.99 
+"," 1.90 
+"
+values_576," 489 
+"," 32 
+"," 270 
+"," 87 
+"," 759 
+"," 119 
+"," 5233.17 
+"," 259853.79 
+"," 0.02 
+"," 49.66 
+"," 14436.32 
+"," 1.36 
+"
+values_445," 1048 
+"," 32 
+"," 630 
+"," 148 
+"," 1678 
+"," 180 
+"," 12571.33 
+"," 856209.47 
+"," 0.01 
+"," 68.11 
+"," 47567.19 
+"," 3.01 
+"
+values_662," 716 
+"," 32 
+"," 414 
+"," 136 
+"," 1130 
+"," 168 
+"," 8353.32 
+"," 406855.76 
+"," 0.02 
+"," 48.71 
+"," 22603.10 
+"," 1.83 
+"
+values_403," 797 
+"," 32 
+"," 478 
+"," 142 
+"," 1275 
+"," 174 
+"," 9489.75 
+"," 511110.07 
+"," 0.02 
+"," 53.86 
+"," 28395.00 
+"," 2.13 
+"
+values_640," 990 
+"," 32 
+"," 589 
+"," 148 
+"," 1579 
+"," 180 
+"," 11829.64 
+"," 753260.07 
+"," 0.02 
+"," 63.68 
+"," 41847.78 
+"," 2.76 
+"
+values_59," 1413 
+"," 32 
+"," 865 
+"," 153 
+"," 2278 
+"," 185 
+"," 17156.49 
+"," 1551933.20 
+"," 0.01 
+"," 90.46 
+"," 86218.51 
+"," 4.47 
+"
+values_490," 1329 
+"," 32 
+"," 814 
+"," 153 
+"," 2143 
+"," 185 
+"," 16139.75 
+"," 1373883.07 
+"," 0.01 
+"," 85.12 
+"," 76326.84 
+"," 4.12 
+"
+values_194," 676 
+"," 32 
+"," 385 
+"," 123 
+"," 1061 
+"," 155 
+"," 7719.97 
+"," 386626.04 
+"," 0.02 
+"," 50.08 
+"," 21479.22 
+"," 1.77 
+"
+values_751," 855 
+"," 32 
+"," 513 
+"," 142 
+"," 1368 
+"," 174 
+"," 10181.95 
+"," 588545.20 
+"," 0.02 
+"," 57.80 
+"," 32696.96 
+"," 2.34 
+"
+values_663," 1046 
+"," 32 
+"," 630 
+"," 152 
+"," 1676 
+"," 184 
+"," 12609.49 
+"," 836208.27 
+"," 0.02 
+"," 66.32 
+"," 46456.02 
+"," 2.96 
+"
+values_938," 866 
+"," 32 
+"," 513 
+"," 148 
+"," 1379 
+"," 180 
+"," 10331.27 
+"," 572966.40 
+"," 0.02 
+"," 55.46 
+"," 31831.47 
+"," 2.30 
+"
+values_532," 521 
+"," 32 
+"," 289 
+"," 102 
+"," 810 
+"," 134 
+"," 5723.53 
+"," 259466.80 
+"," 0.02 
+"," 45.33 
+"," 14414.82 
+"," 1.36 
+"
+values_885," 407 
+"," 32 
+"," 214 
+"," 51 
+"," 621 
+"," 83 
+"," 3958.90 
+"," 265789.64 
+"," 0.01 
+"," 67.14 
+"," 14766.09 
+"," 1.38 
+"
+values_713," 1412 
+"," 32 
+"," 865 
+"," 152 
+"," 2277 
+"," 184 
+"," 17131.15 
+"," 1559836.34 
+"," 0.01 
+"," 91.05 
+"," 86657.57 
+"," 4.48 
+"
+values_193," 621 
+"," 32 
+"," 358 
+"," 120 
+"," 979 
+"," 152 
+"," 7095.72 
+"," 338702.42 
+"," 0.02 
+"," 47.73 
+"," 18816.80 
+"," 1.62 
+"
+values_650," 392 
+"," 32 
+"," 205 
+"," 44 
+"," 597 
+"," 76 
+"," 3730.01 
+"," 278055.49 
+"," 0.01 
+"," 74.55 
+"," 15447.53 
+"," 1.42 
+"
+values_564," 813 
+"," 32 
+"," 478 
+"," 144 
+"," 1291 
+"," 176 
+"," 9630.13 
+"," 511466.70 
+"," 0.02 
+"," 53.11 
+"," 28414.82 
+"," 2.13 
+"
+values_267," 379 
+"," 32 
+"," 198 
+"," 37 
+"," 577 
+"," 69 
+"," 3524.62 
+"," 301783.56 
+"," 0.01 
+"," 85.62 
+"," 16765.75 
+"," 1.50 
+"
+values_147," 462 
+"," 32 
+"," 253 
+"," 77 
+"," 715 
+"," 109 
+"," 4839.25 
+"," 254406.38 
+"," 0.02 
+"," 52.57 
+"," 14133.69 
+"," 1.34 
+"
+values_709," 1559 
+"," 32 
+"," 973 
+"," 153 
+"," 2532 
+"," 185 
+"," 19069.46 
+"," 1940348.50 
+"," 0.01 
+"," 101.75 
+"," 107797.14 
+"," 5.19 
+"
+values_857," 369 
+"," 32 
+"," 193 
+"," 33 
+"," 562 
+"," 65 
+"," 3384.57 
+"," 316713.77 
+"," 0.01 
+"," 93.58 
+"," 17595.21 
+"," 1.55 
+"
+values_334," 368 
+"," 32 
+"," 193 
+"," 33 
+"," 561 
+"," 65 
+"," 3378.55 
+"," 316150.22 
+"," 0.01 
+"," 93.58 
+"," 17563.90 
+"," 1.55 
+"
+values_965," 986 
+"," 32 
+"," 589 
+"," 146 
+"," 1575 
+"," 178 
+"," 11774.28 
+"," 760005.59 
+"," 0.02 
+"," 64.55 
+"," 42222.53 
+"," 2.78 
+"
+values_824," 1304 
+"," 32 
+"," 814 
+"," 153 
+"," 2118 
+"," 185 
+"," 15951.47 
+"," 1357855.51 
+"," 0.01 
+"," 85.12 
+"," 75436.42 
+"," 4.09 
+"
+values_784," 1311 
+"," 32 
+"," 814 
+"," 152 
+"," 2125 
+"," 184 
+"," 15987.57 
+"," 1369882.24 
+"," 0.01 
+"," 85.68 
+"," 76104.57 
+"," 4.11 
+"
+values_229," 1486 
+"," 32 
+"," 918 
+"," 150 
+"," 2404 
+"," 182 
+"," 18048.74 
+"," 1767332.46 
+"," 0.01 
+"," 97.92 
+"," 98185.14 
+"," 4.87 
+"
+values_538," 975 
+"," 32 
+"," 589 
+"," 147 
+"," 1564 
+"," 179 
+"," 11704.69 
+"," 750374.00 
+"," 0.02 
+"," 64.11 
+"," 41687.44 
+"," 2.75 
+"
+values_463," 966 
+"," 32 
+"," 589 
+"," 149 
+"," 1555 
+"," 181 
+"," 11662.26 
+"," 737618.40 
+"," 0.02 
+"," 63.25 
+"," 40978.80 
+"," 2.72 
+"
+values_741," 548 
+"," 32 
+"," 310 
+"," 113 
+"," 858 
+"," 145 
+"," 6160.36 
+"," 270401.73 
+"," 0.02 
+"," 43.89 
+"," 15022.32 
+"," 1.39 
+"
+values_85," 444 
+"," 32 
+"," 238 
+"," 69 
+"," 682 
+"," 101 
+"," 4540.90 
+"," 250605.04 
+"," 0.02 
+"," 55.19 
+"," 13922.50 
+"," 1.32 
+"
+values_493," 378 
+"," 32 
+"," 198 
+"," 37 
+"," 576 
+"," 69 
+"," 3518.51 
+"," 301260.54 
+"," 0.01 
+"," 85.62 
+"," 16736.70 
+"," 1.50 
+"
+values_794," 441 
+"," 32 
+"," 238 
+"," 66 
+"," 679 
+"," 98 
+"," 4491.39 
+"," 259139.48 
+"," 0.02 
+"," 57.70 
+"," 14396.64 
+"," 1.35 
+"
+values_202," 370 
+"," 32 
+"," 193 
+"," 33 
+"," 563 
+"," 65 
+"," 3390.59 
+"," 317277.32 
+"," 0.01 
+"," 93.58 
+"," 17626.52 
+"," 1.55 
+"
+values_74," 416 
+"," 32 
+"," 225 
+"," 60 
+"," 641 
+"," 92 
+"," 4181.60 
+"," 250896.19 
+"," 0.02 
+"," 60 
+"," 13938.68 
+"," 1.33 
+"
+values_410," 1110 
+"," 32 
+"," 673 
+"," 153 
+"," 1783 
+"," 185 
+"," 13428.45 
+"," 945082.24 
+"," 0.01 
+"," 70.38 
+"," 52504.57 
+"," 3.21 
+"
+values_469," 679 
+"," 32 
+"," 385 
+"," 129 
+"," 1064 
+"," 161 
+"," 7800.10 
+"," 372469.68 
+"," 0.02 
+"," 47.75 
+"," 20692.76 
+"," 1.73 
+"
+values_394," 589 
+"," 32 
+"," 333 
+"," 114 
+"," 922 
+"," 146 
+"," 6629.02 
+"," 309819.38 
+"," 0.02 
+"," 46.74 
+"," 17212.19 
+"," 1.53 
+"
+values_149," 670 
+"," 32 
+"," 385 
+"," 129 
+"," 1055 
+"," 161 
+"," 7734.12 
+"," 369319.09 
+"," 0.02 
+"," 47.75 
+"," 20517.73 
+"," 1.72 
+"
+values_945," 1177 
+"," 32 
+"," 718 
+"," 153 
+"," 1895 
+"," 185 
+"," 14271.97 
+"," 1071610.24 
+"," 0.01 
+"," 75.08 
+"," 59533.90 
+"," 3.49 
+"
+values_293," 377 
+"," 32 
+"," 198 
+"," 36 
+"," 575 
+"," 68 
+"," 3500.29 
+"," 308025.62 
+"," 0.01 
+"," 88 
+"," 17112.53 
+"," 1.52 
+"
+values_456," 822 
+"," 32 
+"," 478 
+"," 140 
+"," 1300 
+"," 172 
+"," 9654.14 
+"," 527392.10 
+"," 0.02 
+"," 54.63 
+"," 29299.56 
+"," 2.18 
+"
+values_975," 442 
+"," 32 
+"," 238 
+"," 71 
+"," 680 
+"," 103 
+"," 4546.82 
+"," 243863.27 
+"," 0.02 
+"," 53.63 
+"," 13547.96 
+"," 1.30 
+"
+values_547," 1227 
+"," 32 
+"," 765 
+"," 151 
+"," 1992 
+"," 183 
+"," 14971.27 
+"," 1213565.53 
+"," 0.01 
+"," 81.06 
+"," 67420.31 
+"," 3.79 
+"
+values_164," 369 
+"," 32 
+"," 193 
+"," 32 
+"," 562 
+"," 64 
+"," 3372 
+"," 325398 
+"," 0.01 
+"," 96.50 
+"," 18077.67 
+"," 1.58 
+"
+values_720," 441 
+"," 32 
+"," 238 
+"," 69 
+"," 679 
+"," 101 
+"," 4520.93 
+"," 249502.68 
+"," 0.02 
+"," 55.19 
+"," 13861.26 
+"," 1.32 
+"
+values_833," 926 
+"," 32 
+"," 550 
+"," 146 
+"," 1476 
+"," 178 
+"," 11034.18 
+"," 665074.02 
+"," 0.02 
+"," 60.27 
+"," 36948.56 
+"," 2.54 
+"
+values_90," 381 
+"," 32 
+"," 198 
+"," 37 
+"," 579 
+"," 69 
+"," 3536.84 
+"," 302829.60 
+"," 0.01 
+"," 85.62 
+"," 16823.87 
+"," 1.50 
+"
+values_954," 388 
+"," 32 
+"," 205 
+"," 44 
+"," 593 
+"," 76 
+"," 3705.02 
+"," 276192.48 
+"," 0.01 
+"," 74.55 
+"," 15344.03 
+"," 1.41 
+"
+values_483," 406 
+"," 32 
+"," 214 
+"," 50 
+"," 620 
+"," 82 
+"," 3941.68 
+"," 269926.40 
+"," 0.01 
+"," 68.48 
+"," 14995.91 
+"," 1.39 
+"
+values_990," 416 
+"," 32 
+"," 225 
+"," 59 
+"," 641 
+"," 91 
+"," 4171.50 
+"," 254531.98 
+"," 0.02 
+"," 61.02 
+"," 14140.67 
+"," 1.34 
+"
+values_113," 370 
+"," 32 
+"," 193 
+"," 33 
+"," 563 
+"," 65 
+"," 3390.59 
+"," 317277.32 
+"," 0.01 
+"," 93.58 
+"," 17626.52 
+"," 1.55 
+"
+values_878," 1330 
+"," 32 
+"," 814 
+"," 149 
+"," 2144 
+"," 181 
+"," 16079.67 
+"," 1405514.21 
+"," 0.01 
+"," 87.41 
+"," 78084.12 
+"," 4.18 
+"
+values_942," 481 
+"," 32 
+"," 270 
+"," 90 
+"," 751 
+"," 122 
+"," 5204.98 
+"," 249839.22 
+"," 0.02 
+"," 48 
+"," 13879.96 
+"," 1.32 
+"
+values_126," 607 
+"," 32 
+"," 333 
+"," 110 
+"," 940 
+"," 142 
+"," 6720.76 
+"," 325529.29 
+"," 0.02 
+"," 48.44 
+"," 18084.96 
+"," 1.58 
+"
+values_666," 718 
+"," 32 
+"," 414 
+"," 127 
+"," 1132 
+"," 159 
+"," 8278.18 
+"," 431769.19 
+"," 0.02 
+"," 52.16 
+"," 23987.18 
+"," 1.90 
+"
+values_960," 980 
+"," 32 
+"," 589 
+"," 148 
+"," 1569 
+"," 180 
+"," 11754.72 
+"," 748489.58 
+"," 0.02 
+"," 63.68 
+"," 41582.75 
+"," 2.75 
+"
+values_783," 370 
+"," 32 
+"," 193 
+"," 33 
+"," 563 
+"," 65 
+"," 3390.59 
+"," 317277.32 
+"," 0.01 
+"," 93.58 
+"," 17626.52 
+"," 1.55 
+"
+values_735," 1313 
+"," 32 
+"," 814 
+"," 152 
+"," 2127 
+"," 184 
+"," 16002.62 
+"," 1371171.54 
+"," 0.01 
+"," 85.68 
+"," 76176.20 
+"," 4.11 
+"
+values_439," 628 
+"," 32 
+"," 358 
+"," 121 
+"," 986 
+"," 153 
+"," 7155.78 
+"," 338746.55 
+"," 0.02 
+"," 47.34 
+"," 18819.25 
+"," 1.62 
+"
+values_860," 392 
+"," 32 
+"," 205 
+"," 44 
+"," 597 
+"," 76 
+"," 3730.01 
+"," 278055.49 
+"," 0.01 
+"," 74.55 
+"," 15447.53 
+"," 1.42 
+"
+values_18," 1043 
+"," 32 
+"," 630 
+"," 148 
+"," 1673 
+"," 180 
+"," 12533.87 
+"," 853658.19 
+"," 0.01 
+"," 68.11 
+"," 47425.45 
+"," 3.00 
+"
+values_173," 390 
+"," 32 
+"," 205 
+"," 44 
+"," 595 
+"," 76 
+"," 3717.52 
+"," 277123.98 
+"," 0.01 
+"," 74.55 
+"," 15395.78 
+"," 1.42 
+"
+values_454," 673 
+"," 32 
+"," 385 
+"," 132 
+"," 1058 
+"," 164 
+"," 7784.29 
+"," 363266.87 
+"," 0.02 
+"," 46.67 
+"," 20181.49 
+"," 1.70 
+"
+values_176," 405 
+"," 32 
+"," 214 
+"," 50 
+"," 619 
+"," 82 
+"," 3935.32 
+"," 269491.03 
+"," 0.01 
+"," 68.48 
+"," 14971.72 
+"," 1.39 
+"
+values_698," 1313 
+"," 32 
+"," 814 
+"," 153 
+"," 2127 
+"," 185 
+"," 16019.25 
+"," 1363625.43 
+"," 0.01 
+"," 85.12 
+"," 75756.97 
+"," 4.10 
+"
+values_869," 1597 
+"," 32 
+"," 973 
+"," 153 
+"," 2570 
+"," 185 
+"," 19355.65 
+"," 1969469.05 
+"," 0.01 
+"," 101.75 
+"," 109414.95 
+"," 5.24 
+"
+values_697," 853 
+"," 32 
+"," 513 
+"," 143 
+"," 1366 
+"," 175 
+"," 10178.35 
+"," 584223.31 
+"," 0.02 
+"," 57.40 
+"," 32456.85 
+"," 2.33 
+"
+values_509," 1491 
+"," 32 
+"," 918 
+"," 153 
+"," 2409 
+"," 185 
+"," 18143.10 
+"," 1741737.40 
+"," 0.01 
+"," 96 
+"," 96763.19 
+"," 4.83 
+"
+values_189," 1248 
+"," 32 
+"," 765 
+"," 153 
+"," 2013 
+"," 185 
+"," 15160.67 
+"," 1212853.67 
+"," 0.01 
+"," 80 
+"," 67380.76 
+"," 3.79 
+"
+values_714," 1028 
+"," 32 
+"," 630 
+"," 145 
+"," 1658 
+"," 177 
+"," 12381.29 
+"," 860713.13 
+"," 0.01 
+"," 69.52 
+"," 47817.40 
+"," 3.02 
+"
+values_270," 448 
+"," 32 
+"," 238 
+"," 68 
+"," 686 
+"," 100 
+"," 4557.69 
+"," 255230.38 
+"," 0.02 
+"," 56 
+"," 14179.47 
+"," 1.34 
+"
+values_863," 580 
+"," 32 
+"," 333 
+"," 114 
+"," 913 
+"," 146 
+"," 6564.31 
+"," 306795.11 
+"," 0.02 
+"," 46.74 
+"," 17044.17 
+"," 1.52 
+"
+values_548," 522 
+"," 32 
+"," 289 
+"," 92 
+"," 811 
+"," 124 
+"," 5639.85 
+"," 283463.93 
+"," 0.02 
+"," 50.26 
+"," 15748.00 
+"," 1.44 
+"
+values_359," 624 
+"," 32 
+"," 358 
+"," 111 
+"," 982 
+"," 143 
+"," 7030.99 
+"," 362824.61 
+"," 0.02 
+"," 51.60 
+"," 20156.92 
+"," 1.70 
+"
+values_512," 404 
+"," 32 
+"," 214 
+"," 51 
+"," 618 
+"," 83 
+"," 3939.77 
+"," 264505.64 
+"," 0.01 
+"," 67.14 
+"," 14694.76 
+"," 1.37 
+"
+values_656," 1484 
+"," 32 
+"," 918 
+"," 152 
+"," 2402 
+"," 184 
+"," 18071.60 
+"," 1746286.84 
+"," 0.01 
+"," 96.63 
+"," 97015.94 
+"," 4.83 
+"
+values_684," 471 
+"," 32 
+"," 253 
+"," 74 
+"," 724 
+"," 106 
+"," 4871.01 
+"," 266457.65 
+"," 0.02 
+"," 54.70 
+"," 14803.20 
+"," 1.38 
+"
+values_171," 1475 
+"," 32 
+"," 918 
+"," 153 
+"," 2393 
+"," 185 
+"," 18022.60 
+"," 1730169.20 
+"," 0.01 
+"," 96 
+"," 96120.51 
+"," 4.80 
+"
+values_675," 1189 
+"," 32 
+"," 718 
+"," 152 
+"," 1907 
+"," 184 
+"," 14347.43 
+"," 1084363.86 
+"," 0.01 
+"," 75.58 
+"," 60242.44 
+"," 3.52 
+"
+values_657," 931 
+"," 32 
+"," 550 
+"," 149 
+"," 1481 
+"," 181 
+"," 11107.27 
+"," 655999.94 
+"," 0.02 
+"," 59.06 
+"," 36444.44 
+"," 2.52 
+"
+values_333," 1405 
+"," 32 
+"," 865 
+"," 153 
+"," 2270 
+"," 185 
+"," 17096.24 
+"," 1546483.04 
+"," 0.01 
+"," 90.46 
+"," 85915.72 
+"," 4.46 
+"
+values_599," 404 
+"," 32 
+"," 214 
+"," 50 
+"," 618 
+"," 82 
+"," 3928.97 
+"," 269055.67 
+"," 0.01 
+"," 68.48 
+"," 14947.54 
+"," 1.39 
+"
+values_129," 1106 
+"," 32 
+"," 673 
+"," 152 
+"," 1779 
+"," 184 
+"," 13384.42 
+"," 948180.26 
+"," 0.01 
+"," 70.84 
+"," 52676.68 
+"," 3.22 
+"
+values_886," 1482 
+"," 32 
+"," 918 
+"," 153 
+"," 2400 
+"," 185 
+"," 18075.32 
+"," 1735230.29 
+"," 0.01 
+"," 96 
+"," 96401.68 
+"," 4.81 
+"
+values_107," 1158 
+"," 32 
+"," 718 
+"," 153 
+"," 1876 
+"," 185 
+"," 14128.87 
+"," 1060865.86 
+"," 0.01 
+"," 75.08 
+"," 58936.99 
+"," 3.47 
+"
+values_272," 416 
+"," 32 
+"," 225 
+"," 58 
+"," 641 
+"," 90 
+"," 4161.28 
+"," 258286.21 
+"," 0.02 
+"," 62.07 
+"," 14349.23 
+"," 1.35 
+"
+values_52," 1465 
+"," 32 
+"," 918 
+"," 152 
+"," 2383 
+"," 184 
+"," 17928.65 
+"," 1732473.58 
+"," 0.01 
+"," 96.63 
+"," 96248.53 
+"," 4.81 
+"
+values_819," 405 
+"," 32 
+"," 214 
+"," 52 
+"," 619 
+"," 84 
+"," 3956.84 
+"," 260542.99 
+"," 0.02 
+"," 65.85 
+"," 14474.61 
+"," 1.36 
+"
+values_682," 855 
+"," 32 
+"," 513 
+"," 139 
+"," 1368 
+"," 171 
+"," 10147.62 
+"," 599220.74 
+"," 0.02 
+"," 59.05 
+"," 33290.04 
+"," 2.37 
+"
+values_44," 486 
+"," 32 
+"," 270 
+"," 91 
+"," 756 
+"," 123 
+"," 5248.54 
+"," 249161.51 
+"," 0.02 
+"," 47.47 
+"," 13842.31 
+"," 1.32 
+"
+values_914," 419 
+"," 32 
+"," 225 
+"," 57 
+"," 644 
+"," 89 
+"," 4170.37 
+"," 263391.94 
+"," 0.02 
+"," 63.16 
+"," 14632.89 
+"," 1.37 
+"
+values_346," 618 
+"," 32 
+"," 358 
+"," 121 
+"," 976 
+"," 153 
+"," 7083.21 
+"," 335310.99 
+"," 0.02 
+"," 47.34 
+"," 18628.39 
+"," 1.61 
+"
+values_151," 771 
+"," 32 
+"," 445 
+"," 138 
+"," 1216 
+"," 170 
+"," 9009.82 
+"," 464854.45 
+"," 0.02 
+"," 51.59 
+"," 25825.25 
+"," 2.00 
+"
+values_550," 811 
+"," 32 
+"," 478 
+"," 145 
+"," 1289 
+"," 177 
+"," 9625.74 
+"," 507708.18 
+"," 0.02 
+"," 52.74 
+"," 28206.01 
+"," 2.12 
+"
+values_326," 774 
+"," 32 
+"," 445 
+"," 136 
+"," 1219 
+"," 168 
+"," 9011.23 
+"," 471764.65 
+"," 0.02 
+"," 52.35 
+"," 26209.15 
+"," 2.02 
+"
+values_836," 631 
+"," 32 
+"," 358 
+"," 121 
+"," 989 
+"," 153 
+"," 7177.56 
+"," 339777.22 
+"," 0.02 
+"," 47.34 
+"," 18876.51 
+"," 1.62 
+"
+values_437," 558 
+"," 32 
+"," 310 
+"," 102 
+"," 868 
+"," 134 
+"," 6133.37 
+"," 298249.93 
+"," 0.02 
+"," 48.63 
+"," 16569.44 
+"," 1.49 
+"
+values_984," 765 
+"," 32 
+"," 445 
+"," 139 
+"," 1210 
+"," 171 
+"," 8975.60 
+"," 459757.43 
+"," 0.02 
+"," 51.22 
+"," 25542.08 
+"," 1.99 
+"
+values_17," 673 
+"," 32 
+"," 385 
+"," 128 
+"," 1058 
+"," 160 
+"," 7746.60 
+"," 372805.12 
+"," 0.02 
+"," 48.12 
+"," 20711.40 
+"," 1.73 
+"
+values_748," 589 
+"," 32 
+"," 333 
+"," 120 
+"," 922 
+"," 152 
+"," 6682.59 
+"," 296706.96 
+"," 0.02 
+"," 44.40 
+"," 16483.72 
+"," 1.48 
+"
+values_581," 510 
+"," 32 
+"," 289 
+"," 92 
+"," 799 
+"," 124 
+"," 5556.40 
+"," 279269.64 
+"," 0.02 
+"," 50.26 
+"," 15514.98 
+"," 1.42 
+"
+values_705," 1232 
+"," 32 
+"," 765 
+"," 151 
+"," 1997 
+"," 183 
+"," 15008.85 
+"," 1216611.63 
+"," 0.01 
+"," 81.06 
+"," 67589.53 
+"," 3.80 
+"
+values_121," 671 
+"," 32 
+"," 385 
+"," 126 
+"," 1056 
+"," 158 
+"," 7712.79 
+"," 377069.85 
+"," 0.02 
+"," 48.89 
+"," 20948.33 
+"," 1.74 
+"
+values_219," 1338 
+"," 32 
+"," 814 
+"," 151 
+"," 2152 
+"," 183 
+"," 16173.79 
+"," 1395015.82 
+"," 0.01 
+"," 86.25 
+"," 77500.88 
+"," 4.16 
+"
+values_321," 1390 
+"," 32 
+"," 865 
+"," 152 
+"," 2255 
+"," 184 
+"," 16965.63 
+"," 1544765.46 
+"," 0.01 
+"," 91.05 
+"," 85820.30 
+"," 4.45 
+"
+values_843," 712 
+"," 32 
+"," 414 
+"," 136 
+"," 1126 
+"," 168 
+"," 8323.75 
+"," 405415.56 
+"," 0.02 
+"," 48.71 
+"," 22523.09 
+"," 1.83 
+"
+values_606," 1195 
+"," 32 
+"," 718 
+"," 153 
+"," 1913 
+"," 185 
+"," 14407.53 
+"," 1081789.12 
+"," 0.01 
+"," 75.08 
+"," 60099.40 
+"," 3.51 
+"
+values_898," 637 
+"," 32 
+"," 358 
+"," 124 
+"," 995 
+"," 156 
+"," 7248.98 
+"," 334855.89 
+"," 0.02 
+"," 46.19 
+"," 18603.10 
+"," 1.61 
+"
+values_601," 552 
+"," 32 
+"," 310 
+"," 103 
+"," 862 
+"," 135 
+"," 6100.22 
+"," 293757.93 
+"," 0.02 
+"," 48.16 
+"," 16319.88 
+"," 1.47 
+"
+values_36," 667 
+"," 32 
+"," 385 
+"," 121 
+"," 1052 
+"," 153 
+"," 7634.77 
+"," 388679.30 
+"," 0.02 
+"," 50.91 
+"," 21593.29 
+"," 1.78 
+"
+values_282," 552 
+"," 32 
+"," 310 
+"," 99 
+"," 862 
+"," 131 
+"," 6062.81 
+"," 303752.94 
+"," 0.02 
+"," 50.10 
+"," 16875.16 
+"," 1.51 
+"
+values_395," 1165 
+"," 32 
+"," 718 
+"," 152 
+"," 1883 
+"," 184 
+"," 14166.87 
+"," 1070716.91 
+"," 0.01 
+"," 75.58 
+"," 59484.27 
+"," 3.49 
+"
+values_449," 670 
+"," 32 
+"," 385 
+"," 125 
+"," 1055 
+"," 157 
+"," 7695.82 
+"," 379250.25 
+"," 0.02 
+"," 49.28 
+"," 21069.46 
+"," 1.75 
+"
+values_209," 664 
+"," 32 
+"," 385 
+"," 130 
+"," 1049 
+"," 162 
+"," 7699.50 
+"," 364837.97 
+"," 0.02 
+"," 47.38 
+"," 20268.78 
+"," 1.70 
+"
+values_956," 1047 
+"," 32 
+"," 630 
+"," 152 
+"," 1677 
+"," 184 
+"," 12617.01 
+"," 836707.20 
+"," 0.02 
+"," 66.32 
+"," 46483.73 
+"," 2.96 
+"
+values_579," 863 
+"," 32 
+"," 513 
+"," 145 
+"," 1376 
+"," 177 
+"," 10275.43 
+"," 581659.93 
+"," 0.02 
+"," 56.61 
+"," 32314.44 
+"," 2.32 
+"
+values_484," 493 
+"," 32 
+"," 270 
+"," 91 
+"," 763 
+"," 123 
+"," 5297.14 
+"," 251468.56 
+"," 0.02 
+"," 47.47 
+"," 13970.48 
+"," 1.33 
+"
+values_521," 1535 
+"," 32 
+"," 973 
+"," 152 
+"," 2508 
+"," 184 
+"," 18869.09 
+"," 1932592.41 
+"," 0.01 
+"," 102.42 
+"," 107366.24 
+"," 5.17 
+"
+values_617," 524 
+"," 32 
+"," 289 
+"," 100 
+"," 813 
+"," 132 
+"," 5727.09 
+"," 264820.75 
+"," 0.02 
+"," 46.24 
+"," 14712.26 
+"," 1.37 
+"
+values_516," 377 
+"," 32 
+"," 198 
+"," 38 
+"," 575 
+"," 70 
+"," 3524.34 
+"," 293818.47 
+"," 0.01 
+"," 83.37 
+"," 16323.25 
+"," 1.47 
+"
+values_358," 499 
+"," 32 
+"," 270 
+"," 86 
+"," 769 
+"," 118 
+"," 5292.75 
+"," 265868.50 
+"," 0.02 
+"," 50.23 
+"," 14770.47 
+"," 1.38 
+"
+values_335," 1172 
+"," 32 
+"," 718 
+"," 152 
+"," 1890 
+"," 184 
+"," 14219.53 
+"," 1074697.27 
+"," 0.01 
+"," 75.58 
+"," 59705.40 
+"," 3.50 
+"
+values_139," 370 
+"," 32 
+"," 193 
+"," 33 
+"," 563 
+"," 65 
+"," 3390.59 
+"," 317277.32 
+"," 0.01 
+"," 93.58 
+"," 17626.52 
+"," 1.55 
+"
+values_992," 524 
+"," 32 
+"," 289 
+"," 99 
+"," 813 
+"," 131 
+"," 5718.17 
+"," 267079.11 
+"," 0.02 
+"," 46.71 
+"," 14837.73 
+"," 1.38 
+"
+values_211," 448 
+"," 32 
+"," 238 
+"," 65 
+"," 686 
+"," 97 
+"," 4527.54 
+"," 265244.20 
+"," 0.02 
+"," 58.58 
+"," 14735.79 
+"," 1.38 
+"
+values_507," 415 
+"," 32 
+"," 225 
+"," 60 
+"," 640 
+"," 92 
+"," 4175.08 
+"," 250504.78 
+"," 0.02 
+"," 60 
+"," 13916.93 
+"," 1.32 
+"
+values_921," 936 
+"," 32 
+"," 550 
+"," 148 
+"," 1486 
+"," 180 
+"," 11132.89 
+"," 661955.84 
+"," 0.02 
+"," 59.46 
+"," 36775.32 
+"," 2.53 
+"
+values_138," 1493 
+"," 32 
+"," 918 
+"," 153 
+"," 2411 
+"," 185 
+"," 18158.16 
+"," 1743183.43 
+"," 0.01 
+"," 96 
+"," 96843.52 
+"," 4.83 
+"
+values_275," 371 
+"," 32 
+"," 193 
+"," 33 
+"," 564 
+"," 65 
+"," 3396.62 
+"," 317840.86 
+"," 0.01 
+"," 93.58 
+"," 17657.83 
+"," 1.55 
+"
+values_614," 1577 
+"," 32 
+"," 973 
+"," 153 
+"," 2550 
+"," 185 
+"," 19205.02 
+"," 1954142.44 
+"," 0.01 
+"," 101.75 
+"," 108563.47 
+"," 5.21 
+"
+values_49," 709 
+"," 32 
+"," 414 
+"," 134 
+"," 1123 
+"," 166 
+"," 8282.17 
+"," 409411.11 
+"," 0.02 
+"," 49.43 
+"," 22745.06 
+"," 1.84 
+"
+values_227," 927 
+"," 32 
+"," 550 
+"," 143 
+"," 1477 
+"," 175 
+"," 11005.44 
+"," 677257.77 
+"," 0.02 
+"," 61.54 
+"," 37625.43 
+"," 2.57 
+"
+values_203," 370 
+"," 32 
+"," 193 
+"," 32 
+"," 563 
+"," 64 
+"," 3378 
+"," 325977 
+"," 0.01 
+"," 96.50 
+"," 18109.83 
+"," 1.58 
+"
+values_172," 1474 
+"," 32 
+"," 918 
+"," 151 
+"," 2392 
+"," 183 
+"," 17977.55 
+"," 1748704.06 
+"," 0.01 
+"," 97.27 
+"," 97150.23 
+"," 4.84 
+"
+values_86," 406 
+"," 32 
+"," 214 
+"," 52 
+"," 620 
+"," 84 
+"," 3963.24 
+"," 260963.90 
+"," 0.02 
+"," 65.85 
+"," 14497.99 
+"," 1.36 
+"
+values_178," 1414 
+"," 32 
+"," 865 
+"," 153 
+"," 2279 
+"," 185 
+"," 17164.02 
+"," 1552614.47 
+"," 0.01 
+"," 90.46 
+"," 86256.36 
+"," 4.47 
+"
+values_978," 705 
+"," 32 
+"," 414 
+"," 124 
+"," 1119 
+"," 156 
+"," 8152.37 
+"," 435494.08 
+"," 0.02 
+"," 53.42 
+"," 24194.12 
+"," 1.92 
+"
+values_253," 670 
+"," 32 
+"," 385 
+"," 124 
+"," 1055 
+"," 156 
+"," 7686.10 
+"," 381825.58 
+"," 0.02 
+"," 49.68 
+"," 21212.53 
+"," 1.75 
+"
+values_291," 663 
+"," 32 
+"," 385 
+"," 125 
+"," 1048 
+"," 157 
+"," 7644.76 
+"," 376733.90 
+"," 0.02 
+"," 49.28 
+"," 20929.66 
+"," 1.74 
+"
+values_911," 760 
+"," 32 
+"," 445 
+"," 132 
+"," 1205 
+"," 164 
+"," 8865.85 
+"," 478218.58 
+"," 0.02 
+"," 53.94 
+"," 26567.70 
+"," 2.04 
+"
+values_230," 371 
+"," 32 
+"," 193 
+"," 33 
+"," 564 
+"," 65 
+"," 3396.62 
+"," 317840.86 
+"," 0.01 
+"," 93.58 
+"," 17657.83 
+"," 1.55 
+"
+values_318," 446 
+"," 32 
+"," 238 
+"," 67 
+"," 684 
+"," 99 
+"," 4534.48 
+"," 257720.89 
+"," 0.02 
+"," 56.84 
+"," 14317.83 
+"," 1.35 
+"
+values_798," 499 
+"," 32 
+"," 270 
+"," 92 
+"," 769 
+"," 124 
+"," 5347.78 
+"," 251113.01 
+"," 0.02 
+"," 46.96 
+"," 13950.72 
+"," 1.33 
+"
+values_638," 924 
+"," 32 
+"," 550 
+"," 149 
+"," 1474 
+"," 181 
+"," 11054.77 
+"," 652899.34 
+"," 0.02 
+"," 59.06 
+"," 36272.19 
+"," 2.51 
+"
+values_112," 1478 
+"," 32 
+"," 918 
+"," 153 
+"," 2396 
+"," 185 
+"," 18045.19 
+"," 1732338.24 
+"," 0.01 
+"," 96 
+"," 96241.01 
+"," 4.81 
+"
+values_201," 865 
+"," 32 
+"," 513 
+"," 142 
+"," 1378 
+"," 174 
+"," 10256.38 
+"," 592847.43 
+"," 0.02 
+"," 57.80 
+"," 32935.97 
+"," 2.35 
+"
+values_629," 806 
+"," 32 
+"," 478 
+"," 144 
+"," 1284 
+"," 176 
+"," 9577.91 
+"," 508693.45 
+"," 0.02 
+"," 53.11 
+"," 28260.75 
+"," 2.12 
+"
+values_337," 931 
+"," 32 
+"," 550 
+"," 149 
+"," 1481 
+"," 181 
+"," 11107.27 
+"," 655999.94 
+"," 0.02 
+"," 59.06 
+"," 36444.44 
+"," 2.52 
+"
+values_37," 978 
+"," 32 
+"," 589 
+"," 149 
+"," 1567 
+"," 181 
+"," 11752.26 
+"," 743310.63 
+"," 0.02 
+"," 63.25 
+"," 41295.04 
+"," 2.74 
+"
+values_56," 1321 
+"," 32 
+"," 814 
+"," 152 
+"," 2135 
+"," 184 
+"," 16062.80 
+"," 1376328.75 
+"," 0.01 
+"," 85.68 
+"," 76462.71 
+"," 4.12 
+"
+values_316," 814 
+"," 32 
+"," 478 
+"," 144 
+"," 1292 
+"," 176 
+"," 9637.59 
+"," 511862.88 
+"," 0.02 
+"," 53.11 
+"," 28436.83 
+"," 2.13 
+"
+values_829," 424 
+"," 32 
+"," 225 
+"," 60 
+"," 649 
+"," 92 
+"," 4233.79 
+"," 254027.50 
+"," 0.02 
+"," 60 
+"," 14112.64 
+"," 1.34 
+"
+values_63," 915 
+"," 32 
+"," 550 
+"," 144 
+"," 1465 
+"," 176 
+"," 10928.07 
+"," 667826.34 
+"," 0.02 
+"," 61.11 
+"," 37101.46 
+"," 2.55 
+"
+values_35," 798 
+"," 32 
+"," 478 
+"," 138 
+"," 1276 
+"," 170 
+"," 9454.38 
+"," 523964.64 
+"," 0.02 
+"," 55.42 
+"," 29109.15 
+"," 2.17 
+"
+values_519," 1040 
+"," 32 
+"," 630 
+"," 153 
+"," 1670 
+"," 185 
+"," 12577.41 
+"," 828629.17 
+"," 0.02 
+"," 65.88 
+"," 46034.95 
+"," 2.94 
+"
+values_481," 932 
+"," 32 
+"," 550 
+"," 146 
+"," 1482 
+"," 178 
+"," 11079.04 
+"," 667777.57 
+"," 0.02 
+"," 60.27 
+"," 37098.75 
+"," 2.55 
+"
+values_278," 378 
+"," 32 
+"," 198 
+"," 37 
+"," 576 
+"," 69 
+"," 3518.51 
+"," 301260.54 
+"," 0.01 
+"," 85.62 
+"," 16736.70 
+"," 1.50 
+"
+values_186," 758 
+"," 32 
+"," 445 
+"," 137 
+"," 1203 
+"," 169 
+"," 8903.26 
+"," 462709.46 
+"," 0.02 
+"," 51.97 
+"," 25706.08 
+"," 1.99 
+"
+values_702," 391 
+"," 32 
+"," 205 
+"," 41 
+"," 596 
+"," 73 
+"," 3689.14 
+"," 295130.83 
+"," 0.01 
+"," 80 
+"," 16396.16 
+"," 1.48 
+"
+values_722," 1052 
+"," 32 
+"," 630 
+"," 148 
+"," 1682 
+"," 180 
+"," 12601.30 
+"," 858250.49 
+"," 0.01 
+"," 68.11 
+"," 47680.58 
+"," 3.01 
+"
+values_97," 462 
+"," 32 
+"," 253 
+"," 77 
+"," 715 
+"," 109 
+"," 4839.25 
+"," 254406.38 
+"," 0.02 
+"," 52.57 
+"," 14133.69 
+"," 1.34 
+"
+values_329," 1320 
+"," 32 
+"," 814 
+"," 153 
+"," 2134 
+"," 185 
+"," 16071.97 
+"," 1368113.15 
+"," 0.01 
+"," 85.12 
+"," 76006.29 
+"," 4.11 
+"
+values_75," 669 
+"," 32 
+"," 385 
+"," 129 
+"," 1054 
+"," 161 
+"," 7726.79 
+"," 368969.02 
+"," 0.02 
+"," 47.75 
+"," 20498.28 
+"," 1.71 
+"
+values_560," 524 
+"," 32 
+"," 289 
+"," 93 
+"," 813 
+"," 125 
+"," 5663.18 
+"," 281575.88 
+"," 0.02 
+"," 49.72 
+"," 15643.10 
+"," 1.43 
+"
+values_612," 526 
+"," 32 
+"," 289 
+"," 94 
+"," 815 
+"," 126 
+"," 5686.48 
+"," 279726.57 
+"," 0.02 
+"," 49.19 
+"," 15540.37 
+"," 1.43 
+"
+values_421," 1179 
+"," 32 
+"," 718 
+"," 152 
+"," 1897 
+"," 184 
+"," 14272.20 
+"," 1078677.63 
+"," 0.01 
+"," 75.58 
+"," 59926.53 
+"," 3.51 
+"
+values_639," 1319 
+"," 32 
+"," 814 
+"," 153 
+"," 2133 
+"," 185 
+"," 16064.44 
+"," 1367472.05 
+"," 0.01 
+"," 85.12 
+"," 75970.67 
+"," 4.11 
+"
+values_939," 925 
+"," 32 
+"," 550 
+"," 144 
+"," 1475 
+"," 176 
+"," 11002.66 
+"," 672384.88 
+"," 0.02 
+"," 61.11 
+"," 37354.72 
+"," 2.56 
+"
+values_198," 370 
+"," 32 
+"," 193 
+"," 33 
+"," 563 
+"," 65 
+"," 3390.59 
+"," 317277.32 
+"," 0.01 
+"," 93.58 
+"," 17626.52 
+"," 1.55 
+"
+values_840," 914 
+"," 32 
+"," 550 
+"," 142 
+"," 1464 
+"," 174 
+"," 10896.47 
+"," 675274.15 
+"," 0.02 
+"," 61.97 
+"," 37515.23 
+"," 2.57 
+"
+values_415," 522 
+"," 32 
+"," 289 
+"," 93 
+"," 811 
+"," 125 
+"," 5649.25 
+"," 280883.19 
+"," 0.02 
+"," 49.72 
+"," 15604.62 
+"," 1.43 
+"
+values_405," 941 
+"," 32 
+"," 550 
+"," 148 
+"," 1491 
+"," 180 
+"," 11170.35 
+"," 664183.15 
+"," 0.02 
+"," 59.46 
+"," 36899.06 
+"," 2.54 
+"
+values_100," 664 
+"," 32 
+"," 385 
+"," 127 
+"," 1049 
+"," 159 
+"," 7671.21 
+"," 372084.09 
+"," 0.02 
+"," 48.50 
+"," 20671.34 
+"," 1.72 
+"
+values_726," 711 
+"," 32 
+"," 414 
+"," 128 
+"," 1125 
+"," 160 
+"," 8237.17 
+"," 426273.50 
+"," 0.02 
+"," 51.75 
+"," 23681.86 
+"," 1.89 
+"
+values_265," 1039 
+"," 32 
+"," 630 
+"," 150 
+"," 1669 
+"," 182 
+"," 12530.51 
+"," 842050.22 
+"," 0.01 
+"," 67.20 
+"," 46780.57 
+"," 2.97 
+"
+values_743," 419 
+"," 32 
+"," 225 
+"," 60 
+"," 644 
+"," 92 
+"," 4201.17 
+"," 252070.43 
+"," 0.02 
+"," 60 
+"," 14003.91 
+"," 1.33 
+"
+values_436," 558 
+"," 32 
+"," 310 
+"," 104 
+"," 868 
+"," 136 
+"," 6151.92 
+"," 293399.15 
+"," 0.02 
+"," 47.69 
+"," 16299.95 
+"," 1.47 
+"
+values_583," 984 
+"," 32 
+"," 589 
+"," 147 
+"," 1573 
+"," 179 
+"," 11772.04 
+"," 754692.01 
+"," 0.02 
+"," 64.11 
+"," 41927.33 
+"," 2.76 
+"
+values_525," 404 
+"," 32 
+"," 214 
+"," 49 
+"," 618 
+"," 81 
+"," 3918.03 
+"," 273782.15 
+"," 0.01 
+"," 69.88 
+"," 15210.12 
+"," 1.41 
+"
+values_677," 389 
+"," 32 
+"," 205 
+"," 43 
+"," 594 
+"," 75 
+"," 3699.92 
+"," 282226.33 
+"," 0.01 
+"," 76.28 
+"," 15679.24 
+"," 1.43 
+"
+values_289," 757 
+"," 32 
+"," 445 
+"," 135 
+"," 1202 
+"," 167 
+"," 8875.21 
+"," 468085.28 
+"," 0.02 
+"," 52.74 
+"," 26004.74 
+"," 2.01 
+"
+values_255," 929 
+"," 32 
+"," 550 
+"," 151 
+"," 1479 
+"," 183 
+"," 11115.72 
+"," 647803.55 
+"," 0.02 
+"," 58.28 
+"," 35989.09 
+"," 2.50 
+"
+values_529," 849 
+"," 32 
+"," 513 
+"," 146 
+"," 1362 
+"," 178 
+"," 10181.95 
+"," 572420.80 
+"," 0.02 
+"," 56.22 
+"," 31801.16 
+"," 2.30 
+"
+values_826," 705 
+"," 32 
+"," 414 
+"," 131 
+"," 1119 
+"," 163 
+"," 8223.23 
+"," 415806.52 
+"," 0.02 
+"," 50.56 
+"," 23100.36 
+"," 1.86 
+"
+values_362," 1477 
+"," 32 
+"," 918 
+"," 153 
+"," 2395 
+"," 185 
+"," 18037.66 
+"," 1731615.23 
+"," 0.01 
+"," 96 
+"," 96200.85 
+"," 4.81 
+"
+values_355," 661 
+"," 32 
+"," 385 
+"," 129 
+"," 1046 
+"," 161 
+"," 7668.14 
+"," 366168.50 
+"," 0.02 
+"," 47.75 
+"," 20342.69 
+"," 1.71 
+"
+values_506," 1108 
+"," 32 
+"," 673 
+"," 149 
+"," 1781 
+"," 181 
+"," 13357.23 
+"," 965306.07 
+"," 0.01 
+"," 72.27 
+"," 53628.12 
+"," 3.26 
+"
+values_315," 1233 
+"," 32 
+"," 765 
+"," 153 
+"," 1998 
+"," 185 
+"," 15047.70 
+"," 1203816.01 
+"," 0.01 
+"," 80 
+"," 66878.67 
+"," 3.77 
+"
+values_604," 527 
+"," 32 
+"," 289 
+"," 99 
+"," 816 
+"," 131 
+"," 5739.27 
+"," 268064.64 
+"," 0.02 
+"," 46.71 
+"," 14892.48 
+"," 1.39 
+"
+values_57," 694 
+"," 32 
+"," 414 
+"," 131 
+"," 1108 
+"," 163 
+"," 8142.39 
+"," 411719.06 
+"," 0.02 
+"," 50.56 
+"," 22873.28 
+"," 1.84 
+"
+values_133," 1393 
+"," 32 
+"," 865 
+"," 153 
+"," 2258 
+"," 185 
+"," 17005.86 
+"," 1538307.80 
+"," 0.01 
+"," 90.46 
+"," 85461.54 
+"," 4.44 
+"
+values_787," 1117 
+"," 32 
+"," 673 
+"," 152 
+"," 1790 
+"," 184 
+"," 13467.18 
+"," 954043.09 
+"," 0.01 
+"," 70.84 
+"," 53002.39 
+"," 3.23 
+"
+values_799," 370 
+"," 32 
+"," 193 
+"," 33 
+"," 563 
+"," 65 
+"," 3390.59 
+"," 317277.32 
+"," 0.01 
+"," 93.58 
+"," 17626.52 
+"," 1.55 
+"
+values_765," 852 
+"," 32 
+"," 513 
+"," 146 
+"," 1365 
+"," 178 
+"," 10204.38 
+"," 573681.64 
+"," 0.02 
+"," 56.22 
+"," 31871.20 
+"," 2.30 
+"
+values_887," 1576 
+"," 32 
+"," 973 
+"," 151 
+"," 2549 
+"," 183 
+"," 19157.52 
+"," 1975127.51 
+"," 0.01 
+"," 103.10 
+"," 109729.31 
+"," 5.25 
+"
+values_952," 396 
+"," 32 
+"," 205 
+"," 44 
+"," 601 
+"," 76 
+"," 3755.00 
+"," 279918.51 
+"," 0.01 
+"," 74.55 
+"," 15551.03 
+"," 1.43 
+"
+values_631," 989 
+"," 32 
+"," 589 
+"," 148 
+"," 1578 
+"," 180 
+"," 11822.14 
+"," 752783.02 
+"," 0.02 
+"," 63.68 
+"," 41821.28 
+"," 2.76 
+"
+values_306," 913 
+"," 32 
+"," 550 
+"," 146 
+"," 1463 
+"," 178 
+"," 10937.00 
+"," 659216.32 
+"," 0.02 
+"," 60.27 
+"," 36623.13 
+"," 2.52 
+"
+values_497," 458 
+"," 32 
+"," 253 
+"," 79 
+"," 711 
+"," 111 
+"," 4830.83 
+"," 247534.16 
+"," 0.02 
+"," 51.24 
+"," 13751.90 
+"," 1.31 
+"
+values_821," 380 
+"," 32 
+"," 198 
+"," 38 
+"," 578 
+"," 70 
+"," 3542.73 
+"," 295351.44 
+"," 0.01 
+"," 83.37 
+"," 16408.41 
+"," 1.48 
+"
+values_618," 649 
+"," 32 
+"," 385 
+"," 132 
+"," 1034 
+"," 164 
+"," 7607.71 
+"," 355026.41 
+"," 0.02 
+"," 46.67 
+"," 19723.69 
+"," 1.67 
+"
+values_271," 401 
+"," 32 
+"," 214 
+"," 52 
+"," 615 
+"," 84 
+"," 3931.28 
+"," 258859.35 
+"," 0.02 
+"," 65.85 
+"," 14381.08 
+"," 1.35 
+"
+values_645," 1471 
+"," 32 
+"," 918 
+"," 153 
+"," 2389 
+"," 185 
+"," 17992.47 
+"," 1727277.15 
+"," 0.01 
+"," 96 
+"," 95959.84 
+"," 4.80 
+"
+values_985," 390 
+"," 32 
+"," 205 
+"," 44 
+"," 595 
+"," 76 
+"," 3717.52 
+"," 277123.98 
+"," 0.01 
+"," 74.55 
+"," 15395.78 
+"," 1.42 
+"
+values_400," 558 
+"," 32 
+"," 310 
+"," 101 
+"," 868 
+"," 133 
+"," 6123.99 
+"," 300742.24 
+"," 0.02 
+"," 49.11 
+"," 16707.90 
+"," 1.50 
+"
+values_562," 916 
+"," 32 
+"," 550 
+"," 150 
+"," 1466 
+"," 182 
+"," 11006.43 
+"," 645710.38 
+"," 0.02 
+"," 58.67 
+"," 35872.80 
+"," 2.49 
+"
+values_590," 928 
+"," 32 
+"," 550 
+"," 149 
+"," 1478 
+"," 181 
+"," 11084.77 
+"," 654671.11 
+"," 0.02 
+"," 59.06 
+"," 36370.62 
+"," 2.51 
+"
+values_648," 492 
+"," 32 
+"," 270 
+"," 93 
+"," 762 
+"," 125 
+"," 5307.93 
+"," 246561.80 
+"," 0.02 
+"," 46.45 
+"," 13697.88 
+"," 1.31 
+"
+values_325," 1235 
+"," 32 
+"," 765 
+"," 151 
+"," 2000 
+"," 183 
+"," 15031.40 
+"," 1218439.29 
+"," 0.01 
+"," 81.06 
+"," 67691.07 
+"," 3.80 
+"
+values_883," 377 
+"," 32 
+"," 198 
+"," 38 
+"," 575 
+"," 70 
+"," 3524.34 
+"," 293818.47 
+"," 0.01 
+"," 83.37 
+"," 16323.25 
+"," 1.47 
+"
+values_827," 495 
+"," 32 
+"," 270 
+"," 84 
+"," 765 
+"," 116 
+"," 5246.36 
+"," 269812.57 
+"," 0.02 
+"," 51.43 
+"," 14989.59 
+"," 1.39 
+"
+values_854," 634 
+"," 32 
+"," 358 
+"," 121 
+"," 992 
+"," 153 
+"," 7199.33 
+"," 340807.89 
+"," 0.02 
+"," 47.34 
+"," 18933.77 
+"," 1.63 
+"
+values_307," 857 
+"," 32 
+"," 513 
+"," 142 
+"," 1370 
+"," 174 
+"," 10196.83 
+"," 589405.65 
+"," 0.02 
+"," 57.80 
+"," 32744.76 
+"," 2.34 
+"
+values_88," 375 
+"," 32 
+"," 198 
+"," 37 
+"," 573 
+"," 69 
+"," 3500.18 
+"," 299691.47 
+"," 0.01 
+"," 85.62 
+"," 16649.53 
+"," 1.49 
+"
+values_958," 1105 
+"," 32 
+"," 673 
+"," 150 
+"," 1778 
+"," 182 
+"," 13348.86 
+"," 958270.08 
+"," 0.01 
+"," 71.79 
+"," 53237.23 
+"," 3.24 
+"
+values_251," 521 
+"," 32 
+"," 289 
+"," 103 
+"," 810 
+"," 135 
+"," 5732.22 
+"," 257337.75 
+"," 0.02 
+"," 44.89 
+"," 14296.54 
+"," 1.35 
+"
+values_902," 1047 
+"," 32 
+"," 630 
+"," 152 
+"," 1677 
+"," 184 
+"," 12617.01 
+"," 836707.20 
+"," 0.02 
+"," 66.32 
+"," 46483.73 
+"," 2.96 
+"
+values_680," 390 
+"," 32 
+"," 205 
+"," 42 
+"," 595 
+"," 74 
+"," 3694.62 
+"," 288532.60 
+"," 0.01 
+"," 78.10 
+"," 16029.59 
+"," 1.46 
+"
+values_884," 1405 
+"," 32 
+"," 865 
+"," 153 
+"," 2270 
+"," 185 
+"," 17096.24 
+"," 1546483.04 
+"," 0.01 
+"," 90.46 
+"," 85915.72 
+"," 4.46 
+"
+values_901," 495 
+"," 32 
+"," 270 
+"," 86 
+"," 765 
+"," 118 
+"," 5265.22 
+"," 264485.57 
+"," 0.02 
+"," 50.23 
+"," 14693.64 
+"," 1.37 
+"
+values_354," 615 
+"," 32 
+"," 358 
+"," 124 
+"," 973 
+"," 156 
+"," 7088.70 
+"," 327452.04 
+"," 0.02 
+"," 46.19 
+"," 18191.78 
+"," 1.58 
+"
+values_420," 489 
+"," 32 
+"," 270 
+"," 88 
+"," 759 
+"," 120 
+"," 5242.33 
+"," 257350.74 
+"," 0.02 
+"," 49.09 
+"," 14297.26 
+"," 1.35 
+"
+values_103," 458 
+"," 32 
+"," 253 
+"," 79 
+"," 711 
+"," 111 
+"," 4830.83 
+"," 247534.16 
+"," 0.02 
+"," 51.24 
+"," 13751.90 
+"," 1.31 
+"
+values_10," 377 
+"," 32 
+"," 198 
+"," 37 
+"," 575 
+"," 69 
+"," 3512.40 
+"," 300737.52 
+"," 0.01 
+"," 85.62 
+"," 16707.64 
+"," 1.50 
+"
+values_474," 907 
+"," 32 
+"," 550 
+"," 146 
+"," 1457 
+"," 178 
+"," 10892.14 
+"," 656512.77 
+"," 0.02 
+"," 60.27 
+"," 36472.93 
+"," 2.52 
+"
+values_53," 423 
+"," 32 
+"," 225 
+"," 61 
+"," 648 
+"," 93 
+"," 4237.37 
+"," 250074.58 
+"," 0.02 
+"," 59.02 
+"," 13893.03 
+"," 1.32 
+"
+values_8," 465 
+"," 32 
+"," 253 
+"," 81 
+"," 718 
+"," 113 
+"," 4896.89 
+"," 244723.51 
+"," 0.02 
+"," 49.98 
+"," 13595.75 
+"," 1.30 
+"
+values_39," 670 
+"," 32 
+"," 385 
+"," 135 
+"," 1055 
+"," 167 
+"," 7789.81 
+"," 355446.06 
+"," 0.02 
+"," 45.63 
+"," 19747.00 
+"," 1.67 
+"
+values_755," 1242 
+"," 32 
+"," 765 
+"," 153 
+"," 2007 
+"," 185 
+"," 15115.48 
+"," 1209238.61 
+"," 0.01 
+"," 80 
+"," 67179.92 
+"," 3.78 
+"
+values_124," 630 
+"," 32 
+"," 358 
+"," 122 
+"," 988 
+"," 154 
+"," 7179.59 
+"," 337087.41 
+"," 0.02 
+"," 46.95 
+"," 18727.08 
+"," 1.61 
+"
+values_841," 673 
+"," 32 
+"," 385 
+"," 124 
+"," 1058 
+"," 156 
+"," 7707.96 
+"," 382911.34 
+"," 0.02 
+"," 49.68 
+"," 21272.85 
+"," 1.76 
+"
+values_510," 713 
+"," 32 
+"," 414 
+"," 132 
+"," 1127 
+"," 164 
+"," 8291.96 
+"," 416105.68 
+"," 0.02 
+"," 50.18 
+"," 23116.98 
+"," 1.86 
+"
+values_989," 745 
+"," 32 
+"," 445 
+"," 137 
+"," 1190 
+"," 169 
+"," 8807.05 
+"," 457709.28 
+"," 0.02 
+"," 51.97 
+"," 25428.29 
+"," 1.98 
+"
+values_706," 425 
+"," 32 
+"," 225 
+"," 62 
+"," 650 
+"," 94 
+"," 4260.48 
+"," 247382.87 
+"," 0.02 
+"," 58.06 
+"," 13743.49 
+"," 1.31 
+"
+values_257," 594 
+"," 32 
+"," 333 
+"," 113 
+"," 927 
+"," 145 
+"," 6655.78 
+"," 313822.77 
+"," 0.02 
+"," 47.15 
+"," 17434.60 
+"," 1.54 
+"
+values_811," 1088 
+"," 32 
+"," 673 
+"," 151 
+"," 1761 
+"," 183 
+"," 13235.15 
+"," 943815.02 
+"," 0.01 
+"," 71.31 
+"," 52434.17 
+"," 3.21 
+"
+values_111," 1098 
+"," 32 
+"," 673 
+"," 150 
+"," 1771 
+"," 182 
+"," 13296.30 
+"," 954497.37 
+"," 0.01 
+"," 71.79 
+"," 53027.63 
+"," 3.23 
+"
+values_47," 497 
+"," 32 
+"," 270 
+"," 86 
+"," 767 
+"," 118 
+"," 5278.99 
+"," 265177.03 
+"," 0.02 
+"," 50.23 
+"," 14732.06 
+"," 1.38 
+"
+values_928," 661 
+"," 32 
+"," 385 
+"," 121 
+"," 1046 
+"," 153 
+"," 7591.23 
+"," 386462.50 
+"," 0.02 
+"," 50.91 
+"," 21470.14 
+"," 1.77 
+"
+values_561," 1467 
+"," 32 
+"," 918 
+"," 153 
+"," 2385 
+"," 185 
+"," 17962.34 
+"," 1724385.10 
+"," 0.01 
+"," 96 
+"," 95799.17 
+"," 4.79 
+"
+values_383," 370 
+"," 32 
+"," 193 
+"," 33 
+"," 563 
+"," 65 
+"," 3390.59 
+"," 317277.32 
+"," 0.01 
+"," 93.58 
+"," 17626.52 
+"," 1.55 
+"
+values_498," 400 
+"," 32 
+"," 214 
+"," 53 
+"," 614 
+"," 85 
+"," 3935.37 
+"," 254239.50 
+"," 0.02 
+"," 64.60 
+"," 14124.42 
+"," 1.34 
+"
+values_60," 1571 
+"," 32 
+"," 973 
+"," 153 
+"," 2544 
+"," 185 
+"," 19159.83 
+"," 1949544.46 
+"," 0.01 
+"," 101.75 
+"," 108308.03 
+"," 5.20 
+"
+values_737," 590 
+"," 32 
+"," 333 
+"," 113 
+"," 923 
+"," 145 
+"," 6627.06 
+"," 312468.63 
+"," 0.02 
+"," 47.15 
+"," 17359.37 
+"," 1.53 
+"
+values_624," 390 
+"," 32 
+"," 205 
+"," 41 
+"," 595 
+"," 73 
+"," 3682.95 
+"," 294635.65 
+"," 0.01 
+"," 80 
+"," 16368.65 
+"," 1.48 
+"
+values_973," 381 
+"," 32 
+"," 198 
+"," 36 
+"," 579 
+"," 68 
+"," 3524.64 
+"," 310168.41 
+"," 0.01 
+"," 88 
+"," 17231.58 
+"," 1.53 
+"
+values_472," 937 
+"," 32 
+"," 550 
+"," 144 
+"," 1487 
+"," 176 
+"," 11092.17 
+"," 677855.13 
+"," 0.02 
+"," 61.11 
+"," 37658.62 
+"," 2.57 
+"
+values_280," 421 
+"," 32 
+"," 225 
+"," 62 
+"," 646 
+"," 94 
+"," 4234.26 
+"," 245860.51 
+"," 0.02 
+"," 58.06 
+"," 13658.92 
+"," 1.31 
+"
+values_389," 462 
+"," 32 
+"," 253 
+"," 77 
+"," 715 
+"," 109 
+"," 4839.25 
+"," 254406.38 
+"," 0.02 
+"," 52.57 
+"," 14133.69 
+"," 1.34 
+"
+values_651," 545 
+"," 32 
+"," 310 
+"," 107 
+"," 855 
+"," 139 
+"," 6086.69 
+"," 282149.58 
+"," 0.02 
+"," 46.36 
+"," 15674.98 
+"," 1.43 
+"
+values_642," 993 
+"," 32 
+"," 589 
+"," 145 
+"," 1582 
+"," 177 
+"," 11813.75 
+"," 767812.40 
+"," 0.02 
+"," 64.99 
+"," 42656.24 
+"," 2.80 
+"
+values_668," 1188 
+"," 32 
+"," 718 
+"," 151 
+"," 1906 
+"," 183 
+"," 14324.92 
+"," 1089832.62 
+"," 0.01 
+"," 76.08 
+"," 60546.26 
+"," 3.53 
+"
+values_551," 818 
+"," 32 
+"," 478 
+"," 144 
+"," 1296 
+"," 176 
+"," 9667.42 
+"," 513447.60 
+"," 0.02 
+"," 53.11 
+"," 28524.87 
+"," 2.14 
+"
+values_750," 1106 
+"," 32 
+"," 673 
+"," 144 
+"," 1779 
+"," 176 
+"," 13270.33 
+"," 992325.70 
+"," 0.01 
+"," 74.78 
+"," 55129.21 
+"," 3.32 
+"
+values_592," 1471 
+"," 32 
+"," 918 
+"," 153 
+"," 2389 
+"," 185 
+"," 17992.47 
+"," 1727277.15 
+"," 0.01 
+"," 96 
+"," 95959.84 
+"," 4.80 
+"
+values_89," 560 
+"," 32 
+"," 310 
+"," 107 
+"," 870 
+"," 139 
+"," 6193.48 
+"," 287099.57 
+"," 0.02 
+"," 46.36 
+"," 15949.98 
+"," 1.45 
+"
+values_411," 370 
+"," 32 
+"," 193 
+"," 32 
+"," 563 
+"," 64 
+"," 3378 
+"," 325977 
+"," 0.01 
+"," 96.50 
+"," 18109.83 
+"," 1.58 
+"
+values_620," 715 
+"," 32 
+"," 414 
+"," 131 
+"," 1129 
+"," 163 
+"," 8296.71 
+"," 419522.40 
+"," 0.02 
+"," 50.56 
+"," 23306.80 
+"," 1.87 
+"
+values_357," 1494 
+"," 32 
+"," 918 
+"," 152 
+"," 2412 
+"," 184 
+"," 18146.83 
+"," 1753556.97 
+"," 0.01 
+"," 96.63 
+"," 97419.83 
+"," 4.85 
+"
+values_247," 1574 
+"," 32 
+"," 973 
+"," 153 
+"," 2547 
+"," 185 
+"," 19182.43 
+"," 1951843.45 
+"," 0.01 
+"," 101.75 
+"," 108435.75 
+"," 5.21 
+"
+values_692," 862 
+"," 32 
+"," 513 
+"," 139 
+"," 1375 
+"," 171 
+"," 10199.55 
+"," 602286.93 
+"," 0.02 
+"," 59.05 
+"," 33460.39 
+"," 2.38 
+"
+values_572," 404 
+"," 32 
+"," 214 
+"," 53 
+"," 618 
+"," 85 
+"," 3961.00 
+"," 255895.78 
+"," 0.02 
+"," 64.60 
+"," 14216.43 
+"," 1.34 
+"
+values_757," 1188 
+"," 32 
+"," 718 
+"," 150 
+"," 1906 
+"," 182 
+"," 14309.86 
+"," 1095944.22 
+"," 0.01 
+"," 76.59 
+"," 60885.79 
+"," 3.54 
+"
+values_566," 870 
+"," 32 
+"," 513 
+"," 144 
+"," 1383 
+"," 176 
+"," 10316.39 
+"," 588034.45 
+"," 0.02 
+"," 57 
+"," 32668.58 
+"," 2.34 
+"
+values_216," 377 
+"," 32 
+"," 198 
+"," 38 
+"," 575 
+"," 70 
+"," 3524.34 
+"," 293818.47 
+"," 0.01 
+"," 83.37 
+"," 16323.25 
+"," 1.47 
+"
+values_951," 446 
+"," 32 
+"," 238 
+"," 67 
+"," 684 
+"," 99 
+"," 4534.48 
+"," 257720.89 
+"," 0.02 
+"," 56.84 
+"," 14317.83 
+"," 1.35 
+"
+values_910," 1052 
+"," 32 
+"," 630 
+"," 149 
+"," 1682 
+"," 181 
+"," 12614.74 
+"," 853399.91 
+"," 0.01 
+"," 67.65 
+"," 47411.11 
+"," 3.00 
+"
+values_338," 848 
+"," 32 
+"," 513 
+"," 145 
+"," 1361 
+"," 177 
+"," 10163.41 
+"," 575319.16 
+"," 0.02 
+"," 56.61 
+"," 31962.18 
+"," 2.31 
+"
+values_461," 490 
+"," 32 
+"," 270 
+"," 89 
+"," 760 
+"," 121 
+"," 5258.34 
+"," 255236.09 
+"," 0.02 
+"," 48.54 
+"," 14179.78 
+"," 1.34 
+"
+values_730," 391 
+"," 32 
+"," 205 
+"," 43 
+"," 596 
+"," 75 
+"," 3712.38 
+"," 283176.58 
+"," 0.01 
+"," 76.28 
+"," 15732.03 
+"," 1.44 
+"
+values_734," 1039 
+"," 32 
+"," 630 
+"," 149 
+"," 1669 
+"," 181 
+"," 12517.24 
+"," 846804.08 
+"," 0.01 
+"," 67.65 
+"," 47044.67 
+"," 2.98 
+"
+values_51," 553 
+"," 32 
+"," 310 
+"," 105 
+"," 863 
+"," 137 
+"," 6125.60 
+"," 289361.76 
+"," 0.02 
+"," 47.24 
+"," 16075.65 
+"," 1.46 
+"
+values_678," 377 
+"," 32 
+"," 198 
+"," 37 
+"," 575 
+"," 69 
+"," 3512.40 
+"," 300737.52 
+"," 0.01 
+"," 85.62 
+"," 16707.64 
+"," 1.50 
+"
+values_327," 990 
+"," 32 
+"," 589 
+"," 148 
+"," 1579 
+"," 180 
+"," 11829.64 
+"," 753260.07 
+"," 0.02 
+"," 63.68 
+"," 41847.78 
+"," 2.76 
+"
+values_473," 726 
+"," 32 
+"," 414 
+"," 133 
+"," 1140 
+"," 165 
+"," 8397.61 
+"," 418238.73 
+"," 0.02 
+"," 49.80 
+"," 23235.48 
+"," 1.86 
+"
+values_453," 748 
+"," 32 
+"," 445 
+"," 133 
+"," 1193 
+"," 165 
+"," 8788.02 
+"," 470456.54 
+"," 0.02 
+"," 53.53 
+"," 26136.47 
+"," 2.02 
+"
+values_154," 491 
+"," 32 
+"," 270 
+"," 85 
+"," 761 
+"," 117 
+"," 5228.35 
+"," 265723.08 
+"," 0.02 
+"," 50.82 
+"," 14762.39 
+"," 1.38 
+"
+values_452," 804 
+"," 32 
+"," 478 
+"," 143 
+"," 1282 
+"," 175 
+"," 9552.45 
+"," 510889.22 
+"," 0.02 
+"," 53.48 
+"," 28382.73 
+"," 2.13 
+"
+values_221," 446 
+"," 32 
+"," 238 
+"," 69 
+"," 684 
+"," 101 
+"," 4554.22 
+"," 251339.96 
+"," 0.02 
+"," 55.19 
+"," 13963.33 
+"," 1.33 
+"
+values_323," 1046 
+"," 32 
+"," 630 
+"," 152 
+"," 1676 
+"," 184 
+"," 12609.49 
+"," 836208.27 
+"," 0.02 
+"," 66.32 
+"," 46456.02 
+"," 2.96 
+"
+values_844," 371 
+"," 32 
+"," 193 
+"," 31 
+"," 564 
+"," 63 
+"," 3371.19 
+"," 335813.61 
+"," 0.01 
+"," 99.61 
+"," 18656.31 
+"," 1.61 
+"
+values_673," 958 
+"," 32 
+"," 589 
+"," 149 
+"," 1547 
+"," 181 
+"," 11602.26 
+"," 733823.58 
+"," 0.02 
+"," 63.25 
+"," 40767.98 
+"," 2.71 
+"
+values_427," 987 
+"," 32 
+"," 589 
+"," 147 
+"," 1576 
+"," 179 
+"," 11794.49 
+"," 756131.35 
+"," 0.02 
+"," 64.11 
+"," 42007.30 
+"," 2.77 
+"
+values_933," 378 
+"," 32 
+"," 198 
+"," 38 
+"," 576 
+"," 70 
+"," 3530.47 
+"," 294329.46 
+"," 0.01 
+"," 83.37 
+"," 16351.64 
+"," 1.47 
+"
+values_802," 749 
+"," 32 
+"," 445 
+"," 139 
+"," 1194 
+"," 171 
+"," 8856.92 
+"," 453677.99 
+"," 0.02 
+"," 51.22 
+"," 25204.33 
+"," 1.97 
+"
+values_852," 987 
+"," 32 
+"," 589 
+"," 147 
+"," 1576 
+"," 179 
+"," 11794.49 
+"," 756131.35 
+"," 0.02 
+"," 64.11 
+"," 42007.30 
+"," 2.77 
+"
+values_487," 935 
+"," 32 
+"," 550 
+"," 146 
+"," 1485 
+"," 178 
+"," 11101.46 
+"," 669129.35 
+"," 0.02 
+"," 60.27 
+"," 37173.85 
+"," 2.55 
+"
+values_762," 1125 
+"," 32 
+"," 673 
+"," 149 
+"," 1798 
+"," 181 
+"," 13484.72 
+"," 974520.11 
+"," 0.01 
+"," 72.27 
+"," 54140.01 
+"," 3.28 
+"
+values_515," 467 
+"," 32 
+"," 253 
+"," 80 
+"," 720 
+"," 112 
+"," 4901.30 
+"," 248005.55 
+"," 0.02 
+"," 50.60 
+"," 13778.09 
+"," 1.32 
+"
+values_479," 772 
+"," 32 
+"," 445 
+"," 135 
+"," 1217 
+"," 167 
+"," 8985.97 
+"," 473926.62 
+"," 0.02 
+"," 52.74 
+"," 26329.26 
+"," 2.03 
+"
+values_948," 1559 
+"," 32 
+"," 973 
+"," 153 
+"," 2532 
+"," 185 
+"," 19069.46 
+"," 1940348.50 
+"," 0.01 
+"," 101.75 
+"," 107797.14 
+"," 5.19 
+"
+values_467," 528 
+"," 32 
+"," 289 
+"," 98 
+"," 817 
+"," 130 
+"," 5737.27 
+"," 270705.69 
+"," 0.02 
+"," 47.18 
+"," 15039.20 
+"," 1.39 
+"
+values_14," 1552 
+"," 32 
+"," 973 
+"," 153 
+"," 2525 
+"," 185 
+"," 19016.74 
+"," 1934984.18 
+"," 0.01 
+"," 101.75 
+"," 107499.12 
+"," 5.18 
+"
+values_868," 1370 
+"," 32 
+"," 865 
+"," 152 
+"," 2235 
+"," 184 
+"," 16815.16 
+"," 1531064.66 
+"," 0.01 
+"," 91.05 
+"," 85059.15 
+"," 4.43 
+"
+values_188," 822 
+"," 32 
+"," 478 
+"," 138 
+"," 1300 
+"," 170 
+"," 9632.21 
+"," 533819.77 
+"," 0.02 
+"," 55.42 
+"," 29656.65 
+"," 2.19 
+"
+values_489," 634 
+"," 32 
+"," 358 
+"," 121 
+"," 992 
+"," 153 
+"," 7199.33 
+"," 340807.89 
+"," 0.02 
+"," 47.34 
+"," 18933.77 
+"," 1.63 
+"
+values_865," 524 
+"," 32 
+"," 289 
+"," 103 
+"," 813 
+"," 135 
+"," 5753.45 
+"," 258290.85 
+"," 0.02 
+"," 44.89 
+"," 14349.49 
+"," 1.35 
+"
+values_728," 422 
+"," 32 
+"," 225 
+"," 59 
+"," 647 
+"," 91 
+"," 4210.54 
+"," 256914.50 
+"," 0.02 
+"," 61.02 
+"," 14273.03 
+"," 1.35 
+"
+values_996," 1330 
+"," 32 
+"," 814 
+"," 151 
+"," 2144 
+"," 183 
+"," 16113.66 
+"," 1389829.89 
+"," 0.01 
+"," 86.25 
+"," 77212.77 
+"," 4.15 
+"
+values_277," 719 
+"," 32 
+"," 414 
+"," 136 
+"," 1133 
+"," 168 
+"," 8375.50 
+"," 407935.91 
+"," 0.02 
+"," 48.71 
+"," 22663.11 
+"," 1.83 
+"
+values_936," 971 
+"," 32 
+"," 589 
+"," 151 
+"," 1560 
+"," 183 
+"," 11724.49 
+"," 731732.52 
+"," 0.02 
+"," 62.41 
+"," 40651.81 
+"," 2.71 
+"
+values_554," 526 
+"," 32 
+"," 289 
+"," 92 
+"," 815 
+"," 124 
+"," 5667.67 
+"," 284862.02 
+"," 0.02 
+"," 50.26 
+"," 15825.67 
+"," 1.44 
+"
+values_763," 379 
+"," 32 
+"," 198 
+"," 37 
+"," 577 
+"," 69 
+"," 3524.62 
+"," 301783.56 
+"," 0.01 
+"," 85.62 
+"," 16765.75 
+"," 1.50 
+"
+values_834," 930 
+"," 32 
+"," 550 
+"," 143 
+"," 1480 
+"," 175 
+"," 11027.79 
+"," 678633.38 
+"," 0.02 
+"," 61.54 
+"," 37701.85 
+"," 2.57 
+"
+values_613," 1406 
+"," 32 
+"," 865 
+"," 151 
+"," 2271 
+"," 183 
+"," 17068.15 
+"," 1564392.42 
+"," 0.01 
+"," 91.66 
+"," 86910.69 
+"," 4.49 
+"
+values_907," 982 
+"," 32 
+"," 589 
+"," 149 
+"," 1571 
+"," 181 
+"," 11782.26 
+"," 745208.04 
+"," 0.02 
+"," 63.25 
+"," 41400.45 
+"," 2.74 
+"
+values_825," 471 
+"," 32 
+"," 253 
+"," 84 
+"," 724 
+"," 116 
+"," 4965.18 
+"," 239274.30 
+"," 0.02 
+"," 48.19 
+"," 13293.02 
+"," 1.28 
+"
+values_308," 1044 
+"," 32 
+"," 630 
+"," 148 
+"," 1674 
+"," 180 
+"," 12541.36 
+"," 854168.44 
+"," 0.01 
+"," 68.11 
+"," 47453.80 
+"," 3.00 
+"
+values_294," 495 
+"," 32 
+"," 270 
+"," 90 
+"," 765 
+"," 122 
+"," 5302.01 
+"," 254496.68 
+"," 0.02 
+"," 48 
+"," 14138.70 
+"," 1.34 
+"
+values_522," 592 
+"," 32 
+"," 333 
+"," 114 
+"," 925 
+"," 146 
+"," 6650.59 
+"," 310827.47 
+"," 0.02 
+"," 46.74 
+"," 17268.19 
+"," 1.53 
+"
+values_322," 427 
+"," 32 
+"," 225 
+"," 62 
+"," 652 
+"," 94 
+"," 4273.59 
+"," 248144.05 
+"," 0.02 
+"," 58.06 
+"," 13785.78 
+"," 1.32 
+"
+values_28," 917 
+"," 32 
+"," 550 
+"," 145 
+"," 1467 
+"," 177 
+"," 10954.98 
+"," 664853.80 
+"," 0.02 
+"," 60.69 
+"," 36936.32 
+"," 2.54 
+"
+values_760," 495 
+"," 32 
+"," 270 
+"," 92 
+"," 765 
+"," 124 
+"," 5319.96 
+"," 249806.83 
+"," 0.02 
+"," 46.96 
+"," 13878.16 
+"," 1.32 
+"
+values_559," 676 
+"," 32 
+"," 385 
+"," 126 
+"," 1061 
+"," 158 
+"," 7749.31 
+"," 378855.22 
+"," 0.02 
+"," 48.89 
+"," 21047.51 
+"," 1.75 
+"
+values_685," 371 
+"," 32 
+"," 193 
+"," 33 
+"," 564 
+"," 65 
+"," 3396.62 
+"," 317840.86 
+"," 0.01 
+"," 93.58 
+"," 17657.83 
+"," 1.55 
+"
+values_908," 771 
+"," 32 
+"," 445 
+"," 137 
+"," 1216 
+"," 169 
+"," 8999.47 
+"," 467709.65 
+"," 0.02 
+"," 51.97 
+"," 25983.87 
+"," 2.01 
+"
+values_919," 405 
+"," 32 
+"," 214 
+"," 52 
+"," 619 
+"," 84 
+"," 3956.84 
+"," 260542.99 
+"," 0.02 
+"," 65.85 
+"," 14474.61 
+"," 1.36 
+"
+values_724," 524 
+"," 32 
+"," 289 
+"," 94 
+"," 813 
+"," 126 
+"," 5672.53 
+"," 279040.13 
+"," 0.02 
+"," 49.19 
+"," 15502.23 
+"," 1.42 
+"
+values_947," 978 
+"," 32 
+"," 589 
+"," 145 
+"," 1567 
+"," 177 
+"," 11701.74 
+"," 760532.26 
+"," 0.02 
+"," 64.99 
+"," 42251.79 
+"," 2.78 
+"
+values_214," 1321 
+"," 32 
+"," 814 
+"," 151 
+"," 2135 
+"," 183 
+"," 16046.02 
+"," 1383995.72 
+"," 0.01 
+"," 86.25 
+"," 76888.65 
+"," 4.14 
+"
+values_468," 405 
+"," 32 
+"," 214 
+"," 53 
+"," 619 
+"," 85 
+"," 3967.41 
+"," 256309.85 
+"," 0.02 
+"," 64.60 
+"," 14239.44 
+"," 1.34 
+"
+values_967," 1271 
+"," 32 
+"," 765 
+"," 151 
+"," 2036 
+"," 183 
+"," 15301.96 
+"," 1240371.19 
+"," 0.01 
+"," 81.06 
+"," 68909.51 
+"," 3.85 
+"
+values_234," 630 
+"," 32 
+"," 358 
+"," 118 
+"," 988 
+"," 150 
+"," 7142.07 
+"," 346693.16 
+"," 0.02 
+"," 48.54 
+"," 19260.73 
+"," 1.65 
+"
+values_983," 1101 
+"," 32 
+"," 673 
+"," 150 
+"," 1774 
+"," 182 
+"," 13318.83 
+"," 956114.24 
+"," 0.01 
+"," 71.79 
+"," 53117.46 
+"," 3.24 
+"
+values_719," 528 
+"," 32 
+"," 289 
+"," 95 
+"," 817 
+"," 127 
+"," 5709.76 
+"," 277914.83 
+"," 0.02 
+"," 48.67 
+"," 15439.71 
+"," 1.42 
+"
+values_110," 423 
+"," 32 
+"," 225 
+"," 61 
+"," 648 
+"," 93 
+"," 4237.37 
+"," 250074.58 
+"," 0.02 
+"," 59.02 
+"," 13893.03 
+"," 1.32 
+"
+values_235," 862 
+"," 32 
+"," 513 
+"," 140 
+"," 1375 
+"," 172 
+"," 10211.11 
+"," 598663.03 
+"," 0.02 
+"," 58.63 
+"," 33259.06 
+"," 2.37 
+"
+values_588," 811 
+"," 32 
+"," 478 
+"," 139 
+"," 1289 
+"," 171 
+"," 9561.61 
+"," 526095.02 
+"," 0.02 
+"," 55.02 
+"," 29227.50 
+"," 2.17 
+"
+values_185," 1581 
+"," 32 
+"," 973 
+"," 153 
+"," 2554 
+"," 185 
+"," 19235.15 
+"," 1957207.76 
+"," 0.01 
+"," 101.75 
+"," 108733.76 
+"," 5.22 
+"
+values_732," 996 
+"," 32 
+"," 589 
+"," 146 
+"," 1585 
+"," 178 
+"," 11849.04 
+"," 764831.02 
+"," 0.02 
+"," 64.55 
+"," 42490.61 
+"," 2.79 
+"
+values_896," 466 
+"," 32 
+"," 253 
+"," 74 
+"," 719 
+"," 106 
+"," 4837.37 
+"," 264617.48 
+"," 0.02 
+"," 54.70 
+"," 14700.97 
+"," 1.37 
+"
+values_888," 421 
+"," 32 
+"," 225 
+"," 59 
+"," 646 
+"," 91 
+"," 4204.04 
+"," 256517.41 
+"," 0.02 
+"," 61.02 
+"," 14250.97 
+"," 1.35 
+"
+values_923," 596 
+"," 32 
+"," 333 
+"," 113 
+"," 929 
+"," 145 
+"," 6670.14 
+"," 314499.84 
+"," 0.02 
+"," 47.15 
+"," 17472.21 
+"," 1.54 
+"
+values_767," 1108 
+"," 32 
+"," 673 
+"," 150 
+"," 1781 
+"," 182 
+"," 13371.38 
+"," 959886.96 
+"," 0.01 
+"," 71.79 
+"," 53327.05 
+"," 3.24 
+"
+values_179," 380 
+"," 32 
+"," 198 
+"," 38 
+"," 578 
+"," 70 
+"," 3542.73 
+"," 295351.44 
+"," 0.01 
+"," 83.37 
+"," 16408.41 
+"," 1.48 
+"
+values_195," 1575 
+"," 32 
+"," 973 
+"," 153 
+"," 2548 
+"," 185 
+"," 19189.96 
+"," 1952609.78 
+"," 0.01 
+"," 101.75 
+"," 108478.32 
+"," 5.21 
+"
+values_148," 403 
+"," 32 
+"," 214 
+"," 52 
+"," 617 
+"," 84 
+"," 3944.06 
+"," 259701.17 
+"," 0.02 
+"," 65.85 
+"," 14427.84 
+"," 1.36 
+"
+values_917," 1415 
+"," 32 
+"," 865 
+"," 152 
+"," 2280 
+"," 184 
+"," 17153.72 
+"," 1561891.46 
+"," 0.01 
+"," 91.05 
+"," 86771.75 
+"," 4.49 
+"
+values_634," 1331 
+"," 32 
+"," 814 
+"," 152 
+"," 2145 
+"," 184 
+"," 16138.04 
+"," 1382775.25 
+"," 0.01 
+"," 85.68 
+"," 76820.85 
+"," 4.14 
+"
+values_157," 1566 
+"," 32 
+"," 973 
+"," 152 
+"," 2539 
+"," 184 
+"," 19102.32 
+"," 1956480.11 
+"," 0.01 
+"," 102.42 
+"," 108693.34 
+"," 5.21 
+"
+values_314," 1562 
+"," 32 
+"," 973 
+"," 151 
+"," 2535 
+"," 183 
+"," 19052.30 
+"," 1964279.42 
+"," 0.01 
+"," 103.10 
+"," 109126.63 
+"," 5.23 
+"
+values_879," 595 
+"," 32 
+"," 333 
+"," 110 
+"," 928 
+"," 142 
+"," 6634.97 
+"," 321373.59 
+"," 0.02 
+"," 48.44 
+"," 17854.09 
+"," 1.56 
+"
+values_16," 523 
+"," 32 
+"," 289 
+"," 105 
+"," 812 
+"," 137 
+"," 5763.60 
+"," 253818.06 
+"," 0.02 
+"," 44.04 
+"," 14101.00 
+"," 1.34 
+"
+values_839," 466 
+"," 32 
+"," 253 
+"," 81 
+"," 719 
+"," 113 
+"," 4903.71 
+"," 245064.35 
+"," 0.02 
+"," 49.98 
+"," 13614.69 
+"," 1.31 
+"
+values_150," 1471 
+"," 32 
+"," 918 
+"," 153 
+"," 2389 
+"," 185 
+"," 17992.47 
+"," 1727277.15 
+"," 0.01 
+"," 96 
+"," 95959.84 
+"," 4.80 
+"
+values_835," 523 
+"," 32 
+"," 289 
+"," 99 
+"," 812 
+"," 131 
+"," 5711.14 
+"," 266750.60 
+"," 0.02 
+"," 46.71 
+"," 14819.48 
+"," 1.38 
+"
+values_161," 1409 
+"," 32 
+"," 865 
+"," 153 
+"," 2274 
+"," 185 
+"," 17126.36 
+"," 1549208.12 
+"," 0.01 
+"," 90.46 
+"," 86067.12 
+"," 4.46 
+"
+values_34," 525 
+"," 32 
+"," 289 
+"," 99 
+"," 814 
+"," 131 
+"," 5725.21 
+"," 267407.62 
+"," 0.02 
+"," 46.71 
+"," 14855.98 
+"," 1.38 
+"
+values_959," 459 
+"," 32 
+"," 253 
+"," 80 
+"," 712 
+"," 112 
+"," 4846.84 
+"," 245249.94 
+"," 0.02 
+"," 50.60 
+"," 13625.00 
+"," 1.31 
+"
+values_264," 584 
+"," 32 
+"," 333 
+"," 114 
+"," 917 
+"," 146 
+"," 6593.07 
+"," 308139.23 
+"," 0.02 
+"," 46.74 
+"," 17118.85 
+"," 1.52 
+"
+values_123," 465 
+"," 32 
+"," 253 
+"," 77 
+"," 718 
+"," 109 
+"," 4859.56 
+"," 255473.82 
+"," 0.02 
+"," 52.57 
+"," 14192.99 
+"," 1.34 
+"
+values_623," 1264 
+"," 32 
+"," 765 
+"," 153 
+"," 2029 
+"," 185 
+"," 15281.17 
+"," 1222493.84 
+"," 0.01 
+"," 80 
+"," 67916.32 
+"," 3.81 
+"
+values_187," 922 
+"," 32 
+"," 550 
+"," 148 
+"," 1472 
+"," 180 
+"," 11028.01 
+"," 655719.38 
+"," 0.02 
+"," 59.46 
+"," 36428.85 
+"," 2.52 
+"
+values_575," 978 
+"," 32 
+"," 589 
+"," 145 
+"," 1567 
+"," 177 
+"," 11701.74 
+"," 760532.26 
+"," 0.02 
+"," 64.99 
+"," 42251.79 
+"," 2.78 
+"
+values_466," 1575 
+"," 32 
+"," 973 
+"," 153 
+"," 2548 
+"," 185 
+"," 19189.96 
+"," 1952609.78 
+"," 0.01 
+"," 101.75 
+"," 108478.32 
+"," 5.21 
+"
+values_621," 378 
+"," 32 
+"," 198 
+"," 38 
+"," 576 
+"," 70 
+"," 3530.47 
+"," 294329.46 
+"," 0.01 
+"," 83.37 
+"," 16351.64 
+"," 1.47 
+"
+values_82," 979 
+"," 32 
+"," 589 
+"," 147 
+"," 1568 
+"," 179 
+"," 11734.62 
+"," 752293.12 
+"," 0.02 
+"," 64.11 
+"," 41794.06 
+"," 2.76 
+"
+values_352," 598 
+"," 32 
+"," 333 
+"," 118 
+"," 931 
+"," 150 
+"," 6730.03 
+"," 303877.97 
+"," 0.02 
+"," 45.15 
+"," 16882.11 
+"," 1.51 
+"
+values_779," 393 
+"," 32 
+"," 205 
+"," 44 
+"," 598 
+"," 76 
+"," 3736.26 
+"," 278521.25 
+"," 0.01 
+"," 74.55 
+"," 15473.40 
+"," 1.42 
+"
+values_946," 757 
+"," 32 
+"," 445 
+"," 134 
+"," 1202 
+"," 166 
+"," 8864.80 
+"," 471025.06 
+"," 0.02 
+"," 53.13 
+"," 26168.06 
+"," 2.02 
+"
+values_756," 494 
+"," 32 
+"," 270 
+"," 91 
+"," 764 
+"," 123 
+"," 5304.08 
+"," 251798.13 
+"," 0.02 
+"," 47.47 
+"," 13988.79 
+"," 1.33 
+"
+values_502," 1324 
+"," 32 
+"," 814 
+"," 152 
+"," 2138 
+"," 184 
+"," 16085.38 
+"," 1378262.70 
+"," 0.01 
+"," 85.68 
+"," 76570.15 
+"," 4.13 
+"
+values_641," 380 
+"," 32 
+"," 198 
+"," 37 
+"," 578 
+"," 69 
+"," 3530.73 
+"," 302306.58 
+"," 0.01 
+"," 85.62 
+"," 16794.81 
+"," 1.50 
+"
+values_882," 806 
+"," 32 
+"," 478 
+"," 136 
+"," 1284 
+"," 168 
+"," 9491.74 
+"," 533770.54 
+"," 0.02 
+"," 56.24 
+"," 29653.92 
+"," 2.19 
+"
+values_46," 758 
+"," 32 
+"," 445 
+"," 138 
+"," 1203 
+"," 170 
+"," 8913.50 
+"," 459884.79 
+"," 0.02 
+"," 51.59 
+"," 25549.15 
+"," 1.99 
+"
+values_721," 1094 
+"," 32 
+"," 673 
+"," 150 
+"," 1767 
+"," 182 
+"," 13266.27 
+"," 952341.53 
+"," 0.01 
+"," 71.79 
+"," 52907.86 
+"," 3.23 
+"
+values_105," 518 
+"," 32 
+"," 289 
+"," 97 
+"," 807 
+"," 129 
+"," 5658.06 
+"," 269720.32 
+"," 0.02 
+"," 47.67 
+"," 14984.46 
+"," 1.39 
+"
+values_284," 1381 
+"," 32 
+"," 865 
+"," 153 
+"," 2246 
+"," 185 
+"," 16915.48 
+"," 1530132.56 
+"," 0.01 
+"," 90.46 
+"," 85007.36 
+"," 4.43 
+"
+values_295," 390 
+"," 32 
+"," 205 
+"," 43 
+"," 595 
+"," 75 
+"," 3706.15 
+"," 282701.45 
+"," 0.01 
+"," 76.28 
+"," 15705.64 
+"," 1.44 
+"
+values_423," 991 
+"," 32 
+"," 589 
+"," 149 
+"," 1580 
+"," 181 
+"," 11849.76 
+"," 749477.22 
+"," 0.02 
+"," 63.25 
+"," 41637.62 
+"," 2.75 
+"
+values_544," 1559 
+"," 32 
+"," 973 
+"," 153 
+"," 2532 
+"," 185 
+"," 19069.46 
+"," 1940348.50 
+"," 0.01 
+"," 101.75 
+"," 107797.14 
+"," 5.19 
+"
+values_384," 1408 
+"," 32 
+"," 865 
+"," 152 
+"," 2273 
+"," 184 
+"," 17101.06 
+"," 1557096.18 
+"," 0.01 
+"," 91.05 
+"," 86505.34 
+"," 4.48 
+"
+values_206," 752 
+"," 32 
+"," 445 
+"," 140 
+"," 1197 
+"," 172 
+"," 8889.24 
+"," 452081.29 
+"," 0.02 
+"," 50.86 
+"," 25115.63 
+"," 1.96 
+"
+values_817," 1032 
+"," 32 
+"," 630 
+"," 150 
+"," 1662 
+"," 182 
+"," 12477.95 
+"," 838518.56 
+"," 0.01 
+"," 67.20 
+"," 46584.36 
+"," 2.96 
+"
+values_788," 427 
+"," 32 
+"," 225 
+"," 61 
+"," 652 
+"," 93 
+"," 4263.53 
+"," 251618.26 
+"," 0.02 
+"," 59.02 
+"," 13978.79 
+"," 1.33 
+"
+values_205," 1175 
+"," 32 
+"," 718 
+"," 148 
+"," 1893 
+"," 180 
+"," 14182.08 
+"," 1100835.89 
+"," 0.01 
+"," 77.62 
+"," 61157.55 
+"," 3.55 
+"
+values_243," 421 
+"," 32 
+"," 225 
+"," 59 
+"," 646 
+"," 91 
+"," 4204.04 
+"," 256517.41 
+"," 0.02 
+"," 61.02 
+"," 14250.97 
+"," 1.35 
+"
+values_619," 445 
+"," 32 
+"," 238 
+"," 67 
+"," 683 
+"," 99 
+"," 4527.85 
+"," 257344.10 
+"," 0.02 
+"," 56.84 
+"," 14296.89 
+"," 1.35 
+"
+values_514," 404 
+"," 32 
+"," 214 
+"," 53 
+"," 618 
+"," 85 
+"," 3961.00 
+"," 255895.78 
+"," 0.02 
+"," 64.60 
+"," 14216.43 
+"," 1.34 
+"
+values_703," 668 
+"," 32 
+"," 385 
+"," 124 
+"," 1053 
+"," 156 
+"," 7671.53 
+"," 381101.74 
+"," 0.02 
+"," 49.68 
+"," 21172.32 
+"," 1.75 
+"
+values_605," 911 
+"," 32 
+"," 550 
+"," 146 
+"," 1461 
+"," 178 
+"," 10922.05 
+"," 658315.13 
+"," 0.02 
+"," 60.27 
+"," 36573.06 
+"," 2.52 
+"
+values_659," 379 
+"," 32 
+"," 198 
+"," 38 
+"," 577 
+"," 70 
+"," 3536.60 
+"," 294840.45 
+"," 0.01 
+"," 83.37 
+"," 16380.02 
+"," 1.48 
+"
+values_929," 1169 
+"," 32 
+"," 718 
+"," 152 
+"," 1887 
+"," 184 
+"," 14196.96 
+"," 1072991.40 
+"," 0.01 
+"," 75.58 
+"," 59610.63 
+"," 3.49 
+"
+values_365," 1415 
+"," 32 
+"," 865 
+"," 152 
+"," 2280 
+"," 184 
+"," 17153.72 
+"," 1561891.46 
+"," 0.01 
+"," 91.05 
+"," 86771.75 
+"," 4.49 
+"
+values_495," 424 
+"," 32 
+"," 225 
+"," 64 
+"," 649 
+"," 96 
+"," 4273.64 
+"," 240392.29 
+"," 0.02 
+"," 56.25 
+"," 13355.13 
+"," 1.29 
+"
+values_431," 1175 
+"," 32 
+"," 718 
+"," 152 
+"," 1893 
+"," 184 
+"," 14242.10 
+"," 1076403.14 
+"," 0.01 
+"," 75.58 
+"," 59800.17 
+"," 3.50 
+"
+values_482," 617 
+"," 32 
+"," 358 
+"," 124 
+"," 975 
+"," 156 
+"," 7103.27 
+"," 328125.12 
+"," 0.02 
+"," 46.19 
+"," 18229.17 
+"," 1.59 
+"
+values_611," 546 
+"," 32 
+"," 310 
+"," 102 
+"," 856 
+"," 134 
+"," 6048.57 
+"," 294126.66 
+"," 0.02 
+"," 48.63 
+"," 16340.37 
+"," 1.47 
+"
+values_846," 1325 
+"," 32 
+"," 814 
+"," 152 
+"," 2139 
+"," 184 
+"," 16092.90 
+"," 1378907.35 
+"," 0.01 
+"," 85.68 
+"," 76605.96 
+"," 4.13 
+"
+values_27," 720 
+"," 32 
+"," 414 
+"," 133 
+"," 1134 
+"," 165 
+"," 8353.41 
+"," 416037.47 
+"," 0.02 
+"," 49.80 
+"," 23113.19 
+"," 1.86 
+"
+values_736," 1084 
+"," 32 
+"," 673 
+"," 148 
+"," 1757 
+"," 180 
+"," 13163.19 
+"," 957710.71 
+"," 0.01 
+"," 72.76 
+"," 53206.15 
+"," 3.24 
+"
+values_815," 483 
+"," 32 
+"," 270 
+"," 88 
+"," 753 
+"," 120 
+"," 5200.89 
+"," 255316.35 
+"," 0.02 
+"," 49.09 
+"," 14184.24 
+"," 1.34 
+"
+values_145," 388 
+"," 32 
+"," 205 
+"," 43 
+"," 593 
+"," 75 
+"," 3693.69 
+"," 281751.20 
+"," 0.01 
+"," 76.28 
+"," 15652.84 
+"," 1.43 
+"
+values_582," 636 
+"," 32 
+"," 358 
+"," 117 
+"," 994 
+"," 149 
+"," 7175.85 
+"," 351310.16 
+"," 0.02 
+"," 48.96 
+"," 19517.23 
+"," 1.66 
+"
+values_492," 713 
+"," 32 
+"," 414 
+"," 128 
+"," 1127 
+"," 160 
+"," 8251.81 
+"," 427031.32 
+"," 0.02 
+"," 51.75 
+"," 23723.96 
+"," 1.89 
+"
+values_881," 1593 
+"," 32 
+"," 973 
+"," 152 
+"," 2566 
+"," 184 
+"," 19305.46 
+"," 1977285.53 
+"," 0.01 
+"," 102.42 
+"," 109849.20 
+"," 5.25 
+"
+values_237," 401 
+"," 32 
+"," 214 
+"," 54 
+"," 615 
+"," 86 
+"," 3952.15 
+"," 250595.76 
+"," 0.02 
+"," 63.41 
+"," 13921.99 
+"," 1.32 
+"
+values_409," 446 
+"," 32 
+"," 238 
+"," 68 
+"," 684 
+"," 100 
+"," 4544.40 
+"," 254486.27 
+"," 0.02 
+"," 56 
+"," 14138.13 
+"," 1.34 
+"
+values_108," 825 
+"," 32 
+"," 478 
+"," 137 
+"," 1303 
+"," 169 
+"," 9643.35 
+"," 538338.03 
+"," 0.02 
+"," 55.82 
+"," 29907.67 
+"," 2.21 
+"
+values_299," 467 
+"," 32 
+"," 253 
+"," 79 
+"," 720 
+"," 111 
+"," 4891.98 
+"," 250667.50 
+"," 0.02 
+"," 51.24 
+"," 13925.97 
+"," 1.33 
+"
+values_20," 391 
+"," 32 
+"," 205 
+"," 41 
+"," 596 
+"," 73 
+"," 3689.14 
+"," 295130.83 
+"," 0.01 
+"," 80 
+"," 16396.16 
+"," 1.48 
+"
+values_485," 1104 
+"," 32 
+"," 673 
+"," 149 
+"," 1777 
+"," 181 
+"," 13327.23 
+"," 963138.06 
+"," 0.01 
+"," 72.27 
+"," 53507.67 
+"," 3.25 
+"
+values_303," 1094 
+"," 32 
+"," 673 
+"," 149 
+"," 1767 
+"," 181 
+"," 13252.23 
+"," 957718.04 
+"," 0.01 
+"," 72.27 
+"," 53206.56 
+"," 3.24 
+"
+values_425," 420 
+"," 32 
+"," 225 
+"," 60 
+"," 645 
+"," 92 
+"," 4207.70 
+"," 252461.85 
+"," 0.02 
+"," 60 
+"," 14025.66 
+"," 1.33 
+"
+values_597," 1231 
+"," 32 
+"," 765 
+"," 151 
+"," 1996 
+"," 183 
+"," 15001.34 
+"," 1216002.41 
+"," 0.01 
+"," 81.06 
+"," 67555.69 
+"," 3.80 
+"
+values_517," 667 
+"," 32 
+"," 385 
+"," 129 
+"," 1052 
+"," 161 
+"," 7712.12 
+"," 368268.89 
+"," 0.02 
+"," 47.75 
+"," 20459.38 
+"," 1.71 
+"
+values_672," 750 
+"," 32 
+"," 445 
+"," 130 
+"," 1195 
+"," 162 
+"," 8771.12 
+"," 480387.54 
+"," 0.02 
+"," 54.77 
+"," 26688.20 
+"," 2.04 
+"
+values_340," 870 
+"," 32 
+"," 513 
+"," 143 
+"," 1383 
+"," 175 
+"," 10305.02 
+"," 591494.02 
+"," 0.02 
+"," 57.40 
+"," 32860.78 
+"," 2.35 
+"
+values_339," 1307 
+"," 32 
+"," 814 
+"," 150 
+"," 2121 
+"," 182 
+"," 15924.03 
+"," 1382630.66 
+"," 0.01 
+"," 86.83 
+"," 76812.81 
+"," 4.14 
+"
+values_424," 427 
+"," 32 
+"," 225 
+"," 60 
+"," 652 
+"," 92 
+"," 4253.36 
+"," 255201.74 
+"," 0.02 
+"," 60 
+"," 14177.87 
+"," 1.34 
+"
+values_9," 408 
+"," 32 
+"," 214 
+"," 52 
+"," 622 
+"," 84 
+"," 3976.02 
+"," 261805.72 
+"," 0.02 
+"," 65.85 
+"," 14544.76 
+"," 1.36 
+"
+values_587," 1049 
+"," 32 
+"," 630 
+"," 151 
+"," 1679 
+"," 183 
+"," 12618.86 
+"," 842371.58 
+"," 0.01 
+"," 66.75 
+"," 46798.42 
+"," 2.97 
+"
+values_417," 927 
+"," 32 
+"," 550 
+"," 150 
+"," 1477 
+"," 182 
+"," 11089.01 
+"," 650555.41 
+"," 0.02 
+"," 58.67 
+"," 36141.97 
+"," 2.50 
+"
+values_116," 629 
+"," 32 
+"," 358 
+"," 125 
+"," 987 
+"," 157 
+"," 7199.79 
+"," 329923.21 
+"," 0.02 
+"," 45.82 
+"," 18329.07 
+"," 1.59 
+"
+values_475," 370 
+"," 32 
+"," 193 
+"," 33 
+"," 563 
+"," 65 
+"," 3390.59 
+"," 317277.32 
+"," 0.01 
+"," 93.58 
+"," 17626.52 
+"," 1.55 
+"
+values_184," 1544 
+"," 32 
+"," 973 
+"," 153 
+"," 2517 
+"," 185 
+"," 18956.49 
+"," 1928853.54 
+"," 0.01 
+"," 101.75 
+"," 107158.53 
+"," 5.17 
+"
+values_223," 437 
+"," 32 
+"," 238 
+"," 68 
+"," 675 
+"," 100 
+"," 4484.60 
+"," 251137.76 
+"," 0.02 
+"," 56 
+"," 13952.10 
+"," 1.33 
+"
+values_804," 493 
+"," 32 
+"," 270 
+"," 87 
+"," 763 
+"," 119 
+"," 5260.75 
+"," 261223.25 
+"," 0.02 
+"," 49.66 
+"," 14512.40 
+"," 1.36 
+"
+values_374," 486 
+"," 32 
+"," 270 
+"," 84 
+"," 756 
+"," 116 
+"," 5184.63 
+"," 266638.30 
+"," 0.02 
+"," 51.43 
+"," 14813.24 
+"," 1.38 
+"
+values_864," 472 
+"," 32 
+"," 253 
+"," 80 
+"," 725 
+"," 112 
+"," 4935.33 
+"," 249727.82 
+"," 0.02 
+"," 50.60 
+"," 13873.77 
+"," 1.32 
+"
+values_444," 1253 
+"," 32 
+"," 765 
+"," 152 
+"," 2018 
+"," 184 
+"," 15182.55 
+"," 1222594.66 
+"," 0.01 
+"," 80.53 
+"," 67921.93 
+"," 3.81 
+"
+values_92," 475 
+"," 32 
+"," 253 
+"," 74 
+"," 728 
+"," 106 
+"," 4897.93 
+"," 267929.79 
+"," 0.02 
+"," 54.70 
+"," 14884.99 
+"," 1.39 
+"
+values_773," 924 
+"," 32 
+"," 550 
+"," 149 
+"," 1474 
+"," 181 
+"," 11054.77 
+"," 652899.34 
+"," 0.02 
+"," 59.06 
+"," 36272.19 
+"," 2.51 
+"
+values_131," 1562 
+"," 32 
+"," 973 
+"," 153 
+"," 2535 
+"," 185 
+"," 19092.05 
+"," 1942647.49 
+"," 0.01 
+"," 101.75 
+"," 107924.86 
+"," 5.19 
+"
+values_710," 933 
+"," 32 
+"," 550 
+"," 148 
+"," 1483 
+"," 180 
+"," 11110.42 
+"," 660619.46 
+"," 0.02 
+"," 59.46 
+"," 36701.08 
+"," 2.53 
+"
+values_693," 1394 
+"," 32 
+"," 865 
+"," 153 
+"," 2259 
+"," 185 
+"," 17013.39 
+"," 1538989.07 
+"," 0.01 
+"," 90.46 
+"," 85499.39 
+"," 4.44 
+"
+values_944," 389 
+"," 32 
+"," 205 
+"," 43 
+"," 594 
+"," 75 
+"," 3699.92 
+"," 282226.33 
+"," 0.01 
+"," 76.28 
+"," 15679.24 
+"," 1.43 
+"
+values_573," 599 
+"," 32 
+"," 333 
+"," 111 
+"," 932 
+"," 143 
+"," 6673.00 
+"," 320304.00 
+"," 0.02 
+"," 48 
+"," 17794.67 
+"," 1.56 
+"
+values_712," 1316 
+"," 32 
+"," 814 
+"," 151 
+"," 2130 
+"," 183 
+"," 16008.44 
+"," 1380754.51 
+"," 0.01 
+"," 86.25 
+"," 76708.58 
+"," 4.13 
+"
+values_718," 1265 
+"," 32 
+"," 765 
+"," 153 
+"," 2030 
+"," 185 
+"," 15288.70 
+"," 1223096.35 
+"," 0.01 
+"," 80 
+"," 67949.80 
+"," 3.81 
+"
+values_3," 644 
+"," 32 
+"," 358 
+"," 127 
+"," 1002 
+"," 159 
+"," 7327.51 
+"," 330487.95 
+"," 0.02 
+"," 45.10 
+"," 18360.44 
+"," 1.59 
+"
+values_805," 762 
+"," 32 
+"," 445 
+"," 140 
+"," 1207 
+"," 172 
+"," 8963.50 
+"," 455858.08 
+"," 0.02 
+"," 50.86 
+"," 25325.45 
+"," 1.97 
+"
+values_98," 1396 
+"," 32 
+"," 865 
+"," 153 
+"," 2261 
+"," 185 
+"," 17028.45 
+"," 1540351.61 
+"," 0.01 
+"," 90.46 
+"," 85575.09 
+"," 4.45 
+"
+values_304," 987 
+"," 32 
+"," 589 
+"," 146 
+"," 1576 
+"," 178 
+"," 11781.76 
+"," 760488.13 
+"," 0.02 
+"," 64.55 
+"," 42249.34 
+"," 2.78 
+"
+values_897," 598 
+"," 32 
+"," 333 
+"," 112 
+"," 931 
+"," 144 
+"," 6675.20 
+"," 317548.81 
+"," 0.02 
+"," 47.57 
+"," 17641.60 
+"," 1.55 
+"
+values_153," 588 
+"," 32 
+"," 333 
+"," 111 
+"," 921 
+"," 143 
+"," 6594.24 
+"," 316523.59 
+"," 0.02 
+"," 48 
+"," 17584.64 
+"," 1.55 
+"
+values_368," 1422 
+"," 32 
+"," 865 
+"," 151 
+"," 2287 
+"," 183 
+"," 17188.41 
+"," 1575414.12 
+"," 0.01 
+"," 91.66 
+"," 87523.01 
+"," 4.51 
+"
+values_689," 959 
+"," 32 
+"," 589 
+"," 149 
+"," 1548 
+"," 181 
+"," 11609.76 
+"," 734297.93 
+"," 0.02 
+"," 63.25 
+"," 40794.33 
+"," 2.71 
+"
+values_830," 671 
+"," 32 
+"," 385 
+"," 133 
+"," 1056 
+"," 165 
+"," 7778.84 
+"," 360282.94 
+"," 0.02 
+"," 46.32 
+"," 20015.72 
+"," 1.69 
+"
+values_29," 1402 
+"," 32 
+"," 865 
+"," 152 
+"," 2267 
+"," 184 
+"," 17055.91 
+"," 1552985.94 
+"," 0.01 
+"," 91.05 
+"," 86277.00 
+"," 4.47 
+"
+values_301," 936 
+"," 32 
+"," 550 
+"," 148 
+"," 1486 
+"," 180 
+"," 11132.89 
+"," 661955.84 
+"," 0.02 
+"," 59.46 
+"," 36775.32 
+"," 2.53 
+"
+values_286," 627 
+"," 32 
+"," 358 
+"," 128 
+"," 985 
+"," 160 
+"," 7212.10 
+"," 322741.44 
+"," 0.02 
+"," 44.75 
+"," 17930.08 
+"," 1.57 
+"
+values_580," 405 
+"," 32 
+"," 214 
+"," 51 
+"," 619 
+"," 83 
+"," 3946.15 
+"," 264933.64 
+"," 0.01 
+"," 67.14 
+"," 14718.54 
+"," 1.38 
+"
+values_593," 581 
+"," 32 
+"," 333 
+"," 118 
+"," 914 
+"," 150 
+"," 6607.14 
+"," 298329.18 
+"," 0.02 
+"," 45.15 
+"," 16573.84 
+"," 1.49 
+"
+values_80," 444 
+"," 32 
+"," 238 
+"," 67 
+"," 682 
+"," 99 
+"," 4521.22 
+"," 256967.32 
+"," 0.02 
+"," 56.84 
+"," 14275.96 
+"," 1.35 
+"
+values_416," 672 
+"," 32 
+"," 385 
+"," 123 
+"," 1057 
+"," 155 
+"," 7690.86 
+"," 385168.45 
+"," 0.02 
+"," 50.08 
+"," 21398.25 
+"," 1.76 
+"
+values_305," 371 
+"," 32 
+"," 193 
+"," 33 
+"," 564 
+"," 65 
+"," 3396.62 
+"," 317840.86 
+"," 0.01 
+"," 93.58 
+"," 17657.83 
+"," 1.55 
+"
+values_142," 1481 
+"," 32 
+"," 918 
+"," 153 
+"," 2399 
+"," 185 
+"," 18067.78 
+"," 1734507.28 
+"," 0.01 
+"," 96 
+"," 96361.52 
+"," 4.81 
+"
+values_800," 921 
+"," 32 
+"," 550 
+"," 144 
+"," 1471 
+"," 176 
+"," 10972.82 
+"," 670561.46 
+"," 0.02 
+"," 61.11 
+"," 37253.41 
+"," 2.55 
+"
+values_661," 662 
+"," 32 
+"," 385 
+"," 125 
+"," 1047 
+"," 157 
+"," 7637.47 
+"," 376374.42 
+"," 0.02 
+"," 49.28 
+"," 20909.69 
+"," 1.74 
+"
+values_73," 588 
+"," 32 
+"," 333 
+"," 112 
+"," 921 
+"," 144 
+"," 6603.50 
+"," 314137.97 
+"," 0.02 
+"," 47.57 
+"," 17452.11 
+"," 1.54 
+"
+values_297," 455 
+"," 32 
+"," 253 
+"," 81 
+"," 708 
+"," 113 
+"," 4828.69 
+"," 241315.11 
+"," 0.02 
+"," 49.98 
+"," 13406.39 
+"," 1.29 
+"
+values_167," 677 
+"," 32 
+"," 385 
+"," 119 
+"," 1062 
+"," 151 
+"," 7687.19 
+"," 397924.91 
+"," 0.02 
+"," 51.76 
+"," 22106.94 
+"," 1.80 
+"
+values_594," 1161 
+"," 32 
+"," 718 
+"," 150 
+"," 1879 
+"," 182 
+"," 14107.15 
+"," 1080419.30 
+"," 0.01 
+"," 76.59 
+"," 60023.29 
+"," 3.51 
+"
+values_367," 496 
+"," 32 
+"," 270 
+"," 88 
+"," 766 
+"," 120 
+"," 5290.68 
+"," 259724.20 
+"," 0.02 
+"," 49.09 
+"," 14429.12 
+"," 1.36 
+"
+values_552," 1169 
+"," 32 
+"," 718 
+"," 153 
+"," 1887 
+"," 185 
+"," 14211.72 
+"," 1067086.29 
+"," 0.01 
+"," 75.08 
+"," 59282.57 
+"," 3.48 
+"
+values_608," 912 
+"," 32 
+"," 550 
+"," 141 
+"," 1462 
+"," 173 
+"," 10869.43 
+"," 678375.55 
+"," 0.02 
+"," 62.41 
+"," 37687.53 
+"," 2.57 
+"
+values_797," 423 
+"," 32 
+"," 225 
+"," 62 
+"," 648 
+"," 94 
+"," 4247.37 
+"," 246621.69 
+"," 0.02 
+"," 58.06 
+"," 13701.21 
+"," 1.31 
+"
+values_288," 381 
+"," 32 
+"," 198 
+"," 37 
+"," 579 
+"," 69 
+"," 3536.84 
+"," 302829.60 
+"," 0.01 
+"," 85.62 
+"," 16823.87 
+"," 1.50 
+"
+values_764," 470 
+"," 32 
+"," 253 
+"," 83 
+"," 723 
+"," 115 
+"," 4949.29 
+"," 241382.21 
+"," 0.02 
+"," 48.77 
+"," 13410.12 
+"," 1.29 
+"
+values_622," 761 
+"," 32 
+"," 445 
+"," 140 
+"," 1206 
+"," 172 
+"," 8956.08 
+"," 455480.40 
+"," 0.02 
+"," 50.86 
+"," 25304.47 
+"," 1.97 
+"
+values_785," 380 
+"," 32 
+"," 198 
+"," 36 
+"," 578 
+"," 68 
+"," 3518.55 
+"," 309632.71 
+"," 0.01 
+"," 88 
+"," 17201.82 
+"," 1.53 
+"
+values_676," 718 
+"," 32 
+"," 414 
+"," 126 
+"," 1132 
+"," 158 
+"," 8267.88 
+"," 434654.25 
+"," 0.02 
+"," 52.57 
+"," 24147.46 
+"," 1.91 
+"
+values_330," 862 
+"," 32 
+"," 513 
+"," 149 
+"," 1375 
+"," 181 
+"," 10312.29 
+"," 568075.58 
+"," 0.02 
+"," 55.09 
+"," 31559.75 
+"," 2.29 
+"
+values_595," 423 
+"," 32 
+"," 225 
+"," 61 
+"," 648 
+"," 93 
+"," 4237.37 
+"," 250074.58 
+"," 0.02 
+"," 59.02 
+"," 13893.03 
+"," 1.32 
+"
+values_968," 1048 
+"," 32 
+"," 630 
+"," 147 
+"," 1678 
+"," 179 
+"," 12557.84 
+"," 861109.23 
+"," 0.01 
+"," 68.57 
+"," 47839.40 
+"," 3.02 
+"
+values_503," 767 
+"," 32 
+"," 445 
+"," 135 
+"," 1212 
+"," 167 
+"," 8949.05 
+"," 471979.50 
+"," 0.02 
+"," 52.74 
+"," 26221.08 
+"," 2.02 
+"
+values_378," 1228 
+"," 32 
+"," 765 
+"," 151 
+"," 1993 
+"," 183 
+"," 14978.79 
+"," 1214174.75 
+"," 0.01 
+"," 81.06 
+"," 67454.15 
+"," 3.79 
+"
+values_610," 1321 
+"," 32 
+"," 814 
+"," 153 
+"," 2135 
+"," 185 
+"," 16079.50 
+"," 1368754.25 
+"," 0.01 
+"," 85.12 
+"," 76041.90 
+"," 4.11 
 "

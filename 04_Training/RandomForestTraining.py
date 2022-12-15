@@ -23,24 +23,9 @@ from sklearn.svm import SVR
 import pickle
 from sklearn.ensemble import RandomForestRegressor
 
-    
-def splitting(results):
-        col=results.columns
-        functions=['banker_algorithm','bellmanford','gcd','insertionsort','selectionsort','kruskal','bubble_sort','bfs','fibcall','binary_search','matrix_mult','qsort','quicksort','park_miller','mergesort']
-        training = pd.DataFrame(columns=col)
-        test = pd.DataFrame(columns=col)
-        data = pd.DataFrame(columns=col)
-        train=pd.DataFrame(columns=col)
-        test=pd.DataFrame(columns=col)
-        for f in functions:
-                if f=='matrixmult':
-                        t,tt=train_test_split(dataframe[dataframe['FUNCTION']=='matrix_mult'][0:2000], test_size=0.2)
-                t,tt=train_test_split(dataframe[dataframe['FUNCTION']==f][0:1000], test_size=0.2)
-                train=pd.merge(train,t,how='outer')
-                test=pd.merge(test,tt,how='outer')
-        return train,test
 
 iss=["Armv4t","Armv6-M","Atmega328P","Leon3"]
+
 for p in iss:
 # load dataset
         dataframe = read_csv("TotalParameterMatrix"+p+"Train.csv", skipinitialspace=True,sep=',', header = 0)
@@ -49,33 +34,70 @@ for p in iss:
 
         
 
-        x_train = np.concatenate((dataframe.to_numpy()[:,8:37],dataframe.to_numpy()[:,42:106]), axis=1)
-        y_train=dataframe.to_numpy()[:,38:42]
-        
+        x_train = np.concatenate((dataframe.to_numpy()[:,8:39],dataframe.to_numpy()[:,43:106]), axis=1)
+        y_train=dataframe.to_numpy()[:,39:42]
+        d={1:'text',2:'data',3:'bss'}
+        with open(os.getcwd()+"\\"+p+"\\RandomForest\\resultsTrain.csv",'w') as f:
+                writer = csv.writer(f)
+                writer.writerow(['id','depth','MSE','NRMSE','MAE','R2','time'])
 
-        for depth in [2,4,8,16]:
-                reg = RandomForestRegressor(n_estimators = depth)
-                training_t=time.time()
-                reg.fit(x_train, y_train)
-                training_t=time.time()-training_t
-                filename = os.getcwd()+'\\'+p+'\\RandomForest\depth'+str(depth)+'_Multi.sav'
-                pickle.dump(reg, open(filename, 'wb'))
-                print('training time for randomForest_'+p+'_depth'+str(depth)+'_Multi:'+str(training_t))
+                MSE=[]
+                MAE=[]
+                NRMSE=[]
+                R2=[]
                 
-
-        #single target
-        for i in [0,1,2,3,4]:
-    
-                
-                x_train = np.concatenate((dataframe.to_numpy()[:,8:(36+i)],dataframe.to_numpy()[:,(38+i):106]), axis=1)
-                y_train=dataframe.to_numpy()[:,(37+i)]
-
-                for depth in [2,4,8,16]:
-                        reg = RandomForestRegressor(n_estimators = depth)
+                for depth in [8,10,12,14,16]:
+                        reg = RandomForestRegressor(n_estimators= depth)
                         training_t=time.time()
                         reg.fit(x_train, y_train)
+                        pp=reg.predict(x_train)
                         training_t=time.time()-training_t
-                        filename = os.getcwd()+'\\'+p+'\RandomForest\depth'+str(depth)+'_'+firstline[37+i]+'.sav'
+                        filename = os.getcwd()+'\\'+p+'\\RandomForest\depth'+str(depth)+'_Multi.sav'
                         pickle.dump(reg, open(filename, 'wb'))
-                        print('training time for randomForest_'+p+'_depth'+str(depth)+'_'+firstline[37+i]+':'+str(training_t))
+
+                        timet=training_t
+                        MSE.append(np.round(metrics.mean_squared_error(y_train[:,0], pp[:,0]), 2))
+                        NRMSE.append(np.divide(MSE[0],np.std(y_train[:,0])))
+                        MAE.append(np.round(metrics.mean_absolute_error(y_train[:,0], pp[:,0]), 2))
+                        R2.append(np.round(metrics.r2_score(y_train[:,0], pp[:,0]), 2))
+                        
+                        MSE.append(np.round(metrics.mean_squared_error(y_train[:,1], pp[:,1]), 2))
+                        NRMSE.append(np.divide(MSE[1],np.std(y_train[:,1])))
+                        MAE.append(np.round(metrics.mean_absolute_error(y_train[:,1], pp[:,1]), 2))
+                        R2.append(np.round(metrics.r2_score(y_train[:,1], pp[:,1]), 2))
+
+                        MSE.append(np.round(metrics.mean_squared_error(y_train[:,2], pp[:,2]), 2))
+                        NRMSE.append(np.divide(MSE[2],np.std(y_train[:,2])))
+                        MAE.append(np.round(metrics.mean_absolute_error(y_train[:,2], pp[:,2]), 2))
+                        R2.append(np.round(metrics.r2_score(y_train[:,2], pp[:,2]), 2))
+
+
+                
+                        for x in range(1,4):
+                                writer.writerow(['multi, feature: '+d[x],depth,MSE[x-1],NRMSE[x-1],MAE[x-1],R2[x-1],training_t])
+                        MSE=[]
+                        MAE=[]
+                        NRMSE=[]
+                        R2=[]
+
+        #single target
+                for i in [0,1,2,3,4]:
+                        x_train = np.concatenate((dataframe.to_numpy()[:,8:(37+i)],dataframe.to_numpy()[:,(38+i):106]), axis=1)
+                        y_train=dataframe.to_numpy()[:,(37+i)]
+                        for depth in [8,10,12,14,16]:
+                                reg = RandomForestRegressor(n_estimators = depth)
+                                training_t=time.time()
+                                reg.fit(x_train, y_train)
+                                pp=reg.predict(x_train)
+                                training_t=time.time()-training_t
+
+                                filename = os.getcwd()+'\\'+p+'\RandomForest\depth'+str(depth)+'_'+firstline[37+i]+'.sav'
+                                pickle.dump(reg, open(filename, 'wb'))
+                                MSE=np.round(metrics.mean_squared_error(y_train, pp), 2)
+                                NRMSE=np.divide(MSE,np.std(y_train))
+                                MAE=np.round(metrics.mean_absolute_error(y_train, pp), 2)
+                                R2=np.round(metrics.r2_score(y_train, pp), 2)
+
+                                writer.writerow(['Single:'+firstline[(37+i)],depth,MSE,NRMSE,MAE,R2,training_t])
+        
 

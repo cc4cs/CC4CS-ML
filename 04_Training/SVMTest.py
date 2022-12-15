@@ -23,50 +23,63 @@ from sklearn.svm import SVR
 import pickle
 from sklearn.ensemble import RandomForestRegressor
 
-    
+feaature=['Total_Operands',  'ProgramLength', 'VocabularySize', 'ProgramVolume', 'Effort', 'ProgramLevel', 'ProgramLevel.1', 'DifficultyLevel', 'TimeToImplement', 'BugsDelivered', 'DecisionPoint', 'GlobalVariables', 'If', 'Loop', 'Assignment', 'CyclomaticComplexity', 'ARRAY_INPUT', 'RANGE_ARRAY_INPUT', 'cInstr', 'M_VAL_1', 'M_VAL_2', 'M_VAL_3', 'M_VAL_4', 'M_VAL_5', 'M_VAL_6', 'M_VAL_8', 'M_VAL_9', 'M_VAL_10', 'M_VAL_11', 'M_VAL_12', 'M_VAL_13', 'M_VAL_14', 'M_VAL_16', 'M_VAL_17', 'M_VAL_18', 'M_VAL_19', 'M_VAL_20', 'M_VAL_22', 'M_VAL_24', 'M_VAL_25', 'M_VAL_26', 'M_VAL_27', 'M_VAL_28', 'M_VAL_29', 'M_VAL_32', 'Sloc', 'PointerDereferencing', 'SCALAR_INPUT', 'RANGE_SCALAR_VALUES', 'V_VAL_1', 'V_VAL_2', 'V_VAL_3', 'V_VAL_5', 'V_VAL_6', 'V_VAL_7', 'V_VAL_8', 'V_VAL_9', 'V_VAL_10', 'V_VAL_11', 'V_VAL_12', 'V_VAL_13', 'V_VAL_14', 'V_VAL_15', 'V_VAL_16', 'V_VAL_17', 'V_VAL_18', 'V_VAL_19', 'V_VAL_20', 'V_VAL_21', 'V_VAL_22', 'V_VAL_23', 'Goto', 'ExitPoint', 'Function', 'FunctionCall', 'SCALAR_INDEX_INPUT', 'RANGE_SCALAR_INDEX_VALUES']
 MSE=[]
 MAE=[]
 NRMSE=[]
 R2=[]
-
 iss=["Armv4t","Armv6-M","Atmega328P","Leon3"]
+feature=[]
 for p in iss:
+        feaature.append('assemblyInstr')
+        feaature.append('clockCycles')
+        feaature.append('text')
+        feaature.append('data')
+        feaature.append('data')
+        feaature.append('bss')
+        dataframe = read_csv("TotalParameterMatrix"+p+"Test.csv", skipinitialspace=True,sep=',', header = 0)
+        for f in dataframe.columns.values:
+                if f not in feaature:
+                        feature.append(f)
+        dataframeFeature=dataframe.drop(feature,axis=1)
 # load dataset
         dataframe = read_csv("TotalParameterMatrix"+p+"Test.csv", skipinitialspace=True,sep=',', header = 0)
-        with open("TotalParameterMatrix"+p+"Train.csv") as f:
-                firstline = f.readline().rstrip().split(',')
+        with open("TotalParameterMatrix"+p+"Test.csv") as f:
+            firstline = f.readline().rstrip().split(',')
 
         
-
-        x_test = np.concatenate((dataframe.to_numpy()[:,8:37],dataframe.to_numpy()[:,42:106]), axis=1)
-        y_test=dataframe.to_numpy()[:,38:42]
-        print(y_test[:,0])
-        
-        with open(os.getcwd()+"\\"+p+"\\SVM\\results.csv",'w') as f:
-            writer = csv.writer(f)
-            writer.writerow(['id','depth','MSE','NRMSE','MAE','R2'])
-
             
+            with open(os.getcwd()+"\\"+p+"\\SVM\\resultsTest.csv",'w') as f:
+                writer = csv.writer(f)
+                writer.writerow(['id','MSE','NRMSE','MAE','R2','time'])
+                for i in [0,1,2,3,4]:
+                #single target
+                    x_test = np.concatenate((dataframe.to_numpy()[:,8:(37+i)],dataframe.to_numpy()[:,(38+i):106]), axis=1)
+                    y_test=dataframe.to_numpy()[:,(37+i)]
+                    testing_t=time.time()
+                    filename = os.getcwd()+'\\'+p+'\SVM\\'+firstline[37+i]+'.sav'
+                    reg=pickle.load(open(filename, 'rb'))
+                    pp=reg.predict(x_test)
+                    testing_t=time.time()-testing_t
+                    MSE=np.round(metrics.mean_squared_error(y_test, pp), 2)
+                    NRMSE=np.divide(MSE,np.std(y_test))
+                    MAE=np.round(metrics.mean_absolute_error(y_test, pp), 2)
+                    R2=np.round(metrics.r2_score(y_test, pp), 2)
+
+                    writer.writerow(['Single:'+firstline[(37+i)],MSE,NRMSE,MAE,R2,testing_t])
                 
-            
-            d={1: 'Assembly',2:'Clock',3:'text',4:'data',5:'bss'}
-            for depth in [2,4,8,16]:
-                for x in range(1,5):
-                    writer.writerow(['multi, feature: '+d[x],depth,MSE[x-1],NRMSE[x-1],MAE[x-1],R2[x-1]])
+                #single target
+                    x_test = np.concatenate((dataframeFeature.to_numpy()[:,0:(29+i)],dataframeFeature.to_numpy()[:,(30+i):len(dataframeFeature)]), axis=1)
+                    y_test=dataframe.to_numpy()[:,29+i]
+                    testing_t=time.time()
+                    filename = os.getcwd()+'\\'+p+'\SVM\FEATURE'+firstline[37+i]+'.sav'
+                    reg=pickle.load(open(filename, 'rb'))
+                    pp=reg.predict(x_test)
+                    print(len(pp))
+                    testing_t=time.time()-testing_t
+                    MSE=np.round(metrics.mean_squared_error(y_test, pp), 2)
+                    NRMSE=np.divide(MSE,np.std(y_test))
+                    MAE=np.round(metrics.mean_absolute_error(y_test, pp), 2)
+                    R2=np.round(metrics.r2_score(y_test, pp), 2)
 
-        #single target
-            for i in [0,1,2,3,4]:
-                x_test = np.concatenate((dataframe.to_numpy()[:,8:(36+i)],dataframe.to_numpy()[:,(38+i):106]), axis=1)
-                y_test=dataframe.to_numpy()[:,(37+i)]
-                testing_t=time.time()
-                filename = os.getcwd()+'\\'+p+'\SVM\depth'+str(depth)+'_'+firstline[37+i]+'.sav'
-                reg=pickle.load(open(filename, 'rb'))
-                pp=reg.predict(x_test)
-                testing_t=time.time()-testing_t
-                print('training time for SVM'+p+'_depth'+str(depth)+'_'+firstline[37+i]+':'+str(testing_t))
-                MSE=np.round(metrics.mean_squared_error(y_test, pp), 2)
-                NRMSE=np.divide(MSE,np.std(y_test))
-                MAE=np.round(metrics.mean_absolute_error(y_test, pp), 2)
-                R2=np.round(metrics.r2_score(y_test, pp), 2)
-
-                writer.writerow(['Single:'+firstline[(37+i)],depth,MSE,NRMSE,MAE,R2])
+                    writer.writerow(['Single, featureRemoved:'+firstline[(37+i)],MSE,NRMSE,MAE,R2,testing_t])

@@ -35,26 +35,24 @@ for p in iss:
 
         
 
-        x_test = np.concatenate((dataframe.to_numpy()[:,8:37],dataframe.to_numpy()[:,42:106]), axis=1)
-        y_test=dataframe.to_numpy()[:,38:42]
-        print(y_test[:,0])
-        
-        with open(os.getcwd()+"\\"+p+"\\REG_TREE\\results.csv",'w') as f:
+        x_test = np.concatenate((dataframe.to_numpy()[:,8:39],dataframe.to_numpy()[:,43:106]), axis=1)
+        y_test=dataframe.to_numpy()[:,39:42]
+        d={1:'text',2:'data',3:'bss'}
+        with open(os.getcwd()+"\\"+p+"\\REG_TREE\\resultsTest.csv",'w') as f:
             writer = csv.writer(f)
-            writer.writerow(['id','depth','MSE','NRMSE','MAE','R2'])
+            writer.writerow(['id','depth','MSE','NRMSE','MAE','R2','time'])
 
             MSE=[]
             MAE=[]
             NRMSE=[]
             R2=[]
-            for depth in [2,4,8,16]:
+            for depth in [8,10,12,16]:
                 filename = os.getcwd()+'\\'+p+'\\REG_TREE\depth'+str(depth)+'_Multi.sav'
                 reg=pickle.load(open(filename, 'rb'))
                 testing_t=time.time()
                 pp=reg.predict(x_test)
                 testing_t=time.time()-testing_t
-                print('training time for Decision tree'+p+'_depth'+str(depth)+'_Multi:'+str(testing_t))
-
+                
                 MSE.append(np.round(metrics.mean_squared_error(y_test[:,0], pp[:,0]), 2))
                 NRMSE.append(np.divide(MSE[0],np.std(y_test[:,0])))
                 MAE.append(np.round(metrics.mean_absolute_error(y_test[:,0], pp[:,0]), 2))
@@ -70,34 +68,31 @@ for p in iss:
                 MAE.append(np.round(metrics.mean_absolute_error(y_test[:,2], pp[:,2]), 2))
                 R2.append(np.round(metrics.r2_score(y_test[:,2], pp[:,2]), 2))
 
-                MSE.append(np.round(metrics.mean_squared_error(y_test[:,3], pp[:,3]), 2))
-                NRMSE.append(np.divide(MSE[3],np.std(y_test[:,3])))
-                MAE.append(np.round(metrics.mean_absolute_error(y_test[:,3], pp[:,3]), 2))
-                R2.append(np.round(metrics.r2_score(y_test[:,3], pp[:,3]), 2))
-
 
                 
             
-            d={1: 'Assembly',2:'Clock',3:'text',4:'data',5:'bss'}
-            for depth in [2,4,8,16]:
-                for x in range(1,5):
-                    writer.writerow(['multi, feature: '+d[x],depth,MSE[x-1],NRMSE[x-1],MAE[x-1],R2[x-1]])
+            
+                for x in range(1,4):
+                    writer.writerow(['multi, feature: '+d[x],depth,MSE[x-1],NRMSE[x-1],MAE[x-1],R2[x-1],testing_t])
+                MSE=[]
+                MAE=[]
+                NRMSE=[]
+                R2=[]
 
         #single target
             for i in [0,1,2,3,4]:
-                x_test = np.concatenate((dataframe.to_numpy()[:,8:(36+i)],dataframe.to_numpy()[:,(38+i):106]), axis=1)
+                x_test = np.concatenate((dataframe.to_numpy()[:,8:(37+i)],dataframe.to_numpy()[:,(38+i):106]), axis=1)
                 y_test=dataframe.to_numpy()[:,(37+i)]
 
-                for depth in [2,4,8,16]:
+                for depth in [8,10,12,16]:
                     testing_t=time.time()
                     filename = os.getcwd()+'\\'+p+'\REG_TREE\depth'+str(depth)+'_'+firstline[37+i]+'.sav'
                     reg=pickle.load(open(filename, 'rb'))
                     pp=reg.predict(x_test)
                     testing_t=time.time()-testing_t
-                    print('training time for decision tree'+p+'_depth'+str(depth)+'_'+firstline[37+i]+':'+str(testing_t))
                     MSE=np.round(metrics.mean_squared_error(y_test, pp), 2)
                     NRMSE=np.divide(MSE,np.std(y_test))
                     MAE=np.round(metrics.mean_absolute_error(y_test, pp), 2)
                     R2=np.round(metrics.r2_score(y_test, pp), 2)
 
-                    writer.writerow(['Single:'+firstline[(37+i)],depth,MSE,NRMSE,MAE,R2])
+                    writer.writerow(['Single:'+firstline[(37+i)],depth,MSE,NRMSE,MAE,R2,testing_t])

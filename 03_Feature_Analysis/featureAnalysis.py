@@ -20,7 +20,7 @@ df = pd.read_csv('TotalParameterMatrixWithInputs.csv', sep=';')
 del df['Unnamed: 0']
 
 listHeader = list(df.columns.values)
-y = df[listHeader[39]].astype(float)
+y = df[listHeader[38]].astype(float)
 del listHeader[35:41]
 del listHeader[:5]
 del listHeader[-3]

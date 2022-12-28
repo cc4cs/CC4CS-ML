@@ -9,8 +9,10 @@ from sklearn import metrics
 from sklearn.preprocessing import StandardScaler
 from sklearn.pipeline import Pipeline
 from sklearn.tree import DecisionTreeRegressor
+from keras.models import load_model
 import matplotlib.pyplot as plt
 import numpy as np
+from sklearn.metrics import r2_score as r2_score_sk
 from keras.layers.activation import LeakyReLU
 import tensorflow as tf
 import math
@@ -23,124 +25,108 @@ import statistics
 from sklearn.model_selection import train_test_split
 from sklearn.model_selection import GroupShuffleSplit 
 from sklearn.svm import SVR
+from keras import backend as K
 import pickle
 from sklearn.ensemble import RandomForestRegressor
 
 
-feaature=['Total_Operands',  'ProgramLength', 'VocabularySize', 'ProgramVolume', 'Effort', 'ProgramLevel', 'ProgramLevel.1', 'DifficultyLevel', 'TimeToImplement', 'BugsDelivered', 'DecisionPoint', 'GlobalVariables', 'If', 'Loop', 'Assignment', 'CyclomaticComplexity', 'ARRAY_INPUT', 'RANGE_ARRAY_INPUT', 'cInstr', 'M_VAL_1', 'M_VAL_2', 'M_VAL_3', 'M_VAL_4', 'M_VAL_5', 'M_VAL_6', 'M_VAL_8', 'M_VAL_9', 'M_VAL_10', 'M_VAL_11', 'M_VAL_12', 'M_VAL_13', 'M_VAL_14', 'M_VAL_16', 'M_VAL_17', 'M_VAL_18', 'M_VAL_19', 'M_VAL_20', 'M_VAL_22', 'M_VAL_24', 'M_VAL_25', 'M_VAL_26', 'M_VAL_27', 'M_VAL_28', 'M_VAL_29', 'M_VAL_32', 'Sloc', 'PointerDereferencing', 'SCALAR_INPUT', 'RANGE_SCALAR_VALUES', 'V_VAL_1', 'V_VAL_2', 'V_VAL_3', 'V_VAL_5', 'V_VAL_6', 'V_VAL_7', 'V_VAL_8', 'V_VAL_9', 'V_VAL_10', 'V_VAL_11', 'V_VAL_12', 'V_VAL_13', 'V_VAL_14', 'V_VAL_15', 'V_VAL_16', 'V_VAL_17', 'V_VAL_18', 'V_VAL_19', 'V_VAL_20', 'V_VAL_21', 'V_VAL_22', 'V_VAL_23', 'Goto', 'ExitPoint', 'Function', 'FunctionCall', 'SCALAR_INDEX_INPUT', 'RANGE_SCALAR_INDEX_VALUES']
+
 MSE=[]
 MAE=[]
 NRMSE=[]
+featuremin=[]
 R2=[]
 iss=["Armv4t","Armv6-M","Atmega328P","Leon3"]
 feature=[]
 for p in iss:
-# load dataset
-        feaature.append('assemblyInstr')
-        feaature.append('clockCycles')
-        feaature.append('text')
-        feaature.append('data')
-        feaature.append('data')
-        feaature.append('bss')
-        dataframe = read_csv("TotalParameterMatrix"+p+"Train.csv", skipinitialspace=True,sep=',', header = 0)
-        for f in dataframe.columns.values:
-                if f not in feaature:
-                        feature.append(f)
-        dataframeFeature=dataframe.drop(feature,axis=1)
         with open("TotalParameterMatrix"+p+"Train.csv") as f:
             firstline = f.readline().rstrip().split(',')
-
-        
-
-        #x_train = np.concatenate((dataframe.to_numpy()[:,8:37],dataframe.to_numpy()[:,42:106]), axis=1)
-        #y_train=dataframe.to_numpy()[:,38:42]
-        
         with open(os.getcwd()+"\\"+p+"\\NN\\resultsTrain.csv",'w') as f:
                 writer = csv.writer(f)
-                writer.writerow(['id','MSE','MAE','RMSE','time'])
+                writer.writerow(['id','epochs','MSE','MAE','RMSPE','RMSE','R2','time','MAPE'])
 
-                """ MSE=[]
-                MAE=[]
-                NRMSE=[]
-                R2=[]
-                
-                for depth in [8,10,12,14,16]:
-                        # define the keras model
-                        training_t=time.time()
-                        reg = Sequential()
-                        reg.add(Dense(12, input_shape=(92,), activation='relu'))
-                        reg.add(Dense(92, activation='relu'))
-                        reg.add(Dense(1, activation='sigmoid'))
-                        reg.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
-                        reg.fit(x_train.astype(np.float32),y_train.astype(np.float32), epochs=150, batch_size=10)
-                        pp=reg.predict(x_train.astype(np.float32))
-                        training_t=time.time()-training_t
-                        filename = os.getcwd()+'\\'+p+'\\NN\depth'+str(depth)+'_Multi.sav'
-                        pickle.dump(reg, open(filename, 'wb'))
-
-                        timet=training_t
-                        MSE.append(np.round(metrics.mean_squared_error(y_train[:,0], pp[:,0]), 2))
-                        NRMSE.append(np.divide(MSE[0],np.std(y_train[:,0])))
-                        MAE.append(np.round(metrics.mean_absolute_error(y_train[:,0], pp[:,0]), 2))
-                        R2.append(np.round(metrics.r2_score(y_train[:,0], pp[:,0]), 2))
-                        
-                        MSE.append(np.round(metrics.mean_squared_error(y_train[:,1], pp[:,1]), 2))
-                        NRMSE.append(np.divide(MSE[1],np.std(y_train[:,1])))
-                        MAE.append(np.round(metrics.mean_absolute_error(y_train[:,1], pp[:,1]), 2))
-                        R2.append(np.round(metrics.r2_score(y_train[:,1], pp[:,1]), 2))
-
-                        MSE.append(np.round(metrics.mean_squared_error(y_train[:,2], pp[:,2]), 2))
-                        NRMSE.append(np.divide(MSE[2],np.std(y_train[:,2])))
-                        MAE.append(np.round(metrics.mean_absolute_error(y_train[:,2], pp[:,2]), 2))
-                        R2.append(np.round(metrics.r2_score(y_train[:,2], pp[:,2]), 2))
-
-                        MSE.append(np.round(metrics.mean_squared_error(y_train[:,3], pp[:,3]), 2))
-                        NRMSE.append(np.divide(MSE[3],np.std(y_train[:,3])))
-                        MAE.append(np.round(metrics.mean_absolute_error(y_train[:,3], pp[:,3]), 2))
-                        R2.append(np.round(metrics.r2_score(y_train[:,3], pp[:,3]), 2))
-
-                d={1: 'Assembly',2:'Clock',3:'text',4:'data',5:'bss'}
-                for depth in [8,10,12,14,16]:
-                        for x in range(1,5):
-                                writer.writerow(['multi, feature: '+d[x],depth,MSE[x-1],NRMSE[x-1],MAE[x-1],R2[x-1],timet]) """
-
-        #single target
                 cvscores = []
                 for i in [0,1,2,3,4]:
-                        x_train = np.concatenate((dataframe.to_numpy()[:,8:(37+i)],dataframe.to_numpy()[:,(38+i):106]), axis=1)
-                        y_train=dataframe.to_numpy()[:,(37+i)]
-                        #for ep in [150,250,500,1000]:
-                        training_t=time.time()
-                        reg = tf.keras.Sequential()
-                        reg.add(Dense(12, input_shape=(96,), activation='relu'))
-                        reg.add(Dense(8, activation='relu'))
-                        reg.add(Dense(1, activation='sigmoid'))
-                        reg.compile(loss='mean_squared_error', optimizer='SGD', metrics=['MeanAbsoluteError','RootMeanSquaredError'])
-                        reg.fit(np.asarray(x_train).astype(np.float32), np.asarray(y_train).astype(np.float32), epochs=64,batch_size=12000)
-                        scores = reg.evaluate(np.asarray(x_train).astype(np.float32), np.asarray(y_train).astype(np.float32), verbose=0)
-                        print(scores)
-                        training_t=time.time()-training_t
-                        filename = os.getcwd()+'\\'+p+'\\NN\\depth'+'_'+firstline[37+i]+'.sav'
-                        pickle.dump(reg, open(filename, 'wb'))
+                        if(i==0):
+                                featureMin=['Total_Operands', 'DistinctOperands', 'ProgramLength', 'VocabularySize', 'ProgramVolume', 'Effort', 'ProgramLevel', 'ProgramLevel.1', 'DifficultyLevel', 'TimeToImplement', 'BugsDelivered', 'DecisionPoint', 'GlobalVariables', 'If', 'Loop', 'Assignment', 'CyclomaticComplexity', 'ARRAY_INPUT', 'RANGE_ARRAY_INPUT', 'cInstr', 'M_VAL_1', 'M_VAL_2', 'M_VAL_3', 'M_VAL_4', 'M_VAL_5', 'M_VAL_6', 'M_VAL_8', 'M_VAL_9', 'M_VAL_10', 'M_VAL_11', 'M_VAL_12', 'M_VAL_13', 'M_VAL_14', 'M_VAL_16', 'M_VAL_17', 'M_VAL_18', 'M_VAL_19', 'M_VAL_20', 'M_VAL_22', 'M_VAL_24', 'M_VAL_25', 'M_VAL_26', 'M_VAL_27', 'M_VAL_28', 'M_VAL_29', 'M_VAL_32']
+                        if(i==1):
+                                featureMin=['Total_Operands', 'DistinctOperands', 'ProgramLength', 'VocabularySize', 'ProgramVolume', 'Effort', 'ProgramLevel', 'ProgramLevel.1', 'DifficultyLevel', 'TimeToImplement', 'BugsDelivered', 'Sloc', 'DecisionPoint', 'GlobalVariables', 'If', 'Loop', 'Assignment', 'CyclomaticComplexity', 'ARRAY_INPUT', 'RANGE_ARRAY_INPUT', 'cInstr', 'M_VAL_1', 'M_VAL_2', 'M_VAL_3', 'M_VAL_4', 'M_VAL_5', 'M_VAL_6', 'M_VAL_8', 'M_VAL_9', 'M_VAL_10', 'M_VAL_11', 'M_VAL_12', 'M_VAL_14', 'M_VAL_16', 'M_VAL_17', 'M_VAL_18', 'M_VAL_19', 'M_VAL_22', 'M_VAL_24', 'M_VAL_25', 'M_VAL_26', 'M_VAL_27', 'M_VAL_28', 'M_VAL_32']
+                        if(i==2):
+                                featureMin=['Total_Operands', 'DistinctOperands', 'ProgramLength', 'VocabularySize', 'ProgramVolume', 'Effort', 'ProgramLevel', 'ProgramLevel.1', 'DifficultyLevel', 'TimeToImplement', 'BugsDelivered', 'Sloc', 'DecisionPoint', 'GlobalVariables', 'If', 'Loop', 'Assignment', 'PointerDereferencing', 'CyclomaticComplexity', 'SCALAR_INPUT', 'RANGE_SCALAR_VALUES', 'ARRAY_INPUT', 'cInstr', 'V_VAL_1', 'V_VAL_2', 'V_VAL_3', 'V_VAL_5', 'V_VAL_6', 'V_VAL_7', 'V_VAL_8', 'V_VAL_9', 'V_VAL_10', 'V_VAL_11', 'V_VAL_12', 'V_VAL_13', 'V_VAL_14', 'V_VAL_15', 'V_VAL_16', 'V_VAL_17', 'V_VAL_18', 'V_VAL_19', 'V_VAL_20', 'V_VAL_21', 'V_VAL_22', 'V_VAL_23', 'M_VAL_1', 'M_VAL_6']
+                        if(i==3):
+                                featureMin=['Total_Operands', 'DistinctOperands', 'ProgramLength', 'VocabularySize', 'ProgramVolume', 'Effort', 'TimeToImplement', 'BugsDelivered', 'Sloc', 'DecisionPoint', 'GlobalVariables', 'If', 'Loop', 'Goto', 'Assignment', 'ExitPoint', 'Function', 'FunctionCall', 'CyclomaticComplexity', 'SCALAR_INDEX_INPUT', 'RANGE_SCALAR_INDEX_VALUES', 'ARRAY_INPUT', 'cInstr', 'V_VAL_1', 'V_VAL_2', 'V_VAL_5', 'M_VAL_1', 'M_VAL_2', 'M_VAL_6', 'M_VAL_9', 'M_VAL_10', 'M_VAL_14', 'M_VAL_17', 'M_VAL_18', 'M_VAL_22', 'M_VAL_25', 'M_VAL_26']
+                        if(i==4):
+                                featureMin=['Total_Operands', 'DistinctOperands', 'ProgramLength', 'VocabularySize', 'ProgramVolume', 'Effort', 'DifficultyLevel', 'TimeToImplement', 'BugsDelivered', 'Sloc', 'DecisionPoint', 'GlobalVariables', 'If', 'Loop', 'Goto', 'Assignment', 'ExitPoint', 'Function', 'FunctionCall', 'PointerDereferencing', 'CyclomaticComplexity', 'SCALAR_INDEX_INPUT', 'RANGE_SCALAR_INDEX_VALUES', 'ARRAY_INPUT', 'cInstr', 'V_VAL_1', 'V_VAL_2', 'V_VAL_3', 'M_VAL_1', 'M_VAL_2']
+                        featureMin.append('assemblyInstr')
+                        featureMin.append('clockCycles')
+                        featureMin.append('text')
+                        featureMin.append('data')
+                        featureMin.append('data')
+                        featureMin.append('bss')
 
+                        dataframe = read_csv("TotalParameterMatrix"+p+"Train.csv", skipinitialspace=True,sep=',', header = 0)
+                        for f in dataframe.columns.values:
+                                if f not in featureMin:
+                                        feature.append(f)
+                        dataframeFeatureMin=dataframe.drop(feature,axis=1)
+                       
 
-                        writer.writerow(['Single:'+firstline[(37+i)],scores[0],scores[1],scores[2],training_t])
+                        count=0
+                        for x in dataframeFeatureMin.columns:
+                                if(x!='assemblyInstr'):
+                                        count=count+1
+                                else:
+                                        break
+                                
+                        x_train = np.concatenate((dataframeFeatureMin.to_numpy()[:,0:(count+i)],dataframeFeatureMin.to_numpy()[:,(count+1+i):len(dataframeFeatureMin)]), axis=1)
+                        y_train=dataframeFeatureMin.to_numpy()[:,count+i]
+                        for ep in [150,250,500,1000,1300]:
+                                
+                                training_t=time.time()
+                                reg = tf.keras.Sequential([
+                        layers.Dense(12,kernel_initializer='normal', activation='relu', input_shape=[len(x_train[0,:])]),
+                        layers.Dense(8, activation='relu'),
+                        layers.Dense(1, activation='linear')
+                        ])
+                                optimizer = tf.keras.optimizers.RMSprop(0.001)
+                                
+                                reg.compile(loss='mse',optimizer=optimizer,metrics=['mae', 'mse'])
+                                
+                                reg.fit(np.asarray(x_train).astype(np.float32), np.asarray(y_train).astype(np.float32), epochs=ep,batch_size=600,validation_split = 0.2)
+                                scores = reg.evaluate(np.asarray(x_train).astype(np.float32), np.asarray(y_train).astype(np.float32), verbose=0)
+                                pp=reg.predict(np.asarray(x_train).astype(np.float32))
 
-                        x_train = np.concatenate((dataframeFeature.to_numpy()[:,0:(29+i)],dataframeFeature.to_numpy()[:,(30+i):len(dataframeFeature)]), axis=1)
-                        y_train=dataframe.to_numpy()[:,29+i]
-                        #for ep in [150,250,500,1000]:
-                        training_t=time.time()
-                        reg = tf.keras.Sequential()
-                        reg.add(Dense(12, input_shape=(81,), activation='relu'))
-                        reg.add(Dense(8, activation='relu'))
-                        reg.add(Dense(1, activation='sigmoid'))
-                        reg.compile(loss='mean_squared_error', optimizer='SGD', metrics=['MeanAbsoluteError','RootMeanSquaredError'])
-                        reg.fit(np.asarray(x_train).astype(np.float32), np.asarray(y_train).astype(np.float32), epochs=64,batch_size=12000)
-                        scores = reg.evaluate(np.asarray(x_train).astype(np.float32), np.asarray(y_train).astype(np.float32), verbose=0)
-                        print(scores)
-                        training_t=time.time()-training_t
-                        filename = os.getcwd()+'\\'+p+'\\NN\\depth'+'_'+firstline[37+i]+'.sav'
-                        pickle.dump(reg, open(filename, 'wb'))
+                                training_t=time.time()-training_t
+                                filename = os.getcwd()+'\\'+p+'\\NN\\Epoch'+str(ep)+'_'+dataframeFeatureMin.columns[count+i]+'.h5'
+                                
+                                reg.save(filename)
+                                R2=np.round(metrics.r2_score(y_train, pp), 2)
+                                y_train0=[]
+                                pp0=[]
+                                for c in range(0,len(y_train)):
+                                        if y_train[c]!=0:
+                                                y_train0.append(y_train[c])
+                                                pp0.append(pp[c])
+                                
+                                rmspe=(np.sqrt(np.mean(np.square(np.divide((np.array(y_train0) - np.array(pp0)), np.array(y_train0)))))) * 100
+                                MAPE=np.mean(np.abs(np.divide(np.array(y_train0) - np.array(pp0) , np.array(y_train0)))) * 100
+                                plt.figure()
+                                plt.scatter(y_train,pp)
+                                plt.xlabel('True Values')
+                                plt.ylabel('Predictions')
+                                plt.plot(500, 500)
+                                plt.savefig(os.getcwd()+'\\'+p+'\\NN\\Epoch'+str(ep)+'_'+dataframeFeatureMin.columns[count+i]+'residual.png')
+                                plt.close()
 
+                                plt.figure()
+                                error = y_train - pp
+                                plt.hist(error)
+                                plt.xlabel("Prediction Error")
+                                _ = plt.ylabel("Count")
+                                plt.savefig(os.getcwd()+'\\'+p+'\\NN\\Epoch'+str(ep)+'_'+dataframeFeatureMin.columns[count+i]+'error.png')
+                                plt.close() 
 
-                        writer.writerow(['Single, feature removed:'+firstline[(37+i)],scores[0],scores[1],scores[2],training_t])
+                                
+                                writer.writerow(['Single, feature removed:'+dataframeFeatureMin.columns[count+i],ep,scores[0],scores[1],rmspe,scores[2],R2,training_t,MAPE])
+
+                        

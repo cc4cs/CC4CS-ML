@@ -1,0 +1,11 @@
+{	
+	"args" : ["TARGET_INDEX size", "TARGET_TYPE arr[size]"],
+	"ALL":
+	{
+		"int8_t":
+		{
+			"size" : "[2,28];1000",
+			"arr[size]" : "[-126,126]"
+		}
+	}
+}

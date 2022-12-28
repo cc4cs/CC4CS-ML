@@ -1,0 +1,10 @@
+;DEVICE;BOARD;FUNCTION;DATA_TYPE;DATA_START;DATA_RANGE;RANGE_SI
+1;armulator;ARMV4T;select;int8_t;2.0;26.0;3
+2;armulator;ARMV4T;shell_sort;int8_t;2.0;26.0;3
+3;armulator;ARMV4T;straight_sort;int8_t;2.0;26.0;3
+4;simulavr;Atmega328p;select;int8_t;2.0;26.0;3
+5;simulavr;Atmega328p;straight_sort;int8_t;2.0;26.0;3
+6;thumbulator;ARMV6-M;shell_sort;int8_t;2.0;26.0;3
+7;thumbulator;ARMV6-M;straight_sort;int8_t;2.0;26.0;3
+8;tsim;Leon3;shell_sort;int8_t;2.0;26.0;3
+9;tsim;Leon3;straight_sort;int8_t;2.0;26.0;3

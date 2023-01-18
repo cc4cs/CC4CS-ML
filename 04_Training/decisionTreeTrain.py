@@ -130,7 +130,7 @@ for p in iss:
                                 rmspe=(np.sqrt(np.mean(np.square(np.divide((np.array(y_train0) - np.array(pp0)), np.array(y_train0)))))) * 100
                                 MAPE=np.mean(np.abs(np.divide(np.array(y_train0) - np.array(pp0) , np.array(y_train0)))) * 100
                                 
-                                plt.figure()
+                                """ plt.figure()
                                 plt.scatter(y_train,pp)
                                 plt.xlabel('True Values')
                                 plt.ylabel('Predictions')
@@ -140,11 +140,11 @@ for p in iss:
 
                                 plt.figure()
                                 error = y_train - pp
-                                plt.hist(error)
+                                plt.boxplot(error,whis=1.5)
                                 plt.xlabel("Prediction Error")
                                 _ = plt.ylabel("Count")
                                 plt.savefig(os.getcwd()+'\\'+p+'\\REG_TREE\depth'+str(depth)+'_Single_'+firstline[37+i]+'Error.png')
-                                plt.close()
+                                plt.close() """
                                 
                                 writer.writerow(['Single:'+firstline[37+i],depth,MSE,NRMSE,rmspe,MAE,R2,training_t,MAPE])
         

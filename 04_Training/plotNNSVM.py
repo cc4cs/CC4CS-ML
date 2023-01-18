@@ -55,7 +55,7 @@ for p in iss:
     plt.plot(depth, RMSPEd[4],'brown',label='SVM: Bss')
     plt.plot(depth, RMSPEr[4],'brown',linestyle='dashed',label='Neural network: Bss')
     plt.legend(loc='upper left')
-    plt.xlabel('1 : Linear/ 150, 2: poly 2/ 250 ,3 : Linear/ 500, 4: poly 4 / 1000 , 5: rbf/ 1300')
+    plt.xlabel('1 : Linear/ 150, 2: poly 2/ 250 ,3 : poly 3/ 500, 4: poly 4 / 1000 , 5: rbf/ 1300')
     plt.title("RMSPE")
     
     plt.subplot(2, 2, 2)
@@ -71,7 +71,7 @@ for p in iss:
     plt.plot(depth, NRMSEd[4],'brown',label='SVM: Bss')
     plt.plot(depth, NRMSEr[4],'brown',linestyle='dashed',label='Neural network: Bss')
     plt.legend(loc='upper left')
-    plt.xlabel('1 : Linear/ 150, 2: poly 2/ 250 ,3 : Linear/ 500, 4: poly 4 / 1000 , 5: rbf/ 1300')
+    plt.xlabel('1 : Linear/ 150, 2: poly 2/ 250 ,3 : poly 3/ 500, 4: poly 4 / 1000 , 5: rbf/ 1300')
     plt.title("NRMSE")
 
     plt.subplot(2, 2, 3)
@@ -86,7 +86,7 @@ for p in iss:
     plt.plot(depth, timed[4],'brown',label='SVM: Bss')
     plt.plot(depth, timer[4],'brown',linestyle='dashed',label='Neural network: Bss')
     plt.legend(loc='upper left')
-    plt.xlabel('1 : Linear/ 150, 2: poly 2/ 250 ,3 : Linear/ 500, 4: poly 4 / 1000 , 5: rbf/ 1300')
+    plt.xlabel('1 : Linear/ 150, 2: poly 2/ 250 ,3 : poly 3/ 500, 4: poly 4 / 1000 , 5: rbf/ 1300')
     plt.title("time")
 
     plt.subplot(2, 2, 4)
@@ -102,7 +102,7 @@ for p in iss:
     plt.plot(depth, MAPEd[4],'brown',label='SVM: Bss')
     plt.plot(depth, MAPEr[4],'brown',linestyle='dashed',label='Neural network: Bss')
     plt.legend(loc='upper left')
-    plt.xlabel('1 : Linear/ 150, 2: poly 2/ 250 ,3 : Linear/ 500, 4: poly 4 / 1000 , 5: rbf/ 1300')
+    plt.xlabel('1 : Linear/ 150, 2: poly 2/ 250 ,3 : poly 3/ 500, 4: poly 4 / 1000 , 5: rbf/ 1300')
     plt.title("MAPE")
     plt.savefig(os.getcwd()+'\\'+p+'\GGeneral.png')
 
@@ -122,7 +122,7 @@ for p in iss:
         plt.plot(depth, MSEd,'r',label='SVM')
         plt.plot(depth, MSEr,'g',label='Neural network')
         plt.legend(loc='upper left')
-        plt.xlabel('1 : Linear/ 150, 2: poly 2/ 250 ,3 : Linear/ 500, 4: poly 4 / 1000 , 5: rbf/ 1300')
+        plt.xlabel('1 : Linear/ 150, 2: poly 2/ 250 ,3 : poly 3/ 500, 4: poly 4 / 1000 , 5: rbf/ 1300')
         plt.title(title+": RMSE")
 
 
@@ -131,7 +131,7 @@ for p in iss:
         plt.plot(depth, MAEr,'g',label='Neural network')
         plt.title(title+": MAE")
         plt.legend(loc='upper left')
-        plt.xlabel('1 : Linear/ 150, 2: poly 2/ 250 ,3 : Linear/ 500, 4: poly 4 / 1000 , 5: rbf/ 1300')
+        plt.xlabel('1 : Linear/ 150, 2: poly 2/ 250 ,3 : poly 3/ 500, 4: poly 4 / 1000 , 5: rbf/ 1300')
         plt.plot()
 
         count=count+2

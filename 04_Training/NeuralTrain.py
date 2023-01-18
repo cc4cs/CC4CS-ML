@@ -41,26 +41,63 @@ feature=[]
 for p in iss:
         with open("TotalParameterMatrix"+p+"Train.csv") as f:
             firstline = f.readline().rstrip().split(',')
-        with open(os.getcwd()+"\\"+p+"\\NN\\resultsTrain.csv",'w') as f:
+        with open(os.getcwd()+"\\"+p+"\\DNeuralNetwork\\resultsTrain.csv",'w') as f:
                 writer = csv.writer(f)
                 writer.writerow(['id','epochs','MSE','MAE','RMSPE','RMSE','R2','time','MAPE'])
 
                 cvscores = []
                 for i in [0,1,2,3,4]:
                         if(i==0):
-                                featureMin=['Total_Operands', 'DistinctOperands', 'ProgramLength', 'VocabularySize', 'ProgramVolume', 'Effort', 'ProgramLevel', 'ProgramLevel.1', 'DifficultyLevel', 'TimeToImplement', 'BugsDelivered', 'DecisionPoint', 'GlobalVariables', 'If', 'Loop', 'Assignment', 'CyclomaticComplexity', 'ARRAY_INPUT', 'RANGE_ARRAY_INPUT', 'cInstr', 'M_VAL_1', 'M_VAL_2', 'M_VAL_3', 'M_VAL_4', 'M_VAL_5', 'M_VAL_6', 'M_VAL_8', 'M_VAL_9', 'M_VAL_10', 'M_VAL_11', 'M_VAL_12', 'M_VAL_13', 'M_VAL_14', 'M_VAL_16', 'M_VAL_17', 'M_VAL_18', 'M_VAL_19', 'M_VAL_20', 'M_VAL_22', 'M_VAL_24', 'M_VAL_25', 'M_VAL_26', 'M_VAL_27', 'M_VAL_28', 'M_VAL_29', 'M_VAL_32']
+                                if(p=="Armv4t"):
+                                        featureMin=['Total_Operands', 'ProgramLength', 'ProgramVolume', 'Effort', 'DifficultyLevel', 'TimeToImplement', 'BugsDelivered', 'cInstr']
+                                if(p=="Armv6-M"):
+                                        featureMin=['Total_Operands', 'DistinctOperands', 'ProgramLength', 'VocabularySize', 'ProgramVolume', 'Effort', 'ProgramLevel.1', 'DifficultyLevel', 'TimeToImplement', 'BugsDelivered', 'GlobalVariables', 'Loop', 'CyclomaticComplexity', 'ARRAY_INPUT', 'cInstr', 'M_VAL_1', 'M_VAL_2', 'M_VAL_3', 'M_VAL_4', 'M_VAL_5', 'M_VAL_6', 'M_VAL_7', 'M_VAL_8', 'M_VAL_9', 'M_VAL_10', 'M_VAL_11', 'M_VAL_12', 'M_VAL_13', 'M_VAL_14', 'M_VAL_15', 'M_VAL_16', 'M_VAL_17', 'M_VAL_18', 'M_VAL_19', 'M_VAL_20', 'M_VAL_21', 'M_VAL_22', 'M_VAL_23', 'M_VAL_24', 'M_VAL_25', 'M_VAL_26', 'M_VAL_27', 'M_VAL_28', 'M_VAL_29', 'M_VAL_31', 'M_VAL_32']
+                                if(p=="Atmega328P"):
+                                        featureMin=['ProgramLength', 'DifficultyLevel', 'cInstr']
+                                if(p=="Leon3"):
+                                        featureMin=['Total_Operands', 'DistinctOperands', 'ProgramLength', 'VocabularySize', 'ProgramVolume', 'Effort', 'ProgramLevel', 'ProgramLevel.1', 'DifficultyLevel', 'TimeToImplement', 'BugsDelivered', 'GlobalVariables', 'ARRAY_INPUT', 'cInstr', 'M_VAL_1', 'M_VAL_2', 'M_VAL_3', 'M_VAL_4', 'M_VAL_5', 'M_VAL_6', 'M_VAL_7', 'M_VAL_8', 'M_VAL_9', 'M_VAL_10', 'M_VAL_11', 'M_VAL_12', 'M_VAL_13', 'M_VAL_14', 'M_VAL_15', 'M_VAL_16', 'M_VAL_17', 'M_VAL_18', 'M_VAL_19', 'M_VAL_20', 'M_VAL_21', 'M_VAL_22', 'M_VAL_23', 'M_VAL_24', 'M_VAL_25', 'M_VAL_26', 'M_VAL_27', 'M_VAL_28', 'M_VAL_29', 'M_VAL_31', 'M_VAL_32']
                         if(i==1):
-                                featureMin=['Total_Operands', 'DistinctOperands', 'ProgramLength', 'VocabularySize', 'ProgramVolume', 'Effort', 'ProgramLevel', 'ProgramLevel.1', 'DifficultyLevel', 'TimeToImplement', 'BugsDelivered', 'Sloc', 'DecisionPoint', 'GlobalVariables', 'If', 'Loop', 'Assignment', 'CyclomaticComplexity', 'ARRAY_INPUT', 'RANGE_ARRAY_INPUT', 'cInstr', 'M_VAL_1', 'M_VAL_2', 'M_VAL_3', 'M_VAL_4', 'M_VAL_5', 'M_VAL_6', 'M_VAL_8', 'M_VAL_9', 'M_VAL_10', 'M_VAL_11', 'M_VAL_12', 'M_VAL_14', 'M_VAL_16', 'M_VAL_17', 'M_VAL_18', 'M_VAL_19', 'M_VAL_22', 'M_VAL_24', 'M_VAL_25', 'M_VAL_26', 'M_VAL_27', 'M_VAL_28', 'M_VAL_32']
+                                if(p=="Armv4t"):
+                                        featureMin=['Total_Operands', 'ProgramLength', 'ProgramVolume', 'Effort', 'DifficultyLevel', 'TimeToImplement', 'BugsDelivered', 'cInstr']
+                                if(p=="Armv6-M"):
+                                        featureMin=['Total_Operands', 'DistinctOperands', 'ProgramLength', 'VocabularySize', 'ProgramVolume', 'Effort', 'ProgramLevel', 'DifficultyLevel', 'TimeToImplement', 'BugsDelivered', 'GlobalVariables', 'ARRAY_INPUT', 'cInstr', 'M_VAL_1', 'M_VAL_2', 'M_VAL_3', 'M_VAL_4', 'M_VAL_5', 'M_VAL_6', 'M_VAL_7', 'M_VAL_8', 'M_VAL_9', 'M_VAL_10', 'M_VAL_11', 'M_VAL_12', 'M_VAL_13', 'M_VAL_14', 'M_VAL_15', 'M_VAL_16', 'M_VAL_17', 'M_VAL_18', 'M_VAL_19', 'M_VAL_20', 'M_VAL_21', 'M_VAL_22', 'M_VAL_23', 'M_VAL_24', 'M_VAL_25', 'M_VAL_26', 'M_VAL_27', 'M_VAL_28', 'M_VAL_29', 'M_VAL_31', 'M_VAL_32']
+                                if(p=="Atmega328P"):
+                                        featureMin=['ProgramLength', 'Effort', 'cInstr']
+                                if(p=="Leon3"):
+                                        featureMin=['Total_Operands', 'DistinctOperands', 'ProgramLength', 'VocabularySize', 'ProgramVolume', 'Effort', 'ProgramLevel.1', 'DifficultyLevel', 'TimeToImplement', 'BugsDelivered', 'GlobalVariables', 'Loop', 'ARRAY_INPUT', 'cInstr', 'M_VAL_1', 'M_VAL_2', 'M_VAL_3', 'M_VAL_4', 'M_VAL_5', 'M_VAL_6', 'M_VAL_7', 'M_VAL_8', 'M_VAL_9', 'M_VAL_10', 'M_VAL_11', 'M_VAL_12', 'M_VAL_13', 'M_VAL_14', 'M_VAL_15', 'M_VAL_16', 'M_VAL_17', 'M_VAL_18', 'M_VAL_19', 'M_VAL_20', 'M_VAL_21', 'M_VAL_22', 'M_VAL_23', 'M_VAL_24', 'M_VAL_25', 'M_VAL_26', 'M_VAL_27', 'M_VAL_28', 'M_VAL_29', 'M_VAL_31', 'M_VAL_32']
                         if(i==2):
-                                featureMin=['Total_Operands', 'DistinctOperands', 'ProgramLength', 'VocabularySize', 'ProgramVolume', 'Effort', 'ProgramLevel', 'ProgramLevel.1', 'DifficultyLevel', 'TimeToImplement', 'BugsDelivered', 'Sloc', 'DecisionPoint', 'GlobalVariables', 'If', 'Loop', 'Assignment', 'PointerDereferencing', 'CyclomaticComplexity', 'SCALAR_INPUT', 'RANGE_SCALAR_VALUES', 'ARRAY_INPUT', 'cInstr', 'V_VAL_1', 'V_VAL_2', 'V_VAL_3', 'V_VAL_5', 'V_VAL_6', 'V_VAL_7', 'V_VAL_8', 'V_VAL_9', 'V_VAL_10', 'V_VAL_11', 'V_VAL_12', 'V_VAL_13', 'V_VAL_14', 'V_VAL_15', 'V_VAL_16', 'V_VAL_17', 'V_VAL_18', 'V_VAL_19', 'V_VAL_20', 'V_VAL_21', 'V_VAL_22', 'V_VAL_23', 'M_VAL_1', 'M_VAL_6']
+                                if(p=="Armv4t"):
+                                        featureMin=['VocabularySize', 'Sloc', 'DecisionPoint', 'GlobalVariables', 'If', 'Loop', 'Goto', 'Assignment', 'ExitPoint', 'Function', 'FunctionCall', 'PointerDereferencing', 'CyclomaticComplexity', 'ARRAY_INPUT']
+                                if(p=="Armv6-M"):
+                                        featureMin=['Total_Operands', 'ProgramLength', 'VocabularySize', 'ProgramVolume', 'Effort', 'DifficultyLevel', 'TimeToImplement', 'BugsDelivered', 'Sloc', 'DecisionPoint', 'GlobalVariables', 'If', 'Loop', 'Goto', 'Assignment', 'CyclomaticComplexity', 'SCALAR_INPUT', 'RANGE_SCALAR_VALUES', 'SCALAR_INDEX_INPUT', 'RANGE_SCALAR_INDEX_VALUES', 'ARRAY_INPUT', 'RANGE_ARRAY_INPUT', 'SV_VAL_1', 'V_VAL_1', 'V_VAL_2', 'V_VAL_3', 'V_VAL_4', 'V_VAL_6', 'M_VAL_1', 'M_VAL_3', 'M_VAL_6', 'M_VAL_22']
+                                if(p=="Atmega328P"):
+                                        featureMin=['Total_Operands', 'DistinctOperands', 'ProgramLength', 'VocabularySize', 'ProgramVolume', 'Effort', 'ProgramLevel', 'ProgramLevel.1', 'DifficultyLevel', 'TimeToImplement', 'BugsDelivered', 'Sloc', 'DecisionPoint', 'GlobalVariables', 'If', 'Loop', 'Goto', 'Assignment', 'ExitPoint', 'Function', 'FunctionCall', 'PointerDereferencing', 'CyclomaticComplexity', 'M_VAL_1', 'M_VAL_17']
+
+                                if(p=="Leon3"):
+                                        featureMin=['VocabularySize', 'Sloc', 'DecisionPoint', 'GlobalVariables', 'If', 'Loop', 'Assignment', 'ExitPoint', 'Function', 'FunctionCall', 'PointerDereferencing', 'CyclomaticComplexity', 'ARRAY_INPUT', 'V_VAL_2', 'M_VAL_1', 'M_VAL_3', 'M_VAL_20']
                         if(i==3):
-                                featureMin=['Total_Operands', 'DistinctOperands', 'ProgramLength', 'VocabularySize', 'ProgramVolume', 'Effort', 'TimeToImplement', 'BugsDelivered', 'Sloc', 'DecisionPoint', 'GlobalVariables', 'If', 'Loop', 'Goto', 'Assignment', 'ExitPoint', 'Function', 'FunctionCall', 'CyclomaticComplexity', 'SCALAR_INDEX_INPUT', 'RANGE_SCALAR_INDEX_VALUES', 'ARRAY_INPUT', 'cInstr', 'V_VAL_1', 'V_VAL_2', 'V_VAL_5', 'M_VAL_1', 'M_VAL_2', 'M_VAL_6', 'M_VAL_9', 'M_VAL_10', 'M_VAL_14', 'M_VAL_17', 'M_VAL_18', 'M_VAL_22', 'M_VAL_25', 'M_VAL_26']
+                                if(p=="Armv4t"):
+                                        featureMin=['Total_Operands', 'DistinctOperands', 'ProgramLength', 'ProgramVolume', 'TimeToImplement', 'BugsDelivered', 'M_VAL_9', 'M_VAL_10', 'M_VAL_14', 'M_VAL_18', 'M_VAL_22']
+                                if(p=="Armv6-M"):
+                                        featureMin=['DistinctOperands', 'VocabularySize', 'Effort', 'Sloc', 'DecisionPoint', 'GlobalVariables', 'If', 'Loop', 'Assignment', 'ExitPoint', 'Function', 'FunctionCall', 'CyclomaticComplexity', 'SCALAR_INDEX_INPUT', 'RANGE_SCALAR_INDEX_VALUES', 'ARRAY_INPUT', 'RANGE_ARRAY_INPUT', 'V_VAL_1', 'V_VAL_2', 'V_VAL_3', 'V_VAL_4', 'V_VAL_5', 'V_VAL_6', 'M_VAL_1']
+                                if(p=="Atmega328P"):
+                                        featureMin=['Total_Operands', 'ProgramLength', 'ProgramVolume', 'BugsDelivered', 'cInstr', 'M_VAL_2', 'M_VAL_6', 'M_VAL_9', 'M_VAL_10', 'M_VAL_14', 'M_VAL_18', 'M_VAL_22', 'M_VAL_25', 'M_VAL_26']
+                                if(p=="Leon3"):
+                                        featureMin=['Total_Operands', 'DistinctOperands', 'ProgramLength', 'VocabularySize', 'ProgramVolume', 'Effort', 'DifficultyLevel', 'TimeToImplement', 'BugsDelivered', 'GlobalVariables', 'Loop', 'PointerDereferencing', 'SCALAR_INPUT', 'RANGE_SCALAR_VALUES', 'ARRAY_INPUT', 'cInstr', 'V_VAL_1', 'V_VAL_2', 'V_VAL_3', 'V_VAL_4', 'V_VAL_5', 'V_VAL_6', 'V_VAL_7', 'V_VAL_8', 'V_VAL_9', 'V_VAL_11', 'V_VAL_12', 'M_VAL_1', 'M_VAL_2', 'M_VAL_3', 'M_VAL_4', 'M_VAL_5', 'M_VAL_6', 'M_VAL_7', 'M_VAL_8', 'M_VAL_9', 'M_VAL_10', 'M_VAL_11', 'M_VAL_12', 'M_VAL_13', 'M_VAL_14', 'M_VAL_16', 'M_VAL_17', 'M_VAL_18', 'M_VAL_19', 'M_VAL_20', 'M_VAL_21', 'M_VAL_22', 'M_VAL_23', 'M_VAL_24', 'M_VAL_25', 'M_VAL_26', 'M_VAL_27', 'M_VAL_28', 'M_VAL_29', 'M_VAL_31', 'M_VAL_32']
+
                         if(i==4):
-                                featureMin=['Total_Operands', 'DistinctOperands', 'ProgramLength', 'VocabularySize', 'ProgramVolume', 'Effort', 'DifficultyLevel', 'TimeToImplement', 'BugsDelivered', 'Sloc', 'DecisionPoint', 'GlobalVariables', 'If', 'Loop', 'Goto', 'Assignment', 'ExitPoint', 'Function', 'FunctionCall', 'PointerDereferencing', 'CyclomaticComplexity', 'SCALAR_INDEX_INPUT', 'RANGE_SCALAR_INDEX_VALUES', 'ARRAY_INPUT', 'cInstr', 'V_VAL_1', 'V_VAL_2', 'V_VAL_3', 'M_VAL_1', 'M_VAL_2']
+                                if(p=="Armv4t"):
+                                        featureMin=['Total_Operands', 'DistinctOperands', 'ProgramLength', 'VocabularySize', 'ProgramVolume', 'Effort', 'TimeToImplement', 'BugsDelivered', 'Sloc', 'DecisionPoint', 'If', 'CyclomaticComplexity', 'ARRAY_INPUT', 'cInstr', 'M_VAL_9', 'M_VAL_18', 'M_VAL_22', 'M_VAL_25']
+                                if(p=="Armv6-M"):
+                                        featureMin=['DistinctOperands', 'VocabularySize', 'Effort', 'TimeToImplement', 'Sloc', 'GlobalVariables', 'Loop', 'Assignment', 'FunctionCall', 'SCALAR_INPUT', 'RANGE_SCALAR_VALUES', 'SCALAR_INDEX_INPUT', 'RANGE_SCALAR_INDEX_VALUES', 'ARRAY_INPUT', 'RANGE_ARRAY_INPUT', 'SV_VAL_1', 'V_VAL_1', 'V_VAL_2', 'V_VAL_3', 'V_VAL_4', 'V_VAL_5', 'V_VAL_6', 'M_VAL_1']
+                                if(p=="Atmega328P"):
+                                        featureMin=['Total_Operands', 'DistinctOperands', 'ProgramLength', 'VocabularySize', 'ProgramVolume', 'TimeToImplement', 'BugsDelivered', 'DecisionPoint', 'If', 'Loop', 'CyclomaticComplexity', 'ARRAY_INPUT', 'M_VAL_9', 'M_VAL_18']  
+                                if(p=="Leon3"):
+                                        featureMin=['DistinctOperands', 'ProgramLength', 'VocabularySize', 'ProgramVolume', 'Effort', 'DifficultyLevel', 'TimeToImplement', 'BugsDelivered', 'DecisionPoint', 'GlobalVariables', 'If', 'Loop', 'Function', 'PointerDereferencing', 'CyclomaticComplexity', 'SCALAR_INPUT', 'RANGE_SCALAR_VALUES', 'SCALAR_INDEX_INPUT', 'RANGE_SCALAR_INDEX_VALUES', 'ARRAY_INPUT', 'RANGE_ARRAY_INPUT', 'cInstr', 'V_VAL_1', 'V_VAL_2', 'V_VAL_3', 'V_VAL_4', 'V_VAL_5', 'V_VAL_6', 'V_VAL_7', 'V_VAL_8', 'V_VAL_9', 'V_VAL_10', 'V_VAL_11', 'V_VAL_12', 'V_VAL_13', 'V_VAL_14', 'M_VAL_1', 'M_VAL_2', 'M_VAL_3', 'M_VAL_4', 'M_VAL_5', 'M_VAL_6', 'M_VAL_7', 'M_VAL_8', 'M_VAL_9', 'M_VAL_10', 'M_VAL_11', 'M_VAL_12', 'M_VAL_14', 'M_VAL_16', 'M_VAL_17', 'M_VAL_18', 'M_VAL_19', 'M_VAL_22', 'M_VAL_24', 'M_VAL_25', 'M_VAL_26', 'M_VAL_27', 'M_VAL_28', 'M_VAL_29', 'M_VAL_32']
+
                         featureMin.append('assemblyInstr')
                         featureMin.append('clockCycles')
                         featureMin.append('text')
-                        featureMin.append('data')
                         featureMin.append('data')
                         featureMin.append('bss')
 
@@ -97,7 +134,7 @@ for p in iss:
                                 pp=reg.predict(np.asarray(x_train).astype(np.float32))
 
                                 training_t=time.time()-training_t
-                                filename = os.getcwd()+'\\'+p+'\\NN\\Epoch'+str(ep)+'_'+dataframeFeatureMin.columns[count+i]+'.h5'
+                                filename = os.getcwd()+'\\'+p+'\\DNeuralNetwork\\Epoch'+str(ep)+'_'+dataframeFeatureMin.columns[count+i]+'.h5'
                                 
                                 reg.save(filename)
                                 R2=np.round(metrics.r2_score(y_train, pp), 2)
@@ -110,22 +147,22 @@ for p in iss:
                                 
                                 rmspe=(np.sqrt(np.mean(np.square(np.divide((np.array(y_train0) - np.array(pp0)), np.array(y_train0)))))) * 100
                                 MAPE=np.mean(np.abs(np.divide(np.array(y_train0) - np.array(pp0) , np.array(y_train0)))) * 100
-                                plt.figure()
+                                """ plt.figure()
                                 plt.scatter(y_train,pp)
                                 plt.xlabel('True Values')
                                 plt.ylabel('Predictions')
                                 plt.plot(500, 500)
-                                plt.savefig(os.getcwd()+'\\'+p+'\\NN\\Epoch'+str(ep)+'_'+dataframeFeatureMin.columns[count+i]+'residual.png')
+                                plt.savefig(os.getcwd()+'\\'+p+'\\DNeuralNetwork\\Epoch'+str(ep)+'_'+dataframeFeatureMin.columns[count+i]+'residual.png')
                                 plt.close()
 
                                 plt.figure()
                                 error = y_train - pp
-                                plt.hist(error)
+                                plt.boxplot(error)
                                 plt.xlabel("Prediction Error")
                                 _ = plt.ylabel("Count")
-                                plt.savefig(os.getcwd()+'\\'+p+'\\NN\\Epoch'+str(ep)+'_'+dataframeFeatureMin.columns[count+i]+'error.png')
+                                plt.savefig(os.getcwd()+'\\'+p+'\\DNeuralNetwork\\Epoch'+str(ep)+'_'+dataframeFeatureMin.columns[count+i]+'error.png')
                                 plt.close() 
-
+ """
                                 
                                 writer.writerow(['Single, feature removed:'+dataframeFeatureMin.columns[count+i],ep,scores[0],scores[1],rmspe,scores[2],R2,training_t,MAPE])
 

@@ -68,73 +68,52 @@ for p in iss:
         timen=NNTest.to_numpy()[i,7]
         MAPEn=NNTest.to_numpy()[i,8]
 
-        plt.figure(figsize=(9, 3))
-        plt.subplot(2,3,1)
+        plt.figure(figsize=(13, 6))
+        plt.title(title)
+        plt.subplot(2,2,1)
+        plt.yscale('log')
+        bars = ('Random Forest','Decision Tree','NN','SVM')
+        y_pos = np.arange(len(bars))
+        plt.title("RMSPE")
+        # Create bars
+        plt.bar(y_pos, [RMSPEr,RMSPEd,RMSPEn,RMSPEs])
+
+        # Create names on the x-axis
+        plt.xticks(y_pos, bars)
+
+
+        plt.subplot(2,2,2)
+        plt.yscale('log')
+        bars = ('Random Forest','Decision Tree','NN','SVM')
+        y_pos = np.arange(len(bars))
+        plt.title("NRMSE")
+        # Create bars
+        plt.bar(y_pos, [NRMSEr,NRMSEd,NRMSEn,NRMSEs])
+
+        # Create names on the x-axis
+        plt.xticks(y_pos, bars)
+
+
+        plt.subplot(2,2,3)
+        plt.yscale('log')
+        bars = ('Random Forest','Decision Tree','NN','SVM')
+        y_pos = np.arange(len(bars))
+        # Create bars
+        plt.bar(y_pos, [MAPEr,MAPEd,MAPEn,MAPEs])
+        plt.title("MAPE")
+        plt.xticks(y_pos, bars)
+
+        plt.subplot(2,2,4)
+        plt.yscale('log')
+        bars = ('Random Forest','Decision Tree','NN','SVM')
+        y_pos = np.arange(len(bars))
+        # Create bars
+        plt.bar(y_pos, [timer,timed,timen,times])
+        plt.title("Time")
+
+        # Create names on the x-axis
+        plt.xticks(y_pos, bars)
+
         
-        bars = ('RMSPE Random Forest','RMSPE Decision Tree')
-        y_pos = np.arange(len(bars))
-
-        # Create bars
-        plt.bar(y_pos, [RMSPEr,RMSPEd])
-
-        # Create names on the x-axis
-        plt.xticks(y_pos, bars)
-
-
-        plt.subplot(2,3,2)
-        bars = ('NRMSE Random Forest','NRMSE Decision Tree')
-        y_pos = np.arange(len(bars))
-
-        # Create bars
-        plt.bar(y_pos, [NRMSEr,NRMSEd])
-
-        # Create names on the x-axis
-        plt.xticks(y_pos, bars)
-
-
-        plt.subplot(2,3,3)
-        bars = ('MAPE Random Forest','MAPE Decision Tree')
-        y_pos = np.arange(len(bars))
-        # Create bars
-        plt.bar(y_pos, [RMSPEs,RMSPEn])
-
-        # Create names on the x-axis
-        plt.xticks(y_pos, bars)
-
-        plt.subplot(2,3,4)
-        
-        bars = ('RMSPE SVM','RMSPE NN')
-        y_pos = np.arange(len(bars))
-
-        # Create bars
-        plt.bar(y_pos, [RMSPEs,RMSPEn])
-
-        # Create names on the x-axis
-        plt.xticks(y_pos, bars)
-
-
-        plt.subplot(2,3,5)
-        bars = ('NRMSE SVM','NRMSE NN')
-        y_pos = np.arange(len(bars))
-
-        # Create bars
-        plt.bar(y_pos, [RMSPEs,RMSPEn])
-
-        # Create names on the x-axis
-        plt.xticks(y_pos, bars)
-
-
-        plt.subplot(2,3,6)
-        bars = ('MAPE SVM','MAPE NN')
-        y_pos = np.arange(len(bars))
-
-        plt.suptitle('Processor: '+p+', Target: '+title, fontsize=10)
-
-        # Create bars
-        plt.bar(y_pos, [RMSPEs,RMSPEn])
-
-        # Create names on the x-axis
-        plt.xticks(y_pos, bars)
-
         # Show graphic
-        plt.show()
+        plt.savefig('barplot'+p)

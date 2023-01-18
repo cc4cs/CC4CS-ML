@@ -85,7 +85,7 @@ for p in iss:
 
                 plt.figure()
                 error = y_train - pp
-                plt.hist(error)
+                plt.boxplot(error)
                 plt.xlabel("Prediction Error")
                 _ = plt.ylabel("Count")
                 plt.savefig(os.getcwd()+'\\'+p+'\\REG_TREE\depth'+str(str(dictt[i+1]))+'_Single_'+firstline[37+i]+'TestError.png')
@@ -144,7 +144,7 @@ for p in iss:
 
                 plt.figure()
                 error = y_train - pp
-                plt.hist(error)
+                plt.boxplot(error,whis=1.5)
                 plt.xlabel("Prediction Error")
                 _ = plt.ylabel("Count")
                 plt.savefig(os.getcwd()+'\\'+p+'\\RandomForest\depth'+str(str(dictt[i+1]))+'_Single_'+firstline[37+i]+'TestError.png')
